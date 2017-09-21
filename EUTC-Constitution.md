@@ -27,7 +27,7 @@
 
 1.3.10 The society believes that discrimination or harassment, direct or indirect, based on a person’s gender, age (except where it relates to licensing laws), race, skin colour, nationality, religious belief, socio-economic background, disability, HIV status, sexual orientation, gender reassignment, family situation, domestic responsibilities or any other irrelevant distinction, is detrimental to the society, the university and wider society, and will not be tolerated. See 8.2
 
-1.4 The Constitution and Standing Orders shall be available at all times to any member of the EUTC. Any motion passed without access to this document is invalid.
+1.4 The Constitution and Standing Orders shall be available at all times to any member of the EUTC. Any motion passed without access to this document is invalid. The secretary shall be responsible for maintaining paper copies of these documents.
 
 2.0 The Company
 
