@@ -9,6 +9,5 @@ script:
 deploy:
   provider: releases
   file: "*.pdf"
+  file_glob: true
   skip_cleanup: true
-  on:
-    tags: true
