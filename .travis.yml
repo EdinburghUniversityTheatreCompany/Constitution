@@ -1,4 +1,6 @@
 language: node_js
+node_js:
+  - "lts/*"
 branches:
   only:
     - master
@@ -9,6 +11,5 @@ script:
 deploy:
   provider: releases
   file: "*.pdf"
+  file_glob: true
   skip_cleanup: true
-  on:
-    tags: true
