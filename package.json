@@ -1,0 +1,12 @@
+{
+  "name": "eutc-constitution-pdf-maker",
+  "version": "0.0.1",
+  "description": "Package to parse the constitution MD into a PDF for distribution.",
+  "main": "index.js",
+  "repository": "https://github.com/EdinburghUniversityTheatreCompany/Constitution",
+  "author": "Robert Phipps",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-pdf": "^8.0.0"
+  }
+}

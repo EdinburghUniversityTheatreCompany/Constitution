@@ -1,0 +1,14 @@
+language: node_js
+branches:
+  only:
+    - master
+install:
+  - npm install -g markdown-pdf
+script:
+  - markdown-pdf EUTC-Constitution.md
+deploy:
+  provider: releases
+  file: "EUTC-Constitution.pdf"
+  skip_cleanup: true
+  on:
+    tags: true
