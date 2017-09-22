@@ -77,4 +77,19 @@ __If at any time you are unsure of what you need to do, ask the Productions Mana
     * A Mainterm slot is traditionally a larger scale show.
     * Any change to the run indicated in the proposal has to be proposed at a Company Meeting at least three weeks before the run begins.
 * Annual Event
-    *
+    * Annual Events take place annually in roughly the same place in the schedule each year. The Productions Manager and the President decide at which GMs these are proposed. The Annual Events currently put on every year are:
+        * Freshers’ Week (Festival)
+        * Freshers’ Play
+        * Freshers’ Slots
+        * The Panto
+        * Student/Bedlam Festival (Festival)
+    * Annual Event proposals must have their budgets passed by the Business Manager. Ask the Productions Manager for more details if you are thinking of proposing for one of them.
+* Extraordinary
+    * Extraordinary slots are for any production or event which cannot reasonably meet the criteria of the above. It can be any kind of production which does not fall into a festival/annual event category.
+    * These kind of events are for more experienced teams pushing the boundaries of what
+Bedlam does, and what it can do.
+    * Any proposal for an Extraordinary show that clashes with another EUTC show cannot go through. This includes allocated show slots.
+    * There is no standing budget for Extraordinaries. However productions of this kind need to make back the entire budget from the EUTC through ticket sales and fundraising.
+    * Extraordinary budgets must be passed by the Business Manager before submission.
+* Business, Fundraising, and Budget Advice
+
