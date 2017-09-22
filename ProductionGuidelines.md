@@ -91,5 +91,47 @@ Bedlam does, and what it can do.
     * Any proposal for an Extraordinary show that clashes with another EUTC show cannot go through. This includes allocated show slots.
     * There is no standing budget for Extraordinaries. However productions of this kind need to make back the entire budget from the EUTC through ticket sales and fundraising.
     * Extraordinary budgets must be passed by the Business Manager before submission.
-* Business, Fundraising, and Budget Advice
+## Business, Fundraising, and Budget Advice
+* Keep track of the rights.
+* The budget for your show should cover all costs, from lighting hire, costumes, rights, publicity, set design, plus 10% contingency (for emergencies). You must stick to the budget. All budgets should be passed by the Business Manager before proposing.
+* Any budget increases or changes must be proposed at a Committee Meeting, and with consultation of the Business Manager. No one wants to have to retroactively fundraise.
+* Each production will be required to submit a deposit check. The Business Manager will tell you how much it is. Deposit checks can be in the form of a check, or an envelope containing the correct cash. The check may be cashed for:
+    * Missing rehearsal space with less than 24hr notice. Inform the secretary if you think this is going to happen.
+    * Breaking things. Broken property of the Company may be replaced with money from the deposit.
+    * Rehearsal space left in a mess. This includes the kitchen area when rehearsing in Bedlam. Clean up after yourselves.
+    * Incomplete get-in or get-out. Put everything away and tidy up after your performance.
+    * Missing training. All members of the production team must attend DM training.
+* Invoices for any expense should be placed in Business Manager’s pigeonhole. This is the same for any receipts for reimbursements – remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be payed urgently (such as rights), as well as keeping them up to date on your expenditure.
+* Fundraisers can be proposed at any meeting of the Committee, every Thursday at 18:30. You
+should give Committee as much notice as possible. Committee can reject a fundraiser if it
+clashes with another EUTC event, or if there is insufficient evidence to vote on it. To propose a
+fundraiser you should explain the following:
+    * What you are intending to do.
+    * How and where you are intending to do it.
+    * A time and a date.
+    * How much you are intending to fundraise.
+* **All fundraised cash should be banked with the Business Manager.** You cannot spend any of
+the fundraised money without it first being checked with the Business Manager.
+* Anything you purchase with your show budget **is the property of the Company.**
+* Keep a careful note of your budget. Remind all crew that they are not to spend ANY MONEY
+without the producer’s say-so and that they MUST give you a receipt if they want to be
+reimbursed.
+* Any tech hires must be approved by the Technical Manager.
+* If you have any problems, or questions for clarification there is a Business resources section on
+the Bedlam website. If this does not answer your question then please talk to the Business
+Manager.
+
+## Rights
+
+* If your piece is original writing by a member of the company then you will not need to pay for rights!
+    * As a side note all original writing should be sent to the Bedlam Librarian: library@bedlamtheatre.co.uk
+* Published versions of the play should include details of who to contact. Get rights ASAP. It sometimes takes a while for them to come through. You will need to inform them of the length of your run. Some playwrights will not allow any changes to the script, others may allow a certain amount; check this to avoid hassle later.
+    * Rights are LEGALLY needed for rehearsals to begin which is why you should organise aprospective license/license invoice before the GM so you can send this to Business Manager for quick payment.
+    * Allow 2 weeks in your schedule for rights to be paid so get them submitted ASAP after the GM
+* To avoid paying too much, stress that it is an amateur production, by a non-profit making theatre company, in a student theatre with a capacity under 100.
+* Check that the playwright is VAT registered as we can claim VAT back.
+* You can ask actors to buy their own copy of the script. If you are going to photocopy them you should do it yourself and collect money from each cast member to pay for it. Scripts are not included in the show budget for copyright reasons.
+
+## Auditions and Casting
+
 
