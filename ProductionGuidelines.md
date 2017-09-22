@@ -28,7 +28,7 @@ Checklist
 * Sign up for staffing. Make your cast sign up for staffing.
 * Fill in your producer TMQs on the Bedlam Website. Tickets can then go on sale.
 * Publicize your show. Put up posters around the uni, send posters to the FOH manager. 
-*     Proof all designs before they go out: make sure they include the correct dates, Bedlam logo, and address. Run them by the Marketing Manager. Dates are particularly important.
+    * Proof all designs before they go out: make sure they include the correct dates, Bedlam logo, and address. Run them by the Marketing Manager. Dates are particularly important.
 * Complete Theatre Manager Questionnaires (TMQs) -Stage, Tech, and Producer - which are located on the website. These will be on your show page.
 * Arrange a post show discussion with the Productions Manager.
 
