@@ -1,4 +1,4 @@
-Edinburgh University Theatre Society - Constitution and Standing Orders
+Edinburgh University Theatre Society - Constitution
 ==================
 
 1.0. Introduction
