@@ -256,3 +256,62 @@ ctions Manager. Have your cast list ready with second and third choices just in 
 
 * Theatres are second only to cardboard box factories in flammability. If you intend to have any of these in the performance you MUST discuss it with the Theatre Manager, and follow these regulations:
    * Naked flames/candles/pyrotechnics – can only be done with the permission of the Theatre Manager, who will liaise with the fire department.
+   * Lasers – these need permission from the council which can take up to two months to come through.
+   * Smoking  – is NOT permitted anywhere in the building, by law. If a show requires smoking, there are prop cigarettes in the prop store. Remember to put it in your Questionnaires if a smoke effect is being used at any point as the fire alarm has to be isolated.
+   * Firearms – these need permission from the police. This can take some time so ask early. Speak to the Set Manager and the Theatre Manager.
+   * Theatrical weapons – do not need permission from the police, but have nasty regulations surrounding transportation etc. Check with the Set Manager and Theatre Manager if you are unsure. The Bedlam has a Smith & Wesson cowboy style pistol and for general ease can be used instead of traipsing round Edinburgh looking for one. Bedlam also has a starter pistol with bright orange parts that makes a nice sound, but doesn’t look as realistic. Speak to the Set Manager and Theatre Manager if you want to use them and be aware that they may ask to put a box of blanks on your budget assuming you want to use blanks rather than a convincing sound effect (hint hint).
+   * Weapons, real or theatrical, must only be used on the stage. If they are used in rehearsal they must be locked back in the armory at the end. This applies to performances as well.
+ 
+ ## Tech 
+ 
+* Before production week (the week before the show goes up) a rig plan should have been produced and attached to your tech questionnaire. The Tech Manager of your show should consult the tech manager of the building regarding the rig plan and their technical plans for the show so as to make sure that they are safe and comply with building regulations, but also so that the tech manager is able to prioritise the maintenance of required equipment. The Tech Manager of your show must also discuss hires with the tech manager - both, to make sure that you are not missing out on better deals the tech manager may be aware of, but much more so that the tech manager is aware of equipment that is hired regularly and can look into purchasing that equipment for the building.
+* Rigging usually takes place in production week once the rig has been cleared from the last show. The tech manager of the show should consult with the tech manager of the building to find out when this will be appropriate. The tech manager of the show should also consult the tech manager of any Extraordinaries or annual events that are taking place between term-time shows - especially The Improverts. The Tech Manager of the extraordinary or annual event should also talk to the tech manager of the previous and next show to make sure that a reasonable amount of lanterns are rigged (i.e. Face-light, backlight etc.)
+* Tech rehearsals are very important. They can take up a lot of time if everyone fidgets or treats them like a normal rehearsal. Try and keep the cast quiet and you will be finished quicker. The Tech teamis in charge of this rehearsal. The building tech manager will usually attend the get-in and may not be present but will be on call for the tech rehearsal, dress rehearsal and first night. Their contact details are posted in the Tech Box.
+* Technical get outs include stripping the rig of fixtures that are not required for the next show and storing them in the lantern store, 'zeroing' patch (keeping fixtures required for the next show patched), returning the sound desk and all sound equipment to its default state, returning all other equipment to its correct storage area (gel frames, gels in the folders etc.) and tidying the tech box. This includes removing all cups, glasses, scripts, pieces of paper etc., clearing the work surface and vacuum cleaning the floor of the tech box.
+* Technical managers of shows are required to give the building Technical Manager a list of any equipment that was faulty at the time of the get in, or any other equipment that was subsequently found not to work or damaged during the run of the show. There is a form for reporting faults in the tech resources section of the website, which can be found here: https://www.bedlamtheatre.co.uk/admin/resources/tech. This is very important as it allows the technical manager to prioritise maintenance more effectively. It would be counterproductive for the technical manager of a show not to own up to damaged equipment as it may not be found to be faulty in time for the next show.If something which is required for your show breaks during your run, inform the tech manager of the building as soon as possible so they can do their best to fix it in time for your next performance.
+* Planning is vital. Time for your get-in and get-out should be timetabled, but you will have to do extra work around this. Mainterms are usually expected to buy all paint, wood and other sundries, e.g. gaffer tape, which they use during the show. The Set Manager is usually flexible however and there should be room for some give and take in the budgets. Getting your SM to consult the Set Manager of the building is a very good idea, because they are a great source of advice and also will have the last word on what you can and can't use, what is safe and what isn't, etc.
+* You can use any gel that’s in the gel store for your show, just be careful that you’re not wasting it by leaving big gaps. Any cut gel that can be reused goes into the relevant folder after your final performance, if it’s unusable (e.g. burned through or ripped) then it goes in the bin.
+
+## Construction Regulations
+
+* All wood must be painted on all sides facing the audience.
+* If cardboard, paper, or polystyrene is to be used in set construction it must be passed by the theatre manager and treated with the necessary Flamebar flame retardant (N5, S3, or SIWA2). Check well in advance of your show to see if there is any in Bedlam, if large quantities of materials need to be treated then the show will have to purchase their own Flamebar. This must be accounted for in your budget. A good risk assessment will also be required.
+* You cannot make any alterations to the building without express permission of the Committee. If you plan on changing the stage layout or the rake you will also need to apply for a theatre license from the council.
+* Flame Check all drapes/swathes of material.
+* Do not build or paint anything in the Café or Front of House unless you get permission from both the FOH Manager and the Theatre Manager.
+* Café and Office furniture cannot be used on stage without permission from the Set Manager, and the FOH Manager.
+* **IF YOU AREN'T SURE, ASK THE SET MANAGER**
+
+## Archives
+
+* The Archivist will want to take some photos, or have photos taken, before your performance. Make sure they have a copy of the programme (if you have one) and any posters or flyers to put in the archives. If you have any pictures or items to be archived feel free to hand them in to the Archivist.
+* If you wish your production or aspects of rehearsal to be filmed or documented, contact the Archivist.
+
+
+## General Advice
+
+* If it all gets too much or you have any questions don’t hesitate to ask. The Committee is here to help you, and contact details are all on the website (https://www.bedlamtheatre.co.uk/contact), or you can see them at a Company or Committee meeting. If you are not sure who is the right person to talk to, the Productions Manager should be able to point you in the right direction. You can bring up any questions or problems at Monday Company Meetings (18:30), or Thursday Committee Meetings (18:30), both at Bedlam
+* Allow time to deal with unexpected problems. Try and make sure all the cast and crew know who you are and what is expected of them. Don’t let them boss you around.
+
+---
+
+### Remember
+   Plan in advance
+   Communicate
+   Keep calm
+   You are in charge, don't be afraid to ask people to do things.
+   
+## Useful Committee Emails
+Productions Manager: productions@bedlamtheatre.co.uk
+
+Business Manager: business@bedlamtheatre.co.uk
+
+Secretary: secretary@bedlamtheatre.co.uk
+
+Marketing Manager: marketing@bedlamtheatre.co.uk
+
+All Committee: committee@bedlamtheatre.co.uk
+
+*All other Committee emails can be found on the main Bedlam website under 'Contact'*
+
+Please tell the Production Manager when you have read this so they can be super proud of you
