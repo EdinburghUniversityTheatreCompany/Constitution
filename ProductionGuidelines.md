@@ -231,3 +231,28 @@ ctions Manager. Have your cast list ready with second and third choices just in 
    * Only people who have been shown how to do tasks should attempt them. This is especially true of anything potentially dangerous, e.g., use of power tools, rigging, building flats, etc.. If you are unsure of anything, speak to the Theatre, Set, or Technical Manager.
    
 ## Administration and Organisation
+
+* Photocopying – keep receipts from any photocopying you do, or screenshots if done on MyEd.
+* Website – Go to www.bedlamtheatre.co.uk for copies of these guidelines, the constitution, the standing orders, and minutes. Contact the IT subcommittee with any questions about the website.
+* Arrange and chair regular production meetings with your team. Check that everything is running smoothly in their different areas, try to sort out any problems that might have arisen and decide deadlines for the various jobs that need doing. Make sure everyone is up to date on the financial situation. Discuss the budget and fundraising/sponsorship. This is a good time for them to ask to spend money or give you receipts.
+* Make sure that if anything goes wrong, you are the first person to be called. If this problem is to do with the building, damage etc. then phone the Theatre Manager. If it's a budget issue, phone the Business Manager. If it's a show issue, or you aren't sure, phone the Productions Manager. Keep the committee informed —we can help!
+
+## Staffing
+
+* Staffing slots for each production will be assigned by the Front of House Manager (FOH).
+* All members of a production must staff. This includes Director(s), Tech Manager(s), Stage Manager(s), Producer(s), tech operators,and the cast. This is not limited to those listed on the proposal form.
+* There are five staffing slots that need to be filled by each production; Duty Manager, Box Office, Indoor Hall Keeper, Outdoor Hall Keeper and Café. The responsibilities of each position are detailed within the Staffing Guidelines.
+* Sign up can be done online through the Bedlam website: http://www.bedlamtheatre.co.uk/admin/staffings
+* Staffers must be in Bedlam an hour and a half before the performance. This is 1pm for Lunchtimes or Mainterm matinee performances, 6pm for Mainterms or evening Lunchtime performances and 9pm for the Improverts.
+* All members of the production team (Producers,Directors, Tech, and Stage Managers) must learn to Duty Manage. The Front of House Manager will run several training sessions a term, typically soon after a GM so pay attention as to when they are.
+* If a member of the production team or cast knows that he/she will not be to able staff any performance of the show to which they have been assigned, they should inform their producer at least a week in advance. The producer should let the Front of House Manager know as soon as possible. Anyone who cannot staffone of their assigned performances should make alternative arrangements with the Front of House Manager to staff another show. 
+* If for some reason, someone cannot staff within 24 hours of their staffing slot, a replacement staffer must be found before they can be unsigned by the Front of House Manager. 
+* All of the above information applies to other shows as well, of course. Another production will staff the number of performances given to you by the initial GM vote (one Lunchtime performance and the five-night Mainterm run).
+   * If either a Lunchtime or a Mainterm chooses to have an additional performance, it is the producer’s responsibility to find staffers for that performance.
+   * It is the producer’s responsibility to find staffers for all extraordinary performances.
+   
+## Theatre Conversions and Saftey Issues
+*Including Fire, Firearms, Pyrotechnics and Smoking*
+
+* Theatres are second only to cardboard box factories in flammability. If you intend to have any of these in the performance you MUST discuss it with the Theatre Manager, and follow these regulations:
+   * Naked flames/candles/pyrotechnics – can only be done with the permission of the Theatre Manager, who will liaise with the fire department.
