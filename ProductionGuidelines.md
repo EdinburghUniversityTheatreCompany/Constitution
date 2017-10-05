@@ -174,9 +174,60 @@ ctions Manager. Have your cast list ready with second and third choices just in 
 * **Programmes:**
    * Try not to leave these till the last minute so you have time to proof read them. The Marketing Manager may also want to see them before they are printed. Don't forget to thank people who helped with the show.
    
-##Questionnaires and Get-in##
+## Questionnaires and Get-in
    
 * You will need to complete the following at least ten days your get-in starts. They are found at the bottom of your show page on the Bedlam members’ website. You will not be able to begin your get-in until they are all completed:
    * Tech Questionnaire
    * Producer Questionnaire
    * Stage Questionnaire
+* Every show is allotted get-in space to start rigging lights and constructing the set the day before the tech run. This means 8pm on the Sunday before a lunchtime and 2pm on the Saturday before a Mainterm. The tech run then usually begins at 6pm the night after the get-in starts, which is also two days before the show goes up. The dress run takes place the night before the performance, also usually at 6pm.
+* Any show can request extra get-in time by checking with the previous week’s show and coming to committee as soon as possible after getting passed, with three committee meetings prior to the performance being the absolute deadline. Speak to the Set and Tech Managers if you’re unsure about how much time you will need for your get-in.
+
+## Get-Out and Maintenance
+
+* This should happen immediately after the last performance. Make sure all your cast and crew stay around to help and it will all be over much more quickly. Even if they have no idea about tech or set the cast can still make themselves useful carrying stuff and tidying up. If you have arranged a sponsorship deal with a venue for an after-show party, make sure everyone goes along.
+* If insufficient members of the cast and crew attend, or the theatre or any area of the building are left in an unacceptable condition then money may be taken from the deposit cheque. 
+* The Sunday after your get-out all cast and crew must attend maintenance at 12:30. If you cannot attend maintenance, contact the Theatre Manager. They will make alternate arrangements to make up for this.
+
+## Debriefing
+
+* You must attend the Monday Company Meeting after the last performance of your show to report to the company. This is your chance to talk about what worked or didn’t and for you and Committee members to raise and discuss any problems.
+
+---
+
+# Other Important Notes 
+
+## Costume and Props
+
+* You can use any costumes or props from the Bedlam stores. However, all costumes must be washed/dry cleaned before returning them. If they get damaged, let the Wardrobe Manager know. Please do not remove the tags and labels from costumes. Keep the costume and props areas tidy and don't take anything out of the building without asking the Wardrobe Manager. 
+* If you need any unusual costumes or props try asking in a Monday Company Meetingor posting in the Facebook group. People have some strange things. If you need any costumes made, the Wardrobe Manager will be able to help or suggest people who can.
+* Try and locate things as early as possible, don’t leave it until the dress run!
+
+## Being in the Building
+
+* **Whenever you are rehearsing in Bedlam you must have a Duty Manager trained individual present. This is compulsory.** Since your production team must get DM trained, this is not difficult to arrange.
+* Access:
+   * If you are the first in the building you should arrange for a committee member to let you in with at least 24 hours of notice. If you have a problem getting in, contact a Committee member. 
+   * Don’t leave the building until you’ve let in at least one person from the next show due to rehearse, unless there are people in the building who will remain there for a while. If you are the last person out make sure the fire exits are locked and the door is double locked.
+   * The Stage Manager is entitled to a set of keys in the run up to production week and the show. In order to procure a set, speak to the Theatre Manager. Give them to the producer/director/tech manager at your discretion; just make sure you get them back and hand them in to the Theatre Manager after the run. If you are unsure about any of this, speak to the Theatre Manager. 
+* Lights:
+   * The switches are in the box to your right as you enter from the side door. The switch labelled ‘Bertha’ will turn on the auditorium lights. Rigged lights are to be used only for dress/tech runs, and shows themselves because they use monumental amounts of electricity
+* Smoking:
+   * Smoking is not permitted anywhere in the building, by law.
+* Tidiness
+   * Put your rubbish in the bin, and empty them if they’re full. We share this space as a Company so love it, and look after it. If you leave the place in a mess, the Theatre Manager will get mad and the FOH Manager can get a cleaner in and charge it on your budget.
+   
+## Health, Saftey and Welfare
+
+* Put your rubbish in the bin, and empty them if they’re full. We share this space as a Company so love it, and look after it. If you leave the place in a mess, the Theatre Manager will get mad and the FOH Manager can get a cleaner in and charge it on your budget.
+* If your show involves any stunts, stage combat or other things likely to result in injuries, make sure you notify the Theatre Manager in advance of rehearsals.
+* Record any accidents in the accident book and to the Theatre Manager. This is behind the Box Office desk.
+* There is a First Aid kit behind the box office, backstage, upstairs in the workshop, in the tech box, and in the kitchen.
+* Remain vigilant in regard to the welfare of your cast and crew. 
+   * You are required to have two welfare officers agreed upon by the cast and crew. Traditionally the director is one. Each welfare officer should have enough distance from the other, personally, that any cast and crew members should feel comfortable speaking to them about any matter arising with them. 
+   * The Productions Manager will make a note of the welfare officers’ names and advise them of some of their roles and who the senior welfare officers are, i.e., the two Committee welfare officers, in case there are any issues that can’t be resolved within the team itself.
+   * Refer to the Welfare Agreement on the website, and if any member of your cast or crew has any welfare concerns in regards to how the production or company is being run, they can talk to the Welfare Officer or President.
+* **Lifting, building, and carrying:**
+   * Only people who have been shown how to do tasks should attempt them. This is especially true of anything potentially dangerous, e.g., use of power tools, rigging, building flats, etc.. If you are unsure of anything, speak to the Theatre, Set, or Technical Manager.
+   
+## Administration and Organisation
