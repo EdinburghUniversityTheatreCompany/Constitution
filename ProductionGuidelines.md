@@ -134,4 +134,49 @@ Manager.
 
 ## Auditions and Casting
 
+* Typically auditions are the weekend after the GM between 2pm and 6pm, although they may be rearranged for scheduling issues. The Productions Manager will inform you of when and where they are. You will be asked beforehand which room in the building you would like for your auditions. Arrive at least fifteen minutes before the advertised audition times to get set up. 
+* You will need to print and bring your own audition pieces (have at least 50 pieces photocopied) and a show blurb (plot description, performance date, character descriptions) to pin on the wall.
+* Usually there will be two days of auditions and another day for call backs. Any actors recalled for more than one show fill out a preference form to make casting conflicts resolve easier. 
+* A casting meeting between all shows will happen an hour or so after the call backs. This meeting will be chaired by the Produ
+ctions Manager. Have your cast list ready with second and third choices just in case. Shows often share actors if they are willing to be in more than one. 
 
+## Rehearsals
+
+* You will have rehearsals in Bedlam and in Pleasance. The Secretary will book you three rehearsals a week. If you wish to rehearse more you can contact them at **secretary@bedlamtheatre.co.uk**
+* Tell the Secretary your preferred rehearsal times and provide them with a full cast and crew list soon after you cast. Let them know if you need specific kinds of rehearsal rooms, e.g., if you intend to tap dance during rehearsals.
+* You can book rehearsal space through the Bedlam Schedule website (schedule.bedlamtheatre.co.uk). You should use the same sign in as for the members section.
+* Inform the Secretary as far in advance as possible if you need to cancel a rehearsal. Rooms in Pleasance have to be used if booked otherwise Pleasance may withhold rooms from us. If arranged in advance another team may be able to use the space, if you cannot swap a member of your production team will have to baby-sit the space.
+* Rehearsals cannot take place in Bedlam until your production team has undergone Duty Manager training, and know how to lock up the building.
+* You can also book extra rehearsal space in university buildings via MyEd. Contact the Secretary if you don’t know how to do this.
+
+## Press and Publicity ##
+
+* You need to make posters. Programmes are optional and can be a pricey addition to the budget. Flyers can be very effective — you can leave them in bars, cafes and other venues, or get people to hand them out for you.
+* You can make these look however you want. However do not miss out the following:
+   * Show name, time, venue (typically Bedlam), date, year, and price.
+   * Bedlam logo –it must be clear Bedlam is the venue, the easiest way to do this is to use the Bedlam Theatre logo.
+   * Spell check.
+   * We recommend you include the words Edinburgh University Theatre Company on your poster.
+   * Obey copyright law. If in  doubt, speak to the Marketing Manager
+   * Any stipulations by the rights issuer supersede these recommendations. Check their specifications.
+* A3 is a good size for posters, and the university won't allow anything larger, though experiment as you want since non-standard sizes can look more striking. Get the cast and crew to help you distribute them. Don't put your posters over other Bedlam posters (unless that show has finished). 
+   * If you are putting them up in university buildings you will need the EUSA stamp. This can be obtained in the Potterrow Societies office.
+* Put some posters up around Bedlam. It's a good idea to have some posters or flyers up in the building for the Lunchtimes/Mainterms a couple of weeks before your show goes up, even if it's not quite the finished article. Printing takes time depending on how much you pay. Teviot Print Shop is quick but slightly pricey, and there are cheap companies online you can use but remember to do it far enough in advance that they arrive in time – you want to be putting publicity up by at least the week before your show. 
+* Generally, VAT is not paid on flyers, but it is on posters so check to see whether it has been included in any quotes. 
+* Flyering is a good way to sell the show. You can't flyer in university buildings, but you can flyer outside them. Outside the library at lunchtime can be effective. You can exit flyer other shows at Bedlam, provided you get permission from the production team of said show.
+* If you don't feel at all artistic, or are a bit stuck with ideas or technical know-how, then there are plenty of people who can help with posters. The Marketing Manager will be able to help or suggest people to ask.
+* The Marketing Manager will ask to see your posters before they're printed to check that all Bedlam publicity is of a high standard. Logos are available on the Bedlam website, from the Productions Manager or from the Marketing Manager.
+* Getting the press in for interviews, previews, or reviews will help sell the show. Get information out early, typically at least two weeks before the show. Keep reminding press about the show.
+* Your show will be made public on the Bedlam website as soon as your publicity is finished. The faster you do this the longer you have to sell tickets. Some shows build their own website for extra advertising. If you need any help with this, or have questions about getting more information up on the website, contact the IT Subcommittee
+* **Show Blurbs:**
+   * These should be given to the Secretary for inclusion in the Company email (get it to them by Friday 10pm). If nothing new is received, then they will use the blurb from your show proposal form or make something up at their discretion.
+   * Try to pick an exciting angle to sell the show.
+* **Programmes:**
+   * Try not to leave these till the last minute so you have time to proof read them. The Marketing Manager may also want to see them before they are printed. Don't forget to thank people who helped with the show.
+   
+##Questionnaires and Get-in##
+   
+* You will need to complete the following at least ten days your get-in starts. They are found at the bottom of your show page on the Bedlam members’ website. You will not be able to begin your get-in until they are all completed:
+   * Tech Questionnaire
+   * Producer Questionnaire
+   * Stage Questionnaire
