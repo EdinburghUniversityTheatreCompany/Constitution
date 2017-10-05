@@ -1,4 +1,4 @@
-Edinburgh University Theatre Company - Production guidelines and standing orders
+Edinburgh University Theatre Company - Standing Orders
 ============
 
 Section A
