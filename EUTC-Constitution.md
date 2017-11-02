@@ -91,6 +91,8 @@ __4.8.__ All members of the Committee and the Projects Sub-Committee shall be su
 
 __4.9.__ Members of the Committee and Projects Sub-Committee may not hold more than one position with the exception of the Fringe Venue Manager which may be held alongside any position other than President.
 
+__4.10.__ ‘The Redevelopment’ is defined as long term improvements, developments, and maintenance of the Bedlam Theatre. The Redevelopment Subcommittee is to manage and oversee the the redevelopment proposal and ensuring, as far as possible, that adequate development and maintenance projects are carried out. The Redevelopment Subcommittee will represent the long term interests of the company, and allow for wider company involvement. Two Redevelopment Contacts will, at all times, have been appointed by a vote of the company at a company meeting or general meeting. The Redevelopment Contacts will be responsible for overseeing the Redevelopment Subcommittee, as well as being responsible for communication with the committee, the company, Friends of Bedlam, EUSA, and the University of Edinburgh regarding the redevelopment. Additional members may join the Redevelopment Subcommittee as appropriate, subject to ratification by the company at a meeting of the company. All members are subject to a vote of no confidence from the company. A member of the Redevelopment Subcommittee will attend at least one committee meeting per fortnight. Members of committee or additional subcommittees may also hold a position on the Redevelopment Subcommittee. 
+
 5.0. Fringe Committee
 --------
 
