@@ -185,3 +185,5 @@ __10.3.__ To have this status revoked, the member in question must make reparati
 __10.4.__ The status of being In Debt to the Company can be waived by the Welfare Officers of the Company in circumstances where the member in question is in debt to the company as a result of a welfare issue.
 
 __10.5.__ It is the responsibility of the Secretary to maintain a list of all members who are In Debt to the Company.
+
+__10.6__ If a proposal has debtors in its team then provided they agree with commmittee prior to the GM to clear those debts within 1 week of the GM they may propose at the GM. If subsequently they dont uphold their agreement the slot will go to the next preference vote or if there were no other proposals proposals will be re-opened.
