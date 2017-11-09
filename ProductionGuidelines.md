@@ -19,35 +19,66 @@ If your proposal passes committee then at the corresponding GM, the team will be
 
 ## Types of proposal and Relevant Budgets
 
-* Lunchtime
-    * A Lunchtime slot has one performance on a Wednesday. This is at lunch time, hence the name. However, the time often fluctuates to fit requirement, so this can be on Wednesday evening.
-    * The maximum funding from the EUTC for a Lunchtime is £125 for a show requiring rights, and £65 for a show not requiring rights. Rights, and performing original writing will be discussed later in the Guidelines.
-    * A Lunchtime slot is an opportunity to put on a dramatically interesting show with limited resources.
-        * It is also a very good first time slot for new teams and Directors or productions with more experimental elements, as it is a smaller scale than the Mainterm and more friendly.
-    * If passed through the GM, shows can request a time change to the evening by coming to a Committee meeting. It is currently the norm for Lunchtimes to be performed in the evening but this still needs to be requested.
-    * Shows can also request a second performance by raising the matter at a Company meeting. The second performance must take place on the Wednesday or Thursday evening following the Wednesday performance. If these are unavailable a second performance will not be possible. The criteria for a second performance being granted are as follows:
-        * The team should have raised, or have a clear plan to raise, the money to pay the rights for the additional performance (if requiring rights).
-        * For a lunchtime the Committee should be confident that the show shall sell at least ninety tickets between the two performances.
-        * The additional performance must be requested at least 3 weeks before your first performance (if you are interested in this, try to request it the week after it passes at the GM).
-* Mainterm
-    * A Mainterm slot runs between three and five performances. The maximum funding from the EUTC for a Mainterm is £1050 for a show requiring rights, and £850 for a show not requiring rights. The committee should be confident that the show will sell at least 45 tickets for each additional performance up to 5 performances.
-    * A Mainterm slot is traditionally a larger scale show.
-    * Any change to the run indicated in the proposal has to be proposed at a Company Meeting at least three weeks before the run begins.
-* Annual Event
-    * Annual Events take place annually in roughly the same place in the schedule each year. The Productions Manager and the President decide at which GMs these are proposed. The Annual Events currently put on every year are:
-        * Freshers’ Week (Festival)
-        * Freshers’ Play
-        * Freshers’ Slots
-        * The Panto
-        * Student/Bedlam Festival (Festival)
-    * Annual Event proposals must have their budgets passed by the Business Manager. Ask the Productions Manager for more details if you are thinking of proposing for one of them.
-* Extraordinary
-    * Extraordinary slots are for any production or event which cannot reasonably meet the criteria of the above. It can be any kind of production which does not fall into a festival/annual event category.
-    * These kind of events are for more experienced teams pushing the boundaries of what
-Bedlam does, and what it can do.
-    * Any proposal for an Extraordinary show that clashes with another EUTC show cannot go through. This includes allocated show slots.
-    * There is no standing budget for Extraordinaries. However productions of this kind need to make back the entire budget from the EUTC through ticket sales and fundraising.
-    * Extraordinary budgets must be passed by the Business Manager before submission.
+Listed and described below are the slots available to propose for as members of the Edinburgh University Theatre Company. None of these have to take place in the building and we encourage production teams to both think out of the Bedlam box but also take advantage of the space we have. 
+
+Each show gets a get in starting on the Saturday or Sunday, the day and time dependent on the slot you have and each is allowed to apply for an extended get in with appropriate justification. 
+
+Lunchtime get ins start at 8pm on Sunday with the extended get in starting from 9am on the same day. There will be a break from 12-2 for maintenance as well as 6-8 for Imps rehearsal if it happens that week. We then recommend that your tech happens on Monday night with the dress run on Tuesday though ultimately please schedule these in a way that fits best for your production.
+
+Mainterm get ins start at 2pm on Saturday with the extended get in starting after Imps on Friday. There will be a break on Saturday 12-2 for the Imps Workshop and then breaks on Sunday from 12-2 for Maintenance as well as 6-8 for Imps rehearsal if it happens that week. We recommend that you have your tech run on Sunday night with the dress run on Monday though ultimately choose what works best for your production
+
+### Lunchtime
+* 1 performance on a Wednesday at lunchtime (a second performance can be requested)
+* Maximum amount of funding from the EUTC:
+   * A show with rights:  £125
+   * A show without rights: £65
+
+A Lunchtime is an opportunity to put on a dramatically interesting show using limited resources. This means there is a smaller financial risk, making it a good slot for a show team’s first show, or for teams who wish to produce a show that is more experimental, or wish to challenge themselves by limiting resources. It is in no way limited to members new to the EUTC or is it a smaller show. This is a very good slot for new teams and directors or productions with more experimental elements. 
+
+The one performance is traditionally performed at lunchtime on a Wednesday but it can be requested that the time is changed to an evening show on the Wednesday evening at a committee meeting. You can also request a second performance at that same committee meeting - it must take place following the Wednesday performance. If you are looking to have two performances, please make sure that you plan this when obtaining the rights for the show as if you wait until after the GM and after the committee meeting the second performance might not even be possible let alone legal! In order for the second performance to be granted the following criteria must be met:
+1. the team should have raised or have a clear plan to raise the money to pay for the rights for the additional performance (if requiring rights) 
+1. the committee should be confident that the show should sell at least 90 tickets between the two shows. You can make these changes up to three weeks before your first performance but we highly encourage that this happens at a committee meeting following the GM.   
+
+### Mainterm
+
+* No fewer than 3 performances
+* Maximum Funding from the EUTC:
+   * Shows requiring rights: £1050
+   * Shows without rights: £850
+
+A Mainterm is a slot with a larger budget and a longer run - you will have access to more resources making it great for experienced teams who will make use of more time and resources. With 3+  performances, a mainterm has a chance to become a more polished show with more performance time. 
+
+### Annual Event
+
+* The current annual events are the following:
+   * Freshers’ Week/Welcome Week
+   * Freshers’ Play
+   * Freshers’ Slots
+   * Panto
+   * Bedlam Festival (Bedfest)
+
+As per standing orders 3.3, our annual events take place roughly in the same place each year with the Productions Manager and President deciding at which GMs they are proposed with the dates being clarified in each year’s production schedule. For these events, the budget MUST BE PASSED BY THE BUSINESS MANAGER. 
+
+Our annual events are split into two categories - shows (Freshers’ Play, Freshers’ Slots and Panto) and then other events (Bedfest and Freshers’ Week/Welcome Week). 
+
+As with any other EUTC production, annual shows must have a Director, a Producer, a Stage Manager and a Tech Manager.
+
+Our Annual Events also include two festivals, Bedfest and Freshers’/Welcome Week. When you propose as admin(s), you are proposing to form a festival team. As such, many of the Committee’s roles and responsibilities are designated to the Subcommittee for those two weeks. For both the week before and the week of the festival, the Festival team/subcommittee holds the responsibility and authority to run the Festival, including the use of its own schedule, socials, marketing, prices, show and workshop proposal system and selection process. 
+The Festival Project Team is required to attend company meetings every Monday and they are responsible for attending the same quota of Committee meetings as the Projects subcommittee, at least once every 3 weeks for the duration of the festival, from the GM where it is approved until the week after the festival. 
+
+At the time of the deadline, only the administrators are necessary on the proposal but a full team will need to be found including a Tech Manager, a Theatre Manager, a Marketing Manager, a  Box Office Manager and  a Cafe Manager. Depending on the parameters of the festival in question, a Cafe Manager might not be necessary. Once found, they subsequently are ratified at any meeting of the company. 
+
+If you’re interested in proposing for any of these events outlined above, contact the Productions Manager who will be able to tell you more. 
+
+### Extraordinary
+
+An extraordinary is a production or event that could not reasonably meet the criteria for a Lunchtime, Mainterm, Annual Event or Festival. It is a slot that hopes to expand and diversify what we can do in our termtime production schedule. This event can take place inside or outside of Bedlam but if it is to take place outside of Bedlam than no rehearsal space can be booked inside of Bedlam. There is no limit to how many Extraordinaries can happen within a semester and as such this will not be taken into consideration when assessing these proposals. Extraordinaries can be proposed at whatever GM; they are not tied to only being proposed for scheduled GMs.  As such, Extraordinary Proposals will always be open on the website, but make sure that you talk to the Productions Manager! Also EGMs can be called at any time with at least 14 days notice to the company. 
+
+For the proposal of an Extraordinary, as per the Standing Orders B 3.4, the proposal must be submitted to the committee no later than the Committee Meeting prior to the proposal submission deadline (i.e. two meetings prior to the GM). The written proposal must be submitted prior to the written proposal submission deadline or else it will be marked as Late. Any proposal of an Extraordinary that clashes with another EUTC show, or event, is declared void; including allocated show slots (which is the entire week). The production team of the affected show or event may choose to waive this right, in order to allow the Extraordinary to take place. In order to avoid this, contact the prod team that would be affected by the Extraordinary prior to submitting the proposal to the Committee.
+
+There is no standing budget for extraordinaries but they must make back the entire budget given by the EUTC through ticket sales and fundraising. Budgets must be passed by the Business Manager,  prior to approaching committee to notify of coming up with the idea of the Extraordinary.
+
+    
 ## Business, Fundraising, and Budget Advice
 * Keep track of the rights.
 * The budget for your show should cover all costs, from lighting hire, costumes, rights, publicity, set design, plus 10% contingency (for emergencies). You must stick to the budget. All budgets should be passed by the Business Manager before proposing.
