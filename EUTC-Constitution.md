@@ -186,4 +186,4 @@ __10.4.__ The status of being In Debt to the Company can be waived by the Welfar
 
 __10.5.__ It is the responsibility of the Secretary to maintain a list of all members who are In Debt to the Company.
 
-__10.6__ If a proposal has debtors in its team then provided they agree with commmittee prior to the GM to clear those debts within 1 week of the GM they may propose at the GM. If subsequently they dont uphold their agreement the slot will go to the next preference vote or if there were no other proposals proposals will be re-opened.
+__10.6__ If a proposal has debtors in its team then, provided they have made an agreement with the relevant committee members prior to the proposal deadline to clear those debts before the relevant meeting of the company in which the show is proposed, they may propose at the meeting of the company. If, subsequently, they do not uphold their agreement by the meeting of the company, the proposal will be void.
