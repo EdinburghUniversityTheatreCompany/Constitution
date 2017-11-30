@@ -127,7 +127,7 @@ __7.4.__ Voting rights are as follows:
 - Company Meetings: All members present.
 - General Meetings, and a meeting of the Company where shows are selected: All members (c.f. 10.2).
 
-__7.5.__ Proxy Votes: those members absent with unavoidable reason and not in debt to the Company may appoint a proxy to vote on their behalf at a Company Meeting. A proxy vote may be requested by electronic means. All proxy votes must be recorded separately. A member is only allowed to be appointed as a proxy for one other member. Any member may raise an objection to a proxy vote, if so a motion in favour of granting the proxy vote must be proposed and put to a vote. Proxy votes may only be exercised at a General Meeting of the Company.
+__7.5.__ Proxy Votes: those members absent with unavoidable reason and not in debt to the Company may request a proxy to vote on their behalf at a Company Meeting. A proxy vote may be requested by electronic means. All proxy votes must be recorded separately. A member is only allowed to be appointed as a proxy for one other member. Any member may raise an objection to a proxy vote, if so a motion in favour of granting the proxy vote must be proposed and put to a vote. Proxy votes may only be exercised at a General Meeting of the Company.
 
 __7.6.__ All members must receive at least 14 days written notification of the Annual General Meeting and elections not held at the Annual General Meeting.
 
