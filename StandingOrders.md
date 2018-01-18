@@ -63,13 +63,15 @@ __1.3__ Duty of Information: all production teams shall seek the advice of the C
 
 __1.4__ All members of the EUTC shall behave in accordance with the Welfare Agreement at all times. The President shall be an official and confidential contact for all matters of welfare. At the start of their term, the Committee shall appoint an additional committee welfare contact.
 
+__1.4.1__ Should there be a need for it, at any time, any member of the company may request that another welfare contact is appointed from either the committee, or from the wider company.
+
 __1.4.2__ All appointed welfare contacts may be subject to a vote of confidence from the company.
 
 __1.5__ Failure to disclose later significant or unusual activity intended before a production merit vote (as outlined in Standing Orders B, Section 1.3) will render the proposal invalid and the production will be suspended pending a General Meeting in which the production merit vote will be held once again in light of the new information. If the performance dates are before the next available date for a General Meeting, the show may be cancelled. The decision to suspend a production will be decided by a vote of the Committee, using the following criteria:
 
-    Have the team failed to act openly and honestly in meetings of the Committee and/or Company?
-
-    Does the activity in question change the proposal substantially enough as to invalidate the production merit vote taken by the Company?
+> Have the team failed to act openly and honestly in meetings of the Committee and/or Company?
+> 
+> Does the activity in question change the proposal substantially enough as to invalidate the production merit vote taken by the Company?
 
 __1.6__ Suspended Shows: In the event of suspension, no spending will be approved for the production in question during that period, and the production may lose access to the building for rehearsals, at the discretion of the Theatre Manager.
 
