@@ -28,7 +28,7 @@ __1.3.8.__ Re-registration of the society must be submitted prior to the re-regi
 
 __1.3.9.__ The society has taken and will continue to take all necessary steps to ensure that our meetings, event and socials are accessible to all. See 8.5
 
-__1.3.10.__ The society believes that discrimination or harassment, direct or indirect, based on a person’s gender, age (except where it relates to licensing laws), race, skin colour, nationality, religious belief, socio-economic background, disability, HIV status, sexual orientation, gender reassignment, family situation, domestic responsibilities or any other irrelevant distinction, is detrimental to the society, the university and wider society, and will not be tolerated. See 8.2
+__1.3.10.__ The Society believes that discrimination or harassment, direct or indirect, based on a person’s gender, age (except where it relates to licensing laws), race, skin colour, nationality, religious belief, socio-economic background, disability, HIV status, sexual orientation, gender reassignment, family situation, domestic responsibilities or any other irrelevant distinction, is detrimental to the society, the university and wider society, and will not be tolerated. See 8.2
 
 __1.4.__ The Constitution and Standing Orders shall be available at all times to any member of the EUTC. Any motion passed without access to this document is invalid. The secretary shall be responsible for maintaining paper copies of these documents.
 
@@ -189,3 +189,48 @@ __10.4.__ The status of being In Debt to the Company can be waived by the Welfar
 __10.5.__ It is the responsibility of the Secretary to maintain a list of all members who are In Debt to the Company.
 
 __10.6__ If a proposal has debtors in its team then, provided they have made an agreement with the relevant committee members prior to the proposal deadline to clear those debts before the relevant meeting of the company in which the show is proposed, they may propose at the meeting of the company. If, subsequently, they do not uphold their agreement by the meeting of the company, the proposal will be void.
+
+11.0 EUSA Mandatory Clauses
+----------------------------
+
+__11.1__ Full membership lists should be filed with the Activities Office at least once per semester to ensure membership databases are up to date.
+
+__11.2__ If any dispute of membership should arise, the list registered through the Students’ Association database will be used as the official list.
+
+__11.3__ The Committee may impose sanctions for misconduct on members, based on verifiable evidence collected, taking into account the seriousness of the misconduct with reference to the membership responsibilities and standard code of conduct, any previous warnings, and any mitigating circumstances. When appropriate the following sanctions may be applied:
+         
+         1. Informal Warning
+         2. First Written Warnings will be issued for a minor offence or complaint;
+         3. Final Written Warnings will be issued for: a further offence or complaint or if the conduct of the member failed to improve following a previous warning, or if the actions are serious enough to warrant a Final Written Warning.
+         4. Removal from membership will occur if there is a further serious event of misconduct, or if the conduct of the member failed to improve following a previous written warning, or if the member committed an act of gross misconduct.
+         5. Edinburgh University Students’ Association (“the Students' Association”') Societies department will be notified upon removal of a member and provided with a copy of the evidence pertaining to the sanctions process and removal. All persons removed from membership may appeal to the Societies' department against such removal.
+
+__11.4__ The Office Bearers must be members of the Society and a matriculated student of Edinburgh University.
+
+__11.5__ The President will chair the General Committee and Emergency General Meetings.
+
+__11.6__ The President is responsible to the Annual General Meeting and the General Committee and is ultimately responsible for the conduct of the Society.
+
+__11.7__ It is the President’s responsibility to ensure the Society has submitted their annual report, risk assessment and reregistration forms to the Activities Office.
+
+__11.8__ The Secretary shall also be responsible for any correspondence within or on behalf of the Society and prepare the agendas and the minutes of every committee meeting, AGM and EGM.
+
+__11.9__ Motions to be discussed should be presented to the Secretary in advance of the AGM.
+
+__11.10__ Only fully-matriculated students are entitled to vote at the AGM.
+
+__11.11__ The President may call an Extraordinary General Meeting for matters arising in the course of the year which require consideration by members.
+
+__11.12__ All members must receive at least 14 days written/email notification of the EGM.
+
+__11.13__ The financial year shall run from 1st April to 31st March.
+
+__11.14__ The Society shall be non-profit making. The Office Bearers and members may only receive payment, direct or indirect, as reimbursement for legitimate expenses.
+
+__11.15__ Annual and Financial Reports must be completed and submitted as part of the re-registration process following the AGM in the second semester.
+
+__11.16__ A Society may not register to obtain any legal status, including a limited company or a charitable status.
+
+__11.17__ The Society will ensure that it complies with any relevant data protection legislation.
+
+__11.18__ Any motion to alter the Constitution will have to be supported by two-thirds of the members present at the AGM or EGM, 14 days notice of which shall be given.
