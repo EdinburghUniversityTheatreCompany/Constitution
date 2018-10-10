@@ -189,3 +189,123 @@ __10.4.__ The status of being In Debt to the Company can be waived by the Welfar
 __10.5.__ It is the responsibility of the Secretary to maintain a list of all members who are In Debt to the Company.
 
 __10.6__ If a proposal has debtors in its team then, provided they have made an agreement with the relevant committee members prior to the proposal deadline to clear those debts before the relevant meeting of the company in which the show is proposed, they may propose at the meeting of the company. If, subsequently, they do not uphold their agreement by the meeting of the company, the proposal will be void.
+
+11.0.  Temporary article containing articles required by the Students’ Association
+----------------------------------------------
+__11.1__	Forms of membership
+
+__11.1.1__	Full Membership of the Society is open to all matriculated students of Edinburgh University.#
+
+__11.1.2__	Membership shall be at least 75% matriculated students of Edinburgh University.
+
+__11.1.3__	Full membership lists should be filed with the Activities Office at least once per semester to ensure membership databases are up to date.
+
+__11.1.4__	If any dispute of membership should arise, the list registered through the Students’ Association database will be used as the official list.
+
+__11.2__	Breach of member responsibilities: The Committee may impose sanctions for misconduct on members, based on verifiable evidence collected, taking into account the seriousness of the misconduct with reference to the membership responsibilities and standard code of conduct, any previous warnings and any mitigating circumstances. When appropriate the following sanctions may be applied:
+
+__11.2.1__	Informal Warning
+
+__11.2.2__	First Written Warnings will be issued for a minor offence or complaint;
+
+__11.2.3__	Final Written Warnings will be issued for: a further offence or complaint or if the conduct of the member failed to improve following a previous warning, or if the actions are serious enough to warrant a Final Written Warning.
+
+__11.2.4__	Removal from membership will occur if there is a further serious event of misconduct, or if the conduct of the member failed to improve following a previous written warning, or if the member committed an act of gross misconduct.
+
+__11.2.5__	Edinburgh University Students’ Association (“the Students’ Association”) Societies department will be notified upon removal of a member and provided with a copy of the evidence pertaining to the sanctions process and removal. All persons removed from membership may appeal to the Societies’ department against such removal.
+
+__11.3__ The General Committee
+
+__11.3.1__	The business of the society shall be managed by a Committee of Office Bearers.
+
+__11.3.2__	Any full student member of the Society shall be entitled to sit on the Committee.
+
+__11.3.3__ The Office Bearers be members of the Society and a matriculated student of Edinburgh University.
+
+__11.3.4__	All Office Bearers will complete annual online training as outlined by the Activities Team.
+
+__11.4__	Executive Office Bearers
+
+__11.4.1__	The Committee must consist of a President, Secretary and Treasurer (the Executive Officers) as a minimum.
+
+__11.4.2__	These Office Bearers will be elected at the Annual General Meeting.
+
+__11.4.3__	No person may be elected to more than one of these posts simultaneously.
+
+__11.5__ President
+
+__11.5.1__	The President will chair the General Committee and Emergency General Meetings.
+
+__11.5.2__	The President is responsible to the Annual General Meeting and the General Committee and is ultimately responsible for the conduct of the Society.
+
+__11.5.3__	It is the President’s responsibility to ensure the Society has submitted their annual report, risk assessment and reregistration forms to the Activities Office.
+__11.5.4__	Should the President resign a new President or Acting President will be voted in at an EGM.
+
+__11.6__	Treasurer
+
+__11.6.1__	The Treasurer shall be accountable to the committee and members for the finances of the society.
+
+__11.6.2__	The treasurer shall keep and prepare Accounts of the Society and provide a provisional budget, as exhaustive as possible, to be presented at the Annual General Meeting. 
+
+__11.6.3__	It is the Treasurer’s responsibility to ensure the annual financial report is complete and submitted along with the society’s annual report.
+
+__11.6.4__	Should the Treasurer resign, a new Treasurer or Acting Treasurer will be voted in at an EGM.
+
+__11.7__	Secretary
+
+__11.7.1__	The Secretary shall be responsible for the administration of the society.
+
+__11.7.2__	The Secretary shall also be responsible for any correspondence within or on behalf of the society and prepare the agendas and the minutes of every committee meeting, AGM and EGM.
+
+__11.7.3__	Should the Secretary resign, a new Secretary or Acting Secretary will be voted in at an EGM.
+
+__11.8__	Conduct and Recall
+
+__11.8.1__	All Office Bearers shall act in good faith towards the Society in all actions they undertake on its behalf.
+
+__11.8.2__	The members shall have the right at an Extraordinary General Meeting t seek the recall of any or all of the Office Bearers by a special resolution (i.e.: a 75% vote in favour of the resolution).
+
+__11.8.3__	For such a vote to be binding on the Society the Meeting must be quorate.
+
+__11.8.4__	Grounds for recall may be founded on the failure of any office holder of member of the General Committee to comply with the terms of the Constitution, or for any other reason deemed legitimate by the General Meeting.
+
+__11.9__	Annual General Meeting
+
+__11.9.1__	All members of the society are entitled to attend Annual General Meetings (hereinafter referred to as the AGM).
+
+__11.9.2__	It is the responsibility of the Secretary to ensure that members receive at least 14 days written/email notification of the AGM and of elections not held at the AGM.
+
+__11.9.3__	Motions to be discussed should be presented to the Secretary in advance of the AGM.
+
+__11.9.4__	Only fully matriculated students are entitled to vote at the AGM.
+
+__11.9.5__	All Office Bearer roles shall be subject to election annually at the AGM.
+
+__11.9.6__	All members who are matriculated students of the University of Edinburgh shall be entitled to stand and vote in elections.
+
+__11.9.7__	The quorum shall be shall be (% of your choice) of the membership of the Society.
+
+__11.10__ Emergency General Meeting
+
+__11.10.1__	The President may call an Extraordinary General Meeting for matters arising in the course of the year which require consideration by members.
+
+__11.10.2__	The EGM shall follow the procedure of the AGM outlined in 4.10 above.
+
+__11.10.3__	All members must receive at least 14 days written/email notification of the EGM.
+
+__11.10.4__	In the event of an Executive position becoming vacant, President will call an EGM to elect a replacement.
+
+__11.10.5__	Any newly elected Office Bearers will be communicated to the Societies Team after the election has taken place.
+                                
+
+__11.11__	Finance and society status
+
+__11.11.1__	The financial year shall run from 1st April to 31st March.
+
+__11.11.2__ The society shall be non-profit making. The Office Bearers and members may only receive payment, direct or indirect, as reimbursement for legitimate expenses.
+
+__11.11.3__	Reregistration of the society must be submitted in accordance with the deadlines set by the Activities team.
+
+__11.11.4__	Annual and Financial Reports must be completed and submitted as part of the reregistration process following the AGM in the second semester.
+
+__11.11.5__	A Society may not register to obtain any legal status, including a limited company or a charitable status.
