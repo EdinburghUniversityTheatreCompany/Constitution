@@ -42,9 +42,14 @@ The one performance is traditionally performed at lunchtime on a Wednesday but i
 ### Mainterm
 
 * No fewer than 3 performances
-* Maximum Funding from the EUTC:
-   * Shows requiring rights: £1050
-   * Shows without rights: £850
+
+* Maximum Funding from the EUTC for a three day get in:
+    Shows requiring rights: £1050
+    Shows without rights: £850
+    
+*Maximum Funding from the EUTC for a week long get in:
+    Shows requiring rights:
+    Shows without rights:
 
 A Mainterm is a slot with a larger budget and a longer run - you will have access to more resources making it great for experienced teams who will make use of more time and resources. With 3+  performances, a mainterm has a chance to become a more polished show with more performance time. 
 
