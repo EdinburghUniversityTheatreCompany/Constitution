@@ -8,7 +8,6 @@ install:
 - npm install -g markdown-pdf
 script:
 - markdown-pdf EUTC-Constitution.md
-- markdown-pdf StandingOrders.md
 deploy:
   provider: releases
   file: "*.pdf"
