@@ -1,5 +1,6 @@
-Edinburgh University Theatre Society - Constitution
+The Constitution of the Edinburgh University Theatre Company
 ==================
+This version adopted 25/09/2019
 
 # ARTICLE 1: INTRODUCTION
 ## ARTICLE 1A: FOUNDATION
