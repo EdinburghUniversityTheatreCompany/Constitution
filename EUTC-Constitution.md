@@ -202,7 +202,7 @@ Edinburgh University Theatre Society - Constitution
     b) Any member of a Subcommittee may be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
 7. Attendance: A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
 
-       ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
+## ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
 1. A temporary arrangements scheme shall be used if a Committee position becomes vacant, or if a Committee member is unable to fulfil their duties for up to four consecutive weeks. The duties of that position (see Article 4B) shall be carried out collectively by other Committee members, or by other appropriate persons approved by a motion at a Committee Meeting.
 2. Resignation: An elected position becomes vacant if the incumbent:\
     a) Announces their resignation at any EUTC meeting.\
@@ -278,7 +278,7 @@ Edinburgh University Theatre Society - Constitution
 5. The Annual General Meeting (AGM) shall be a GM taking place on a date in the second semester that has been approved by EUSA.
 6. Alteration to this Constitution may only be performed by a motion successfully passed at a GM. Such a motion must include details of the specific clause(s) to be altered, deleted or added. The Committee must be notified of such a motion at least 7 days before the GM, so it can be added to the agenda and the membership notified, as they must be, a few days before the GM.
 
-       ARTICLE 5F: VOTING
+## ARTICLE 5F: VOTING
 1. Two types of voting shall be used:\
     a) YES/NO/ABS voting, when the outcome of a vote must be a binary yes or no. This may be by any fair and practical method specified by the Chair. However, if required by this Constitution or requested by any member present at a meeting, a secret ballot must be used. An abstention shall count towards the meeting’s quorum, but not the outcome of the vote.\
     b) The Single Transferrable Vote (or “STV”), when a preference is required between multiple candidates. The EUTC shall use the Scottish STV method, with the Droop Quota formula. “None” shall always be a valid option in any STV vote. If, by the end of processing, “none” has ranked higher than any true candidates, then those candidates are not selected even if unfilled positions remain.
