@@ -197,7 +197,15 @@ This version adopted 25/09/2019
     b) **Education:** Supports a healthy workshop schedule within the Company and oversees the EUTC's Youth Project and any liaison with schools.\
     c) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business.\
     d) **Redevelopment:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7C/2).\
-    e) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity.
+    e) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity.\
+    f) **Liberation:** Functions as information points and contacts to their relevant group, organises projects to help their groups navigate the EUTC and theatre-making, and communicates and works with the committee to address any concerns with representation in current and future EUTC projects. This subcommittee will consist of 6 Convenors as the following Representatives:\
+    &nbsp;&nbsp;&nbsp;&nbsp;i) BAMER Representative\
+    &nbsp;&nbsp;&nbsp;&nbsp;ii) Disability Representative\
+    &nbsp;&nbsp;&nbsp;&nbsp;iii) LGBTQ+ Representative\
+    &nbsp;&nbsp;&nbsp;&nbsp;iv) Trans* and Non-Binary Representative\
+    &nbsp;&nbsp;&nbsp;&nbsp;v) Women's Representative\
+    &nbsp;&nbsp;&nbsp;&nbsp;vi) Anti-Elitism Representative\
+N.B. it is intended that members who self-identify as the groups vote on their representatives
 6. **Accountability:**\
     a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor.\
     b) Any member of a Subcommittee may be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
