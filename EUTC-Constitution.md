@@ -446,19 +446,3 @@ N.B. it is intended that members who self-identify as the groups vote on their r
 
 # ARTICLE 10: POSTSCRIPT
 1. **Don’t Stop Believing:** The Company believes that the EUTC will continue, in one form or another, indefinitely. However, if it becomes a necessity, the EUTC may only be dissolved by a motion successfully passed at a General Meeting. Any assets it may hold at dissolution shall be distributed among causes friendly to it, and as much as possible compatible with its aims and principles.
-
-# ARTICLE 11: TEMPORARY PROVISION
-1. **History:**\
-    a) This Constitution came into effect at a General Meeting in September 2019, replacing the previous Constitution and its associated Standing Orders (“the Old Constitution”).\
-    b) The transition between the two is governed by Article 9 of the Old Constitution before the transition, and this Article after it.\
-    c) After the transition has occurred, the Old Constitution shall have no authority, effect or consequence.
-2. **Management continuity:** Unless otherwise disqualified, those persons holding an elected or appointed position in the EUTC at the point of transition shall immediately assume the identically named office mentioned in this Constitution without further election or ratification required, with the following exceptions:\
-    a) The Entertainments Manager shall assume the office of Social Events Manager.\
-    b) The Archivist and Librarian shall become Convenors of the Archives Subcommittee.\
-    c) The Sustainability Coordinator shall become a Convenor of the Sustainability Subcommittee.\
-    d) The Workshops Coordinator and Youth Project Coordinator shall become Convenors of the Education Subcommittee.
-3. **Show and festival continuity:**\
-    a) After the transition, all shows and festivals are subject to the rules outlined in this Constitution and documents deriving authority from it.\
-    b) Shows and festivals passed at a General Meeting before the transition shall be assigned a new classification by the Committee for the purposes of regulation under the Production Guidelines. \
-    c) The budgets of shows and festivals already passed shall not be affected by the transition.
-4. **Deletion:** The Secretary shall ensure that this article is deleted from this Constitution once it is no longer relevant.
