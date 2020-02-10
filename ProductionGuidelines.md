@@ -224,15 +224,14 @@ You may request for more time for your get in or get out at a Company Meeting. N
 ###### This section was reviewed by the Business Manager, who can be contacted at business@bedlamtheatre.co.uk
 - **You must stick to your budget. Any overspend that has not been approved will not be reimbursed.** Remind all crew that they are not to spend ANY MONEY without the producer’s say-so and that they MUST give you a receipt if they want to be reimbursed. 
 - **Any budget increases or changes must be proposed at a Committee Meeting, consulting with the Business Manager.**
-- **Each production will be required to submit a deposits.** 
-  - **Deposits are 10% of EUTC grant for shows, £65 for Lunchtime and specified by the Business Manager for other classifications.**
-  - Deposits can be in the form of a cheque, or an envelope containing the correct cash. 
-  - The deposit will only be cashed if, through negligence, you break or damage Bedlam itself, or some other item held or hired by the EUTC. This is the only way that members are in any way financially liable for breaking things. 
-  - Use of the deposit will be discussed by the Committee beforehand and addressed on a case-by-case basis. 
 - Invoices for any expenses should be placed in Business Manager’s pigeonhole in the Bedlam Office, or emailed to the Business Manager at *business@bedlamtheatre.co.uk.* This is the same for any receipts for reimbursements. Remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be paid urgently (such as rights), as well as keeping them up to date on your expenditure. 
 - **Anything you purchase with your show budget (like furniture, paint etc) will be added to the EUTC’s general stock after your run.**
 - **Any tech hires must be approved by the Technical Manager.** 
 - If you have any problems or questions there is a Business resources section on the Bedlam website. Failing that, please talk to the Business Manager. 
+- Bedlam’s alumni group, Friends of Bedlam (FoB), can offer grants to partly fund parts of your show. The application form is on the Business Resources section of the website.
+  - FoB will only fund up to 50% of a project. FoB is interested in funding projects that have long term value to the company. 
+  - **Grant applications must be brought to a committee meeting to discuss it before you can send it to FoB.**
+
 ## 3.3 FUNDRAISING
 **Fundraisers must be proposed at a Committee meeting.** You should give Committee as much notice as possible. Committee can reject a fundraiser if it clashes with another EUTC event, or if there is insufficient evidence to vote on it. To propose a fundraiser you should explain the following:
 - What you are intending to do.
