@@ -189,16 +189,22 @@ This version adopted 25/09/2019
 2. **Structure:**\
     a) A Subcommittee must have at least one Convenor, responsible for ensuring its effectiveness.\
     b) Subcommittee members (including Convenors) may be appointed either by the existing Convenors, or by the Committee, in both cases subject to ratification at a Company or General Meeting.\
-    c) Subcommittee members may be granted more specific titles and duties by the Convenors as appropriate.
+    c) Subcommittee members may be granted more specific titles and duties by the Convenors as appropriate.\
+    d) Permanent Subcommittees may have Elected Convenors, who are convenors with specific duties. These positions should be elected annually at the AGM or the next possible General Meeting.
 3. **Assistance Subcommittees:** Assistants to Committee members may be appointed subject to ratification at a Company or General Meeting. The Committee member is then additionally considered the sole Convenor of a Subcommittee covering their area of responsibility. The Subcommittee is dissolved when the Committee member leaves their position.
 4. **Festival Subcommittees** are described in Article 6C.
 5. **Permanent Subcommittees** may be formed and dissolved by amending this Constitution. If membership falls to zero, the Subcommittee shall continue to exist, but the Committee shall temporarily take responsibility for any vital duties. Permanent Subcommittees currently in existence are:\
     a) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
-    b) **Education:** Supports a healthy workshop schedule within the Company and oversees the EUTC's Youth Project and any liaison with schools.\
-    c) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business.\
+    b) **Education:** Supports a healthy workshop schedule within the Company and oversees the EUTC's Youth Project and any liaison with schools.This subcommittee has the following Elected Convenors: \
+    &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator \
+    &nbsp;&nbsp;&nbsp;&nbsp;ii) Youth Project Coordinator \
+    c) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business. This subcommittee has the following Elected Convenor:\
+    &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator\
     d) **Redevelopment:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7C/2).\
-    e) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity.\
-    f) **Liberation:** Functions as information points and contacts to their relevant group, organises projects to help their groups navigate the EUTC and theatre-making, and communicates and works with the committee to address any concerns with representation in current and future EUTC projects. This subcommittee will consist of 6 Convenors as the following Representatives:\
+    e) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity. This subcommittee has the following Elected Convenors: \
+    &nbsp;&nbsp;&nbsp;&nbsp;i) Librarian\
+    &nbsp;&nbsp;&nbsp;&nbsp;ii) Archivist\
+    f) **Liberation:** Functions as information points and contacts to their relevant group, organises projects to help their groups navigate the EUTC and theatre-making, and communicates and works with the committee to address any concerns with representation in current and future EUTC projects. This subcommittee has the following Elected Convenors:\
     &nbsp;&nbsp;&nbsp;&nbsp;i) BAMER Representative\
     &nbsp;&nbsp;&nbsp;&nbsp;ii) Disability Representative\
     &nbsp;&nbsp;&nbsp;&nbsp;iii) LGBTQ+ Representative\
@@ -207,8 +213,9 @@ This version adopted 25/09/2019
     &nbsp;&nbsp;&nbsp;&nbsp;vi) Anti-Elitism Representative\
 N.B. it is intended that members who self-identify as the groups vote on their representatives
 6. **Accountability:**\
-    a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor.\
-    b) Any member of a Subcommittee may be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
+    a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current unelected membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor.\
+    b) Any member of a Subcommittee may be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.\
+    c) Elected Convenors are subject to the same rules concerning absence, resignation and elections as set out in Article 4D
 7. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
 
 ## ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
@@ -218,7 +225,7 @@ N.B. it is intended that members who self-identify as the groups vote on their r
     b) Informs the President or Secretary of their resignation through verifiable correspondence.\
     c) Has used a temporary arrangements scheme for more than four consecutive weeks, with the unanimous agreement of the welfare contacts.
 3. **By-elections:** If an elected position is vacant, the Committee must trigger a by-election as soon as possible.
-4. **Recall elections** for a Committee member or welfare contact may be triggered by any of the following means:\
+4. **Recall elections** for a Committee member, Elected Convenor or welfare contact may be triggered by any of the following means:\
     a) A motion successfully passed at a Committee Meeting.\
     b) A petition of thirty EUTC members submitted to the Committee.\
     c) A motion successfully passed at a General Meeting.
