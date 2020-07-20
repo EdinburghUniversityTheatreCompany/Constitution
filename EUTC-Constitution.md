@@ -1,6 +1,6 @@
 The Constitution of the Edinburgh University Theatre Company
 ==================
-This version adopted 25/09/2019
+This version adopted 18/03/2020
 
 # ARTICLE 1: INTRODUCTION
 ## ARTICLE 1A: FOUNDATION
@@ -195,9 +195,10 @@ This version adopted 25/09/2019
 4. **Festival Subcommittees** are described in Article 6C.
 5. **Permanent Subcommittees** may be formed and dissolved by amending this Constitution. If membership falls to zero, the Subcommittee shall continue to exist, but the Committee shall temporarily take responsibility for any vital duties. Permanent Subcommittees currently in existence are:\
     a) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
-    b) **Education:** Supports a healthy workshop schedule within the Company and oversees the EUTC's Youth Project and any liaison with schools.This subcommittee has the following Elected Convenors: \
+    b) **Education:** Supports a healthy workshop schedule within the Company and oversees the EUTC's Youth Project and any liaison with schools, as well as working with the core committee to promote engagement and retention of new members. This subcommittee has the following Elected Convenors: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator \
-    &nbsp;&nbsp;&nbsp;&nbsp;ii) Youth Project Coordinator \
+    &nbsp;&nbsp;&nbsp;&nbsp;ii) Engagement Officer \
+    &nbsp;&nbsp;&nbsp;&nbsp;iii) Youth Project Coordinator \
     c) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business. This subcommittee has the following Elected Convenor:\
     &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator\
     d) **Redevelopment:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7C/2).\
@@ -365,7 +366,7 @@ N.B. it is intended that members who self-identify as the groups vote on their r
 3. **Differences to shows:**\
     a) Festival teams select, support and coordinate performances under their banner, but do not directly run them.\
     b) Festivals may curate their own performances, workshops, socials, marketing, prices, menus, show selection process, etc.\
-    c) After a proposal has been selected, Festivals are run as a Subcommittee.\
+    c) After a proposal has been selected, Festivals are run as a Subcommittee.
        
 ## ARTICLE 6D: SHOW RESPONSIBILITIES AND SUSPENSION
 1. **Production teams’ collective responsibilities:**\
