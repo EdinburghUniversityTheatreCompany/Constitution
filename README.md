@@ -1,7 +1,7 @@
-# EUTC Constitution
+# EUTC Constitution & Production Guidelines
 
 This repository is used for collaborative editing of the Edinburgh
-University Theatre Company's constitution and standing orders, with
+University Theatre Company's important documents, constitution and production guidelines, with
 robust version tracking.
 
 This is to be the authoritative copy of the constitution.
