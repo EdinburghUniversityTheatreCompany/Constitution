@@ -63,8 +63,8 @@ This version adopted 30/09/2020
 2. **Liberation representatives duties:**\
     a) Serve as information points and contacts to their groups.\
     b) Organise projects to help their groups navigate the EUTC.\
-    c) Work with Committee to address any concerns relevant to their groups in current and future projects.
-3. **Elections:** Elections and the voting system of liberation representatives will be overseen by Committee, subject to ratification at a GM. It is intended that members who self-identify as the groups vote on their representatives.
+    c) Work with the Committee to address any concerns relevant to their groups in current and future projects.
+3. **Elections:** Elections and the voting system of liberation representatives will be overseen by the Committee, subject to ratification at a GM. It is intended that members who self-identify as the groups vote on their representatives.
 4. **Absence, resignation and recall elections:** All liberation representatives are subject to the same rules as other elected positions as set out in Article 4D, with exception to elections (see 3B/3).
 
 ## ARTICLE 3C: WELFARE CONTACTS
