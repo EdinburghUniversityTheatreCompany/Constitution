@@ -147,7 +147,7 @@ This version adopted 30/09/2020
     b) The integration, training, and development of producers.\
     c) Liaison with press and reviewers.\
     d) Supporting producers with marketing and publicity matters and liaising with them to ensure any minimum requirements are met.
-4. **The President** is responsible for:
+4. **The President** is responsible for:\
     a) The overall conduct of the EUTC.\
     b) Liaison with outside groups, and coordination of hires of the Bedlam Theatre.\
     c) Ensuring the EUTC submits its annual report, risk assessment and reregistration forms to EUSA Activities.\
