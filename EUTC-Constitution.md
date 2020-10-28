@@ -1,6 +1,6 @@
 The Constitution of the Edinburgh University Theatre Company
 ==================
-This version adopted 30/09/2020
+This version adopted 28/10/2020
 
 # ARTICLE 1: INTRODUCTION
 ## ARTICLE 1A: FOUNDATION
@@ -207,13 +207,13 @@ This version adopted 30/09/2020
     &nbsp;&nbsp;&nbsp;&nbsp;i) Archivist\
     &nbsp;&nbsp;&nbsp;&nbsp;ii) Librarian\
     b) **Development:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7B/2).\
-    c) **Education:** Supports a healthy workshop schedule within the Company and oversees the EUTC's Youth Project and any liaison with schools, as well as working with the core committee to promote engagement and retention of new members. This subcommittee has the following Elected Convenors: \
-    &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator \
-    &nbsp;&nbsp;&nbsp;&nbsp;ii) Engagement Officer \
-    &nbsp;&nbsp;&nbsp;&nbsp;iii) Youth Project Coordinator \
+    c) **Engagement:** Promotes the engagement and retention of new members. This subcommittee has the following Elected Convenor: \
+    &nbsp;&nbsp;&nbsp;&nbsp;i) Engagement Officer \
     d) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
     e) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business. This subcommittee has the following Elected Convenor:\
-    &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator
+    &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator \
+    f) **Workshops:** Supports a healthy workshop schedule within the Company. This subcommittee has the following Elected Convenor: \
+    &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
 6. **Accountability:**\
     a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current unelected membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor.\
     b) Any member of a Subcommittee may be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.\
