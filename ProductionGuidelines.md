@@ -1,6 +1,6 @@
 The Production Guidelines of the Edinburgh University Theatre Company
 ==========================
-This version adopted 30/09/2020
+This version adopted 28/10/2020
 
 # 1. Proposing a Show
 ## 1.1 TIMELINE
@@ -48,6 +48,11 @@ EUTC.
   - EUTC grant: Discuss with the Business Manager. Note that there is no venue cost.
   - One of the best ways to take a show to Fringe in a familiar environment with minimal pressure.
   - Marketing, and logistics at Fringe can be very different to term-time; it is a good idea to talk at length to relevant members of Committee before proposing.
+- *Youth Project*
+  - After semester 2
+  - EUTC grant: Discuss with the Business Manager.
+  - The youth project is when young people get the opportunity to do workshops and a show with the EUTC.
+
 ### Festivals
 Festivals are events where the Committee delegates many of their responsibilities to a Subcommittee: the festival team. (This is fully explained in the Constitution; Articles 4C and 6C). They are usually week-long events (but can be shorter) and include a self-contained programme, usually including small-scale performances and workshops. Festivals are not shows, but they are proposed in the same way, and can still be classed as “Reserved” or “Supplementary” in exactly the same way.
 **By the Editing deadline, Festival proposals must have at least one named Administrator/Convenor,** who is responsible for running the festival team and ensuring the event happens. **Before the event actually happens, the team must have gained:**
