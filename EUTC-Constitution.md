@@ -1,6 +1,6 @@
 The Constitution of the Edinburgh University Theatre Company
 ==================
-This version adopted 28/10/2020
+This version adopted 24/02/2021
 
 # ARTICLE 1: INTRODUCTION
 ## ARTICLE 1A: FOUNDATION
