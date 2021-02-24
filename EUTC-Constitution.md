@@ -58,21 +58,12 @@ This version adopted 28/10/2020
 3. **Support:** Members should do their utmost to anticipate and prevent welfare issues and support those affected by them but are urged to act sensitively and responsibly when doing so.
 4. **Speak out:** Members affected by welfare issues are encouraged to make those issues known but must not be penalised for feeling unable to do so.
 
-## ARTICLE 3B: LIBERATION REPRESENTATIVES
-1. **Liberation representatives:** The EUTC shall have 6 liberation representatives, elected annually, to represent the 5 groups defined by EUSA, as well as a liberation representative to combat elitism in the EUTC. The particular terms used to refer to these groups shall be defined by the liberation representatives and their groups themselves.
-2. **Liberation representatives duties:**\
-    a) Serve as information points and contacts to their groups.\
-    b) Organise projects to help their groups navigate the EUTC.\
-    c) Work with the Committee to address any concerns relevant to their groups in current and future projects.
-3. **Elections:** Elections and the voting system of liberation representatives will be overseen by the Committee, subject to ratification at a GM. It is intended that members who self-identify as the groups vote on their representatives.
-4. **Absence, resignation and recall elections:** All liberation representatives are subject to the same rules as other elected positions as set out in Article 4D, with exception to elections (see 3B/3).
-
-## ARTICLE 3C: WELFARE CONTACTS
+## ARTICLE 3B: WELFARE CONTACTS
 1. **Welfare contacts:** The EUTC shall have at least three welfare contacts, with equal responsibilities:\
     a) **A non-committee welfare contact** shall be elected at a General Meeting other than the AGM (see 5E/5). Their term expires one week after the end of the next Freshers’/Welcome Week. This person must not simultaneously be a member of Committee.\
     b) **The President** (see 4B/4) shall be a welfare contact by default. If the President cannot or does not feel they should continue in this role, the Committee shall select a substitute from among their number.\
     c) **Committee welfare contact:** The Committee shall select from their number a welfare contact to serve for the duration of that Committee’s term.\
-    d) **If circumstances require,** an additional welfare contact may be appointed by the Committee or by a motion passed at a General Meeting. Appointment must be of fixed duration and not extend beyond a year.
+    d) **If circumstances require,** an additional welfare contact may be appointed by the Committee or by a motion passed at a General Meeting. Appointment must be of a fixed duration and not extend beyond a year.
 2. **Welfare contact duties:**\
     a) Support those affected by welfare issues.\
     b) Support members in anticipating and preventing welfare issues.\
@@ -85,9 +76,18 @@ This version adopted 28/10/2020
     b) The wellbeing of EUTC members generally.\
     c) Adherence to this Constitution.
 4. **Other relevant people:** It may be more appropriate for other members to handle on-the-spot welfare concerns for a short period. Examples include:\
-    a) At an EUTC social event, the Social Events Manager (see 4B/9).\
+    a) At an EUTC social event, the Social Events Manager (see 4B/8).\
     b) At an EUTC meeting, the Chair (see 5A/3).\
-    c) When the Bedlam Theatre is open to the public, the Duty Manager and Committee Representative (see Article 7C).
+    c) When the Bedlam Theatre is open to the public, the Duty Manager and Committee Representative (see Article 7B/6).
+
+## ARTICLE 3C: LIBERATION REPRESENTATIVES
+1. **Liberation representatives:** The EUTC shall have six liberation representatives, elected annually, to represent the five groups defined by EUSA, as well as a liberation representative to combat elitism in the EUTC. The particular terms used to refer to these groups shall be defined by the liberation representatives and their groups themselves.
+2. **Liberation representatives duties:**\
+    a) Support and represent their groups.\
+    b) Organise activities to help their groups navigate the EUTC.\
+    c) Handle concerns relevant to their groups, working with the rest of Committee.
+3. **Elections:** Elections and the voting procedure of liberation representatives shall be selected and coordinated by the Committee, subject to ratification at a General Meeting. It is intended that members who self-identify as the groups vote on their representatives.
+4. **Absence, resignation and recall elections:** All liberation representatives are subject to the same procedures as other elected positions as set out in Article 4D, with exception to elections (see 3C/3).
 
 ## ARTICLE 3D: MEMBER CONDUCT AND DISCIPLINARY PROCEDURES
 1. **Member conduct obligations:** EUTC members must, in their conduct:\
@@ -99,16 +99,17 @@ This version adopted 28/10/2020
     f) Follow the University of Edinburgh Code of Student Conduct.
 2. **Allegations of misconduct:** If it is alleged that a member has in their conduct disregarded these obligations, then the reacting party (i.e. the Committee or welfare contacts as appropriate) must choose whether to:\
     a) De-escalate the dispute with informal mediation, feed­­back and discussion.\
-    b) Escalate the dispute internally, within the rules outlined in clauses 4 and 5 of this Article.\
+    b) Escalate the dispute internally, within the rules outlined in clauses 5 and 6 of this Article.\
     c) Refer the incident to an external body.
-3. **Considerations:** With all actions, the reacting party must:\
+3. **Recusal:** Any member of the reacting party must recuse themselves if they are involved, named or directly implied in an allegation of misconduct.
+4. **Considerations:** With all actions, the reacting party must:\
     a) Consider the welfare and dignity of all affected.\
     b) Act calmly and fairly, and without prejudice towards social grouping or any other irrelevant distinction.\
     c) Consider any relevant mitigating circumstances, in addition to the seriousness of any alleged misconduct.\
     d) Collect as much evidence and documentation about the allegation, its context and the reaction process as possible (while respecting data protection regulations, and personal boundaries and dignity).\
     e) Consider the long-term interests of the EUTC and its members.
-4. **Warnings:** Upon escalation (see 3D/2b), the reacting party may issue a written warning to a member. One further written warning may be issued if the member’s conduct fails to improve.
-5. **Revoking membership:**\
+5. **Warnings:** Upon escalation (see 3D/2b), the reacting party may issue a written warning to a member. One further written warning may be issued if the member’s conduct fails to improve.
+6. **Revoking membership:**\
     a) EUTC membership can only be revoked by unanimous agreement of the welfare contacts, or by a motion passed unanimously at a Committee meeting.\
     b) All other EUTC-internal avenues must have been explicitly exhausted, or be inappropriate in the given case, for revoking membership to be considered.\
     c) EUSA Activities must be notified (and given copies of all relevant evidence and documentation) whenever a person’s EUTC membership is revoked.\
@@ -118,17 +119,17 @@ This version adopted 28/10/2020
 ## ARTICLE 4A: GENERAL NOTES
 1. **Foundation:** At the Annual General Meeting, the Company shall elect a Committee to carry out certain tasks and hold certain powers on its behalf. As such, all Committee members are ultimately accountable to the Company.
 2. **Purpose:** The Committee exists to facilitate and coordinate the EUTC’s activities, and plan to ensure its continued viability and effectiveness. It is important that the Committee supports the Company and respects its wishes, and the Company supports the Committee and respects its responsibilities.
-3. **Committee elections** must take place at a General Meeting (see Article 5E) and use STV voting (see Article 5F). Candidates will be given the stage (see 5B/1) and take questions for a duration specified by the Chair. A person may be a candidate for election if they satisfy all these requirements:\
+3. **Elections** must take place at a General Meeting (see Article 5E) and use STV voting (see Article 5F). Candidates will be given the stage (see 5B/1) and take questions for a duration specified by the Chair. A person may be a candidate for election if they satisfy all these requirements:\
     a) They are currently a student member (see 2/1).\
     b) They have read this Constitution.\
     c) Two other members nominate them.\
     d) Their being a candidate could not result in a person holding more than one Committee position at the same time.
-4. **Term:** The term of office for all Committee members elected at the AGM (see 5E/5) is, by default, 1st April-31st March inclusive.
+4. **Term:** The term of office for all positions elected at the AGM (see 5E/5) is, by default, 1st April-31st March inclusive.
 5. **EUSA:** Newly elected Committee members must complete all training required by EUSA and must be added to the EUSA society profile immediately at the start of their term. 
 6. **Committee positions** may only be permanently altered by Constitutional Amendment (see 5E/6) Committee members may temporarily share or exchange responsibilities if it is sensible to do so.
 7. **All Committee members must individually:**\
     a) Maintain the standards expected of EUTC members generally (see 3D/1 and throughout).\
-    b) Ensure that the duties specified in Article 4B are carried out, personally or (if appropriate) by an assistant (see 4C/3) or other appropriate person.\
+    b) Ensure that the duties specified in Article 4B are carried out, personally or (if appropriate) by an assistant (see 4C/4) or other appropriate person.\
     c) Prioritise Committee duties over any show responsibilities they may have, but not over their own welfare (see 3A/1).\
     d) Be open and honest with the Company regarding their Committee duties.\
     e) Be consistent in their decision-making, not offering or providing preferential treatment to any individual member or groups of members.\
@@ -173,9 +174,8 @@ This version adopted 28/10/2020
     e) Providing contacts, advice and on hand assistance to set managers and designers.
 8. **The Social Events Manager** is responsible for:\
     a) The social calendar and the overall social health of the EUTC.\
-    b) Ensuring social events remain enjoyable and safe, including acting as default Duty Manager (see 7B/5) when those events take place in the Bedlam Theatre.\
-    c) Providing support to producers with fundraising events.\
-    d) Integrating new members into the Company, working with the rest of Committee.
+    b) Ensuring social events remain enjoyable and safe, including acting as default Duty Manager (see 7B/6) when those events take place in the Bedlam Theatre.\
+    c) Providing support to producers with fundraising events.
 9. **The Technical Manager** is responsible for:\
     a) The integration, training, and development of EUTC technicians and technical designers.\
     b) The maintenance, improvement and hire of technical stock.\
@@ -197,39 +197,42 @@ This version adopted 28/10/2020
 1. **Definition:** A Subcommittee is a formal group of EUTC members, responsible to the Company, with greater responsibilities and duties in a specific area than other EUTC members.
 2. **Structure:**\
     a) A Subcommittee must have at least one Convenor, responsible for ensuring its effectiveness.\
-    b) Subcommittee members (including Convenors) may be appointed either by the existing Convenors, or by the Committee, in both cases subject to ratification at a Company or General Meeting.\
-    c) Subcommittee members may be granted more specific titles and duties by the Convenors as appropriate.\
-    d) Permanent Subcommittees may have Elected Convenors, who are convenors with specific duties. These positions should be elected annually at the AGM or the next possible General Meeting.
-3. **Assistance Subcommittees:** Assistants to Committee members may be appointed subject to ratification at a Company or General Meeting. The Committee member is then additionally considered the sole Convenor of a Subcommittee covering their area of responsibility. The Subcommittee is dissolved when the Committee member leaves their position.
-4. **Festival Subcommittees** are described in Article 6C.
-5. **Permanent Subcommittees** may be formed and dissolved by amending this Constitution. If membership falls to zero, the Subcommittee shall continue to exist, but the Committee shall temporarily take responsibility for any vital duties. Permanent Subcommittees currently in existence are:\
-    a) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity. This subcommittee has the following Elected Convenors: \
+    b) Subcommittee members (including Convenors) may be elected, or appointed either by the existing Convenors, or by the Committee, in both cases subject to ratification at a Company or General Meeting.\
+    c) Appointed Subcommittee members may be granted more specific titles and duties by the Convenors.\
+    d) Subcommittees may otherwise structure themselves as appropriate, within the limits set out in this Constitution.
+3. **Elected positions:**\
+    a) Subcommittees may have elected positions with specific titles and duties. They shall be elected at the AGM and be ultimately responsible to the Company.\
+    b) Subcommittees may have permanent elected positions added or removed by amending this Constitution.\
+    c) Temporary elected positions may be added by the Committee, subject to ratification at a General Meeting. The Committee shall inform the Company at least 7 days before the GM. The position must be of a fixed duration and not extend beyond a year.
+4. **Assistance Subcommittees:** Assistants to Committee members may be appointed subject to ratification at a Company or General Meeting. The Committee member is then additionally considered the sole Convenor of a Subcommittee covering their area of responsibility. The Subcommittee is dissolved when the Committee member leaves their position.
+5. **Festival Subcommittees** are described in Article 6C.
+6. **Permanent Subcommittees** may be formed and dissolved by amending this Constitution. If membership falls to zero, the Subcommittee shall continue to exist, but the Committee shall temporarily take responsibility for any vital duties. Permanent Subcommittees currently in existence are:\
+    a) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity. This subcommittee has the following elected Convenors: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Archivist\
     &nbsp;&nbsp;&nbsp;&nbsp;ii) Librarian\
     b) **Development:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7B/2).\
-    c) **Engagement:** Promotes the engagement and retention of new members. This subcommittee has the following Elected Convenor: \
+    c) **Engagement:** Promotes the engagement and retention of new members. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Engagement Officer \
     d) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
-    e) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business. This subcommittee has the following Elected Convenor:\
+    e) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business. This subcommittee has the following elected Convenor:\
     &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator \
-    f) **Workshops:** Supports a healthy workshop schedule within the Company. This subcommittee has the following Elected Convenor: \
+    f) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
-6. **Accountability:**\
-    a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current unelected membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor.\
-    b) Any member of a Subcommittee may be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.\
-    c) Elected Convenors are subject to the same rules concerning absence, resignation and elections as set out in Article 4D
-7. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
+7. **Accountability:**\
+    a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current appointed membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor if required.\
+    b) Any appointed member of a Subcommittee may resign, or be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
+8. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
 
 ## ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
 1. **A temporary arrangements scheme** shall be used if a Committee position becomes vacant, or if a Committee member is unable to fulfil their duties for up to four consecutive weeks. The duties of that position (see Article 4B) shall be carried out collectively by other Committee members, or by other appropriate persons approved by a motion at a Committee Meeting.
-2. **Resignation:** An elected position becomes vacant if the incumbent:\
+2. **Resignation:** An elected position or welfare contact becomes vacant if the incumbent:\
     a) Announces their resignation at any EUTC meeting.\
     b) Informs the President or Secretary of their resignation through verifiable correspondence.\
     c) Has used a temporary arrangements scheme for more than four consecutive weeks, with the unanimous agreement of the welfare contacts.
 3. **By-elections:** If an elected position is vacant, the Committee must trigger a by-election as soon as possible.
 4. **Recall elections** for an elected position or welfare contact may be triggered by any of the following means:\
     a) A motion successfully passed at a Committee Meeting.\
-    b) A petition of thirty EUTC members submitted to the Committee.\
+    b) A petition of 20 EUTC members submitted to the Committee.\
     c) A motion successfully passed at a General Meeting.
 5. **Timing:** At least one week must have elapsed between the triggering of a recall or by-election and the election itself. The election must take place at the first General Meeting after this week has concluded.
 6. **Rules:** Recall and by-elections are governed by the same procedural rules as any other election (see 4A/3). The incumbent shall not be barred from standing, unless otherwise disqualified by this Constitution.
@@ -405,7 +408,7 @@ This version adopted 28/10/2020
     a) Clarify, formalise and update the EUTC’s buildings relationship with EUSA and the University.\
     b) Update this Constitution with new and verified information concerning this.\
     c) Inform and educate interested Company members about the legal and practical status of the EUTC, its operation and its relationships.
-2. **Significant changes** to the status or use of the Bedlam Theatre and proposals for major or disruptive refurbishment (see also 4C/5b) must be approved by a motion successfully passed at a General Meeting before the Committee can consent to these changes being executed.
+2. **Significant changes** to the status or use of the Bedlam Theatre and proposals for major or disruptive refurbishment (see also 4C/6b) must be approved by a motion successfully passed at a General Meeting before the Committee can consent to these changes being executed.
 3. **Licences, health and safety and the law** with respect to the Bedlam Theatre are the responsibility of the Theatre Manager, but all EUTC members should assist with ensuring adherence to these conditions whenever possible.
 4. **Insurance:** The EUTC shall provide funds for the Theatre Manager to purchase personal liability insurance relevant to their role.
 5. **Staffing** shall be administrated by the Front of House (FOH) Manager (see 4B/2).
@@ -426,7 +429,7 @@ This version adopted 28/10/2020
     b) They have not attended a maintenance session within a sensible timeframe clearly set beforehand by the Theatre Manager.
 3. **Debt can be cancelled by:**\
     a) The member committing to tasks equivalent to 7C/1, as agreed between the member and the FOH and Theatre Managers. Debt can be reinstated only if these tasks are not performed.\
-    b) An order by one of the welfare contacts (see 3C/1), if the member is in debt as the result of a welfare issue.\
+    b) An order by one of the welfare contacts (see 3B/1), if the member is in debt as the result of a welfare issue.\
     c) A motion successfully passed at a Committee Meeting.\
     d) The automatic cancellation of all debt on 31st August each year.
 4. **While in debt to the Company,** a member cannot:\
