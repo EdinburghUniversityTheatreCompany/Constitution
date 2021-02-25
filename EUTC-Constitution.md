@@ -83,7 +83,7 @@ This version adopted 24/02/2021
 ## ARTICLE 3C: LIBERATION REPRESENTATIVES
 1. **Liberation representatives:** The EUTC shall have six liberation representatives, elected annually, to represent the five groups defined by EUSA, as well as a liberation representative to combat elitism in the EUTC. The particular terms used to refer to these groups shall be defined by the liberation representatives and their groups themselves.
 2. **Liberation representatives duties:**\
-    a) Support and represent their groups.\
+    a) Serve as information points and contacts to their groups.\
     b) Organise activities to help their groups navigate the EUTC.\
     c) Handle concerns relevant to their groups, working with the rest of Committee.
 3. **Elections:** Elections and the voting procedure of liberation representatives shall be selected and coordinated by the Committee, subject to ratification at a General Meeting. It is intended that members who self-identify as the groups vote on their representatives.
