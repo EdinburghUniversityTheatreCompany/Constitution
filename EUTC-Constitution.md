@@ -197,7 +197,7 @@ This version adopted 24/02/2021
 1. **Definition:** A Subcommittee is a formal group of EUTC members, responsible to the Company, with greater responsibilities and duties in a specific area than other EUTC members.
 2. **Structure:**\
     a) A Subcommittee must have at least one Convenor, responsible for ensuring its effectiveness.\
-    b) Subcommittee members (including Convenors) may be elected, or appointed either by the existing Convenors, or by the Committee, in both cases subject to ratification at a Company or General Meeting.\
+    b) Subcommittee members (including Convenors) may be elected, or appointed either by the existing Convenors or by the Committee, in both cases subject to ratification at a Company or General Meeting.\
     c) Appointed Subcommittee members may be granted more specific titles and duties by the Convenors.\
     d) Subcommittees may otherwise structure themselves as appropriate, within the limits set out in this Constitution.
 3. **Elected positions:**\
