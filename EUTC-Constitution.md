@@ -67,7 +67,7 @@ This version adopted 24/02/2021
 2. **Welfare contact duties:**\
     a) Support those affected by welfare issues.\
     b) Support members in anticipating and preventing welfare issues.\
-    c) With Company input, maintain and promote an advisory Welfare Agreement.\
+    c) With Company input, maintain and promote advisory welfare policies.\
     d) Monitor welfare-relevant external policies and, when relevant, maintain dialogue with EUSA regarding the mechanisms outlined in Article 3D.\
     e) Propose welfare-focussed changes in policy to the Committee and Company.\
     f) Other welfare-relevant duties the Company, Committee, Production Guidelines, or this Constitution may assign.
