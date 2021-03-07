@@ -220,7 +220,7 @@ This version adopted 24/02/2021
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
 7. **Accountability:**\
     a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current appointed membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor if required.\
-    b) Any appointed member of a Subcommittee may resign, or be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
+    b) Any appointed member of a Subcommittee may stand down, or be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
 8. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
 
 ## ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
