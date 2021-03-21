@@ -87,7 +87,7 @@ This version adopted 24/02/2021
     b) Organise activities to help their groups navigate the EUTC.\
     c) Handle concerns relevant to their groups, working with the rest of Committee.
 3. **Elections:** Elections and the voting procedure of liberation representatives shall be selected and coordinated by the Committee, subject to ratification at a General Meeting. It is intended that members who self-identify as the groups vote on their representatives.
-4. **Absence, resignation and recall elections:** All liberation representatives are subject to the same procedures as other elected positions as set out in Article 4D, with exception to elections (see 3C/3).
+4. **Accountability:** All liberation representatives are subject to the same procedures as other elected positions as set out in Article 4, with exception to elections (see 3C/3).
 
 ## ARTICLE 3D: MEMBER CONDUCT AND DISCIPLINARY PROCEDURES
 1. **Member conduct obligations:** EUTC members must, in their conduct:\
@@ -110,7 +110,7 @@ This version adopted 24/02/2021
     e) Consider the long-term interests of the EUTC and its members.
 5. **Warnings:** Upon escalation (see 3D/2b), the reacting party may issue a written warning to a member. One further written warning may be issued if the member’s conduct fails to improve.
 6. **Revoking membership:**\
-    a) EUTC membership can only be revoked by unanimous agreement of the welfare contacts, or by a motion passed unanimously at a Committee meeting.\
+    a) EUTC membership can only be revoked by unanimous agreement of the welfare contacts, or by a motion passed unanimously at a Committee meeting, excluding recused members.\
     b) All other EUTC-internal avenues must have been explicitly exhausted, or be inappropriate in the given case, for revoking membership to be considered.\
     c) EUSA Activities must be notified (and given copies of all relevant evidence and documentation) whenever a person’s EUTC membership is revoked.\
     d) Any person whose membership is revoked may appeal the decision to EUSA Activities, whose decision is definitive and final.
