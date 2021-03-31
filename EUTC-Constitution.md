@@ -345,7 +345,7 @@ This version adopted 31/03/2021
     a) Not obviously illegal or in breach of a relevant licence or insurance policy.\
     b) Contains enough information for the GM to make an informed decision on its production merit.\
     c) Sincerely intended as a proposal.\
-    d) Does not clash with an existing or reserved EUTC event without permission (see 6A/4b).\
+    d) Does not clash with an existing or reserved EUTC event, without permission (see 6A/4b).\
     e) Explicitly names a core production team of EUTC members (see also 7C/4b). The roles required of each classification shall be specified in the Production Guidelines.
 4. **Release:** All other written proposals must be promptly made available to all EUTC members.
 5. **Pitch:** At the GM, proposal teams are given the stage (see 5B/1), and are entitled to a speech followed by questions from the rake of a duration decided by the Chair.
