@@ -101,13 +101,13 @@ This version adopted 24/02/2021
     a) De-escalate the dispute with informal mediation, feed­­back and discussion.\
     b) Escalate the dispute internally, within the rules outlined in clauses 5 and 6 of this Article.\
     c) Refer the incident to an external body.
-3. **Recusal:** Any member of the reacting party must recuse themselves if they are involved, named or directly implied in an allegation of misconduct.
-4. **Considerations:** With all actions, the reacting party must:\
+3. **Considerations:** With all actions, the reacting party must:\
     a) Consider the welfare and dignity of all affected.\
     b) Act calmly and fairly, and without prejudice towards social grouping or any other irrelevant distinction.\
     c) Consider any relevant mitigating circumstances, in addition to the seriousness of any alleged misconduct.\
     d) Collect as much evidence and documentation about the allegation, its context and the reaction process as possible (while respecting data protection regulations, and personal boundaries and dignity).\
     e) Consider the long-term interests of the EUTC and its members.
+4. **Recusal:** Any member of the reacting party must recuse themselves if they are involved, named or directly implied in an allegation of misconduct.
 5. **Warnings:** Upon escalation (see 3D/2b), the reacting party may issue a written warning to a member. One further written warning may be issued if the member’s conduct fails to improve.
 6. **Revoking membership:**\
     a) EUTC membership can only be revoked by unanimous agreement of the welfare contacts, or by a motion passed unanimously at a Committee meeting, excluding recused members.\
@@ -341,12 +341,12 @@ This version adopted 24/02/2021
 ## ARTICLE 6B: THE SELECTION PROCESS
 1. **Open applications:** The Productions Manager shall make application forms available for all classifications to be selected at the next General Meeting (GM), specifying the number of slots available for each.
 2. **Submission Deadline:** A first draft of a written proposal must be submitted before the submission deadline. The Committee will review the proposals and offer advice if appropriate, which the proposal team may choose to ignore.
-3. **Editing deadline:** Proposals cannot be edited after the editing deadline. Subsequently, the Committee must reject any proposal that, after the Committee have given their advice:\
-    a) Is obviously illegal or in breach of a relevant licence or insurance policy.\
-    b) Does not contain enough information for the GM to make an informed decision on its production merit.\
-    c) Is not sincerely intended as a proposal.\
-    d) Clashes with an extant or reserved EUTC event, without permission as described in clause 6A/4b. \
-    e) Does not explicitly name a core production team of EUTC members (see also 7C/4b). The roles required of each classification shall be specified in the Production Guidelines.
+3. **Editing deadline:** Proposals cannot be edited after the editing deadline. Subsequently, the Committee must approve any proposal that, after the Committee have given their advice, fulfill all of the following requirements:\
+    a) Not obviously illegal or in breach of a relevant licence or insurance policy.\
+    b) Contains enough information for the GM to make an informed decision on its production merit.\
+    c) Sincerely intended as a proposal.\
+    d) Does not clash with an existing or reserved EUTC event without permission (see 6A/4b).\
+    e) Explicitly names a core production team of EUTC members (see also 7C/4b). The roles required of each classification shall be specified in the Production Guidelines.
 4. **Release:** All other written proposals must be promptly made available to all EUTC members.
 5. **Pitch:** At the GM, proposal teams are given the stage (see 5B/1), and are entitled to a speech followed by questions from the rake of a duration decided by the Chair.
 6. **Production Merit:** All proposals must pass a production merit vote before they can be included on a preference ballot. This is a YES/NO/ABS vote (see 5F/1a) by mandatory secret ballot. The proposal must meet the following criteria with a two thirds majority:\
