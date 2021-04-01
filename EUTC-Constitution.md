@@ -78,7 +78,7 @@ This version adopted 31/03/2021
 4. **Other relevant people:** It may be more appropriate for other members to handle on-the-spot welfare concerns for a short period. Examples include:\
     a) At an EUTC social event, the Social Events Manager (see 4B/8).\
     b) At an EUTC meeting, the Chair (see 5A/3).\
-    c) When the Bedlam Theatre is open to the public, the Duty Manager and Committee Representative (see Article 7B/6).
+    c) When the Bedlam Theatre is open to the public, the Duty Manager and Committee Representative (see 7B/6).
 
 ## ARTICLE 3C: LIBERATION REPRESENTATIVES
 1. **Liberation representatives:** The EUTC shall have six liberation representatives, elected annually, to represent the five groups defined by EUSA, as well as a liberation representative to combat elitism in the EUTC. The particular terms used to refer to these groups shall be defined by the liberation representatives and their groups themselves.
