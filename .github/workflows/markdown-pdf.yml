@@ -1,4 +1,4 @@
-name: Publish Document to Release
+name: Publish Latest Combined PDF
 
 on:
   push:
