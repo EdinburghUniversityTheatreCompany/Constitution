@@ -27,8 +27,10 @@ jobs:
       - if: github.event_name == 'release' && github.event.action == 'published'
         name: Attach PDF to Release
         uses: actions/upload-release-asset@v1
+        env:
+          TAG_NAME: ${{ steps.release.outputs.tag_name }}
         with:
           upload_url: ${{ steps.release.outputs.upload_url }}
           asset_path: ${{ steps.publish-document.outputs.pdf }}
-          asset_name: 'constitution-production-guidelines-${{ steps.release.outputs.tag_name }}'
+          asset_name: 'constitution-production-guidelines-$TAG_NAME.pdf'
           asset_content_type: application/pdf
