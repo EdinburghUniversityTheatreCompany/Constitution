@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Publish PDF Document
-        uses: shrink/actions-document-publish@v1
+        uses: shrink/actions-document-publish@v1.1.1
         id: publish-document
         with:
           sources: 'EUTC-Constitution.md ProductionGuidelines.md'
