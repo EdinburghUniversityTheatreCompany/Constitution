@@ -1,6 +1,6 @@
 The Production Guidelines of the Edinburgh University Theatre Company
 ==========================
-This version adopted 28/10/2020
+This version adopted 28.10.2020
 
 # 1. Proposing a Show
 ## 1.1 TIMELINE
