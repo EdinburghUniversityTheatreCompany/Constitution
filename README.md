@@ -10,7 +10,7 @@ This repository is used for collaborative editing of the Edinburgh University Th
 
 This is to be the authoritative copy of the constitution.
 
-The 'master' branch is the official and currently in use branch and has been protected from pushes. Changes to this branch need to be agreed through standard constitution change processes, including being approved by committee/company as appropriate. Please use branches and forks for development.
+The 'main' branch is the official and currently in use branch and has been protected from pushes. Changes to this branch need to be agreed through standard constitution change processes, including being approved by committee/company as appropriate. Please use branches and forks for development.
 
 On creation of a release, a Github action runs that automatically generates a combined PDF for both the constitution and production guidelines. This is to serve as a record if needed.
 
