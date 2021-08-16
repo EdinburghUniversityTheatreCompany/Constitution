@@ -1,5 +1,6 @@
 ---
 title: Home
+permalink: /index.html
 nav_order: 1
 ---
 
