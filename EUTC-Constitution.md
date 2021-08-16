@@ -2,7 +2,7 @@
 title: Constitution
 nav_order: 2
 ---
-The Constitution of the Edinburgh University Theatre Company
+# The Constitution of the Edinburgh University Theatre Company {: .no_toc }
 ==================
 This version adopted 31.03.2021
 
@@ -15,8 +15,8 @@ This version adopted 31.03.2021
 {:toc}
 </details>
 
-# ARTICLE 1: INTRODUCTION
-## ARTICLE 1A: FOUNDATION
+## ARTICLE 1: INTRODUCTION
+#### ARTICLE 1A: FOUNDATION
 1. **Name:** The name of the society shall be the “Edinburgh University Theatre Company”, hereinafter referred to as “the EUTC” or “the Company”.
 2. **Constitution:** This Constitution sets out the general foundation, structure, and mechanisms of the EUTC and is to be followed by all EUTC members. This Constitution supercedes all previous Constitutions and must be available to all EUTC members at all times.
 3. **Dates:** All academic dates in this Constitution relate to the calendar of the University of Edinburgh.
@@ -35,7 +35,7 @@ This version adopted 31.03.2021
     d) **Democracy:** Primary authority within the EUTC rests with the membership at large. As such, the EUTC is to be run as much as possible on principles of democracy, transparency, consensus, and consultation.\
     e) **Inclusivity:** The EUTC must be socially and structurally open to everyone, within the limits set out in this Constitution.
 
-## ARTICLE 1B: LEGAL STATUS AND EUSA
+#### ARTICLE 1B: LEGAL STATUS AND EUSA
 1. **Society:** The EUTC is a society affiliated to the Edinburgh University Students’ Association (or “EUSA”). It shall follow all EUSA society regulations, unless an exception has been agreed with the relevant departments of EUSA. 
 2. **The EUTC is an unincorporated association,** without legal personality or charitable status independent of its members or EUSA. As such:\
     a) **Property** can only be permanently held (rather than legally owned) by the EUTC.\
@@ -46,7 +46,7 @@ This version adopted 31.03.2021
 5. **Data Protection:** The Company will ensure that it complies with any relevant data protection legislation. The Secretary shall act as Data Protection Officer.
 6. **Practicalities** concerning the EUTC’s finances are described in Article 7A, while the Bedlam Theatre and its status is described in Article 7B.
 
-# ARTICLE 2: MEMBERSHIP
+## ARTICLE 2: MEMBERSHIP
 1. **Student Membership** shall be open to all matriculated students of the University of Edinburgh.
 2. **Non-student Membership:** Any other person may become a non-student member, provided that:\
     a) The membership fee for non-student members is twice that of student members. \
@@ -60,8 +60,8 @@ This version adopted 31.03.2021
     c) A person may reject Honorary Life Membership conferred upon themselves.\
     d) Honorary Life Membership is not a substitute for EUTC membership, though Honorary Life Members shall receive the same discounts on tickets and merchandise as members.
 
-# ARTICLE 3: WELFARE, REPRESENTATION AND CONDUCT
-## ARTICLE 3A: GENERAL RESPONSIBILITIES
+## ARTICLE 3: WELFARE, REPRESENTATION AND CONDUCT
+#### ARTICLE 3A: GENERAL RESPONSIBILITIES
 1. **Definition:** A welfare issue is one relating to Company activities that:\
     a) Is, has or may affect the wellbeing, health (physical or mental), safety or academic development of any EUTC member, or\
     b) Involves the bullying, harassment, coercion, assault, or intimidation of (or by) any EUTC member.
@@ -71,7 +71,7 @@ This version adopted 31.03.2021
 3. **Support:** Members should do their utmost to anticipate and prevent welfare issues and support those affected by them but are urged to act sensitively and responsibly when doing so.
 4. **Speak out:** Members affected by welfare issues are encouraged to make those issues known but must not be penalised for feeling unable to do so.
 
-## ARTICLE 3B: WELFARE CONTACTS
+#### ARTICLE 3B: WELFARE CONTACTS
 1. **Welfare contacts:** The EUTC shall have at least three welfare contacts, with equal responsibilities:\
     a) **A non-committee welfare contact** shall be elected at a General Meeting other than the AGM (see 5E/5). Their term expires one week after the end of the next Freshers’/Welcome Week. This person must not simultaneously be a member of Committee.\
     b) **The President** (see 4B/4) shall be a welfare contact by default. If the President cannot or does not feel they should continue in this role, the Committee shall select a substitute from among their number.\
@@ -93,7 +93,7 @@ This version adopted 31.03.2021
     b) At an EUTC meeting, the Chair (see 5A/3).\
     c) When the Bedlam Theatre is open to the public, the Duty Manager and Committee Representative (see 7B/6).
 
-## ARTICLE 3C: LIBERATION REPRESENTATIVES
+#### ARTICLE 3C: LIBERATION REPRESENTATIVES
 1. **Liberation representatives:** The EUTC shall have six liberation representatives, elected annually, to represent the five groups defined by EUSA, as well as a liberation representative to combat elitism in the EUTC. The particular terms used to refer to these groups shall be defined by the liberation representatives and their groups themselves.
 2. **Liberation representatives duties:**\
     a) Serve as information points and contacts to their groups.\
@@ -102,7 +102,7 @@ This version adopted 31.03.2021
 3. **Elections:** Elections and the voting procedure of liberation representatives shall be selected and coordinated by the Committee, subject to ratification at a General Meeting. It is intended that members who self-identify as the groups vote on their representatives.
 4. **Accountability:** All liberation representatives are subject to the same procedures as other elected positions as set out in Article 4, with exception to elections (see 3C/3).
 
-## ARTICLE 3D: MEMBER CONDUCT AND DISCIPLINARY PROCEDURES
+#### ARTICLE 3D: MEMBER CONDUCT AND DISCIPLINARY PROCEDURES
 1. **Member conduct obligations:** EUTC members must, in their conduct:\
     a) Not actively create any welfare issue as defined in 3A/1.\
     b) Not deliberately act against the long term-interests of the EUTC.\
@@ -128,8 +128,8 @@ This version adopted 31.03.2021
     c) EUSA Activities must be notified (and given copies of all relevant evidence and documentation) whenever a person’s EUTC membership is revoked.\
     d) Any person whose membership is revoked may appeal the decision to EUSA Activities, whose decision is definitive and final.
 
-# ARTICLE 4: MANAGEMENT
-## ARTICLE 4A: GENERAL NOTES
+## ARTICLE 4: MANAGEMENT
+#### ARTICLE 4A: GENERAL NOTES
 1. **Foundation:** At the Annual General Meeting, the Company shall elect a Committee to carry out certain tasks and hold certain powers on its behalf. As such, all Committee members are ultimately accountable to the Company.
 2. **Purpose:** The Committee exists to facilitate and coordinate the EUTC’s activities, and plan to ensure its continued viability and effectiveness. It is important that the Committee supports the Company and respects its wishes, and the Company supports the Committee and respects its responsibilities.
 3. **Elections** must take place at a General Meeting (see Article 5E) and use STV voting (see Article 5F). Candidates will be given the stage (see 5B/1) and take questions for a duration specified by the Chair. A person may be a candidate for election if they satisfy all these requirements:\
@@ -149,7 +149,7 @@ This version adopted 31.03.2021
     f) Complete any Committee staffing and maintenance requirements (see also 7C/1a).\
     g) Have a good attendance record at Committee meetings (see Article 5C) attending at least half per semester.
 
-## ARTICLE 4B: COMMITTEE POSITIONS AND DUTIES
+#### ARTICLE 4B: COMMITTEE POSITIONS AND DUTIES
 1. **The Business Manager (Treasurer)** is responsible for the EUTC’s finances, including:\
     a) The preparation and maintenance of the Company’s accounting records, and other finance duties outlined in Article 7A and 1B/4.\
     b) Supporting producers with financial matters.
@@ -206,7 +206,7 @@ This version adopted 31.03.2021
     b) The upkeep, replacement and hire of costumes. \
     c) Providing contacts, advice and on hand assistance to production teams on costume matters.
     
-## ARTICLE 4C: SUBCOMMITTEES
+#### ARTICLE 4C: SUBCOMMITTEES
 1. **Definition:** A Subcommittee is a formal group of EUTC members, responsible to the Company, with greater responsibilities and duties in a specific area than other EUTC members.
 2. **Structure:**\
     a) A Subcommittee must have at least one Convenor, responsible for ensuring its effectiveness.\
@@ -236,7 +236,7 @@ This version adopted 31.03.2021
     b) Any appointed member of a Subcommittee may stand down, or be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
 8. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
 
-## ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
+#### ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
 1. **A temporary arrangements scheme** shall be used if a Committee position becomes vacant, or if a Committee member is unable to fulfil their duties for up to four consecutive weeks. The duties of that position (see Article 4B) shall be carried out collectively by other Committee members, or by other appropriate persons approved by a motion at a Committee Meeting.
 2. **Resignation:** An elected position or welfare contact becomes vacant if the incumbent:\
     a) Announces their resignation at any EUTC meeting.\
@@ -250,8 +250,8 @@ This version adopted 31.03.2021
 5. **Timing:** At least one week must have elapsed between the triggering of a recall or by-election and the election itself. The election must take place at the first General Meeting after this week has concluded.
 6. **Rules:** Recall and by-elections are governed by the same procedural rules as any other election (see 4A/3). The incumbent shall not be barred from standing, unless otherwise disqualified by this Constitution.
 
-# ARTICLE 5: MEETINGS
-## ARTICLE 5A: GENERAL NOTES
+## ARTICLE 5: MEETINGS
+#### ARTICLE 5A: GENERAL NOTES
 1. **Types:** There shall be three types of meeting whose rulings hold authority for internal EUTC decisions - Committee, Company, and General - or collectively, “EUTC meetings”. Each has a different mandate, specified herein.
 2. **Publicity:** The Secretary and President must go to reasonable lengths to publicise the time and location of EUTC meetings to the membership by the relevant deadline, specified herein.
 3. **The Chair:** EUTC meetings shall be moderated by a member; the Chair. The Chair shall open and close the meeting, keep order and civility during the meeting and may adjourn for an intermission. By default, the Chair shall be the President or their appointee. If this person is absent, the members assembled shall informally agree on a Chair, who shall open the meeting. The Chair cannot vote at EUTC meetings, except to break a tie.
@@ -267,7 +267,7 @@ This version adopted 31.03.2021
     b) If their remaining as the Chair is otherwise inappropriate.
 12. **Replacement:** If such a motion is passed, the Chair must stand down and the Clerk shall nominate another member present as a replacement. Anyone may demand the Clerk’s nomination be approved by YES/NO/ABS vote (see 5F/1a); if not approved with a two thirds majority, the Clerk shall nominate yet another member present as Chair, continuing until a replacement is found.
 
-## ARTICLE 5B: PROCEDURE AND MOTIONS
+#### ARTICLE 5B: PROCEDURE AND MOTIONS
 1. **Auditorium Analogy:** When motions are proposed or a similar level of formality is required, an auditorium analogy shall be used by the Chair to govern speaking rights. For a member present to speak, the Chair must “give” them either “the stage” or “the rake” (i.e. seating rake). The meeting-place shall therefore be split between:\
     a) **The Chair** (with the Clerk)\
     b) **The stage:** members holding the stage shall pitch and drive forward the topic of discussion (motion, show proposal or otherwise)\
@@ -288,7 +288,7 @@ This version adopted 31.03.2021
 11. **Just before voting,** the main parties to the debate can briefly summarise their positions. Only points of order (see 5B/3) may be raised by this point.
 12. **YES/NO/ABS voting** by two thirds majority (see 5F/1a) shall be used for all votes concerning motions, unless stated otherwise in this Constitution.
 
-## ARTICLE 5C: COMMITTEE MEETINGS
+#### ARTICLE 5C: COMMITTEE MEETINGS
 1. **Voting rights:** Any EUTC member may attend a Committee Meeting, but only members of the EUTC Committee can vote.
 2. **Quorum:** The quorum for Committee Meetings shall be Committee Members and any two additional EUTC members, five in all.
 3. **Function and mandate:** Committee Meetings primarily serve as a forum for Committee to report developments in their areas of responsibility and discuss matters of mutual interest. Committee Meetings may only rule on:\
@@ -298,13 +298,13 @@ This version adopted 31.03.2021
 4. **Regularity:** Committee Meetings shall occur weekly throughout the academic year, at as consistent a time and place as circumstances allow. Additional Committee Meetings may be called by the President or Secretary with 24 hours written or email notice to the Company, or no notice at all if held immediately before a General Meeting.
 5. **Motions** at a Committee Meeting require only a simple majority to be approved.
 
-## ARTICLE 5D: COMPANY MEETINGS
+#### ARTICLE 5D: COMPANY MEETINGS
 1. **Voting rights:** All EUTC student members attending are entitled to a vote at a Company Meeting.
 2. **Quorum:** The quorum for Company Meetings shall be five EUTC student members.
 3. **Function and mandate:** Company Meetings primarily serve as a channel of formal communication between show teams and the Company. They may only rule on those issues that this Constitution (and documents deriving authority from it) specifically say that they can.
 4. **Regularity:** Company Meetings shall occur weekly throughout the academic year, at as consistent a time and place as circumstances allow. Additional Company Meetings may be called by the President or Secretary with 24 hours written or email notice to the Company.
 
-## ARTICLE 5E: GENERAL MEETINGS
+#### ARTICLE 5E: GENERAL MEETINGS
 1. **Voting rights:** All EUTC student members are entitled to a vote at a General Meeting (or GM).
 2. **Quorum:** The quorum for GMs shall be either 30 members or 10% of the current membership, whichever is lower.
 3. **Mandate:** GMs have the authority to rule on any issue within the Company’s control, if not prohibited by this Constitution. If a ruling made at a Company or Committee Meeting or at a previous GM is outwith that meeting’s mandate or against the interests of the EUTC, it can be overruled by a motion successfully passed at a GM.
@@ -312,7 +312,7 @@ This version adopted 31.03.2021
 5. **The Annual General Meeting (AGM)** shall be a GM taking place on a date in the second semester that has been approved by EUSA.
 6. **Alteration to this Constitution** may only be performed by a motion successfully passed at a GM. Such a motion must include details of the specific clause(s) to be altered, deleted or added. The Committee must be notified of such a motion at least 7 days before the GM, so it can be added to the agenda and the membership notified, as they must be, a few days before the GM.
 
-## ARTICLE 5F: VOTING
+#### ARTICLE 5F: VOTING
 1. Two types of voting shall be used:\
     a) **YES/NO/ABS voting,** when the outcome of a vote must be a binary yes or no. This may be by any fair and practical method specified by the Chair. However, if required by this Constitution or requested by any member present at a meeting, a secret ballot must be used. An abstention shall count towards the meeting’s quorum, but not the outcome of the vote.\
     b) **The Single Transferrable Vote** (or “STV”), when a preference is required between multiple candidates. The EUTC shall use the Scottish STV method, with the Droop Quota formula. “None” shall always be a valid option in any STV vote. If, by the end of processing, “none” has ranked higher than any true candidates, then those candidates are not selected even if unfilled positions remain.
@@ -330,8 +330,8 @@ This version adopted 31.03.2021
     a) If events occur before or during a meeting that bring the result of a vote into question, a re-count or re-vote may be ordered by the Chair of that meeting, or by a motion passed to that effect. \
     b) If a re-count or re-vote does not occur at that meeting, the numerical result of the vote is held to be valid. However, this does not prevent the matter being revisited at a future meeting if appropriate.
     
-# ARTICLE 6: SHOWS AND OTHER EVENTS
-## ARTICLE 6A: PRODUCTION GUIDELINES, CALENDAR AND CLASSIFICATIONS
+## ARTICLE 6: SHOWS AND OTHER EVENTS
+#### ARTICLE 6A: PRODUCTION GUIDELINES, CALENDAR AND CLASSIFICATIONS
 1. **Statement of Intent:**\
     a) For the EUTC to fulfil its aims, it is essential that creative freedom and trial and error are nurtured in its members and productions. \
     b) However, a well-defined and fair set of rules and responsibilities applying equally to all proposal and production teams is an important part of running a complex theatre society and public venue.\
@@ -351,7 +351,7 @@ This version adopted 31.03.2021
     b) **Supplementary,** where the Committee does not include an event in the calendar prior to receiving proposals. Supplementary events may be proposed to take place either in unspecified time, or in time already allocated to a reserved event or a supplementary event already selected. In these latter cases, permission to proceed must be obtained both from the Committee, and the team for the affected event (if such a team has already been selected).
 5. **Further classification** of events is outlined in the PGs, which must specify any classification-specific details of budgets, time granted in venues, required roles on a production team etc.
 
-## ARTICLE 6B: THE SELECTION PROCESS
+#### ARTICLE 6B: THE SELECTION PROCESS
 1. **Open applications:** The Productions Manager shall make application forms available for all classifications to be selected at the next General Meeting (GM), specifying the number of slots available for each.
 2. **Submission Deadline:** A first draft of a written proposal must be submitted before the submission deadline. The Committee will review the proposals and offer advice if appropriate, which the proposal team may choose to ignore.
 3. **Editing deadline:** Proposals cannot be edited after the editing deadline. Subsequently, the Committee must approve any proposal that, after the Committee have given their advice, fulfill all of the following requirements:\
@@ -374,7 +374,7 @@ This version adopted 31.03.2021
 10. **Original writing:** When original writing by an EUTC member is proposed, the writer must approve by email to the Committee the choice of Producer and Director, along with any later changes to these two positions.
 11. **Vacancies:** If a position on the core team of a show (see 6B/3e) falls vacant for any reason, a replacement must be ratified at a Company or General Meeting.
 
-## ARTICLE 6C: FESTIVALS
+#### ARTICLE 6C: FESTIVALS
 1. **Definition:** A Festival is an extended event where the Committee delegate many of their duties to a Subcommittee (see Article 4C).
 2. **Similarities to shows:**\
     a) Festivals must follow rules laid out in the Production Guidelines (see 6A/2).\
@@ -385,7 +385,7 @@ This version adopted 31.03.2021
     b) Festivals may curate their own performances, workshops, socials, marketing, prices, menus, show selection process, etc.\
     c) After a proposal has been selected, Festivals are run as a Subcommittee.
        
-## ARTICLE 6D: SHOW RESPONSIBILITIES AND SUSPENSION
+#### ARTICLE 6D: SHOW RESPONSIBILITIES AND SUSPENSION
 1. **Production teams’ collective responsibilities:**\
     a) Act openly and honestly when providing information to the Committee or Company, and inform the Committee of any significant or irregular developments with regards to their production.\
     b) Within reason, follow all relevant rules set out in the Production Guidelines (see 6A/2a), any other relevant regulations in this Constitution, and any direct instructions from the Committee specific to their production.
@@ -400,8 +400,8 @@ This version adopted 31.03.2021
     c) Perform, including to an audience of only EUTC members.
 4. **Resolution:** The suspended status of a production may be removed by a motion passed at a Committee Meeting if the Committee judges the issues that caused the suspension suitably resolved or mitigated (see also 5E/3).
 
-# ARTICLE 7: PRACTICALITIES
-## ARTICLE 7A: FINANCES
+## ARTICLE 7: PRACTICALITIES
+#### ARTICLE 7A: FINANCES
 1. **The EUTC’s finances,** revenue and expenditure are an integrated part of EUSA’s departmental budgeting and accounting system. Beyond this, the financial arrangements of the EUTC are presently vague, unclear and largely unwritten. The Committee, led by the Business Manager (see 4B/1), shall attempt whenever possible to:\
     a) Clarify, formalise and update the EUTC’s financial relationship with EUSA.\
     b) Update this Constitution with new and verified information concerning this.\
@@ -416,7 +416,7 @@ This version adopted 31.03.2021
     d) Fraudulent.
 6. **Annual financial report:** The Business Manager shall ensure that the Company’s draft budget and annual financial report is complete, and that it is presented at the AGM (see 5E/5) and submitted to all relevant departments of EUSA along with the annual report.
 
-## ARTICLE 7B: THE BEDLAM THEATRE
+#### ARTICLE 7B: THE BEDLAM THEATRE
 1. **The Bedlam Theatre** is owned by the University of Edinburgh, leased to EUSA (in a similar manner to Teviot Row House), and operated by the EUTC. Beyond this the building and insurance status of the EUTC is presently vague, unclear and largely unwritten. The Committee, led by the Theatre Manager (see 4B/10), shall attempt whenever possible to:\
     a) Clarify, formalise and update the EUTC’s buildings relationship with EUSA and the University.\
     b) Update this Constitution with new and verified information concerning this.\
@@ -432,7 +432,7 @@ This version adopted 31.03.2021
     a) Ensure all DMs and CRs are adequately and regularly trained.\
     b) Maintain a list of qualified DMs.\
     c) Construct policies to assist and guide the decision-making process of the DM and/or CR.
-## ARTICLE 7C: IN DEBT TO THE COMPANY
+#### ARTICLE 7C: IN DEBT TO THE COMPANY
 1. **Obligations:** As stated in 1A/6c, running the Company is a collective responsibility. After participating in a show, members are specifically obliged to give back to the Company in the following ways:\
     a) Staffing a certain number of slots, as specified by the FOH Manager. Slots where a member acts as Committee Representative do not count towards this number.\
     b) Attending and participating in maintenance sessions, as specified by the Theatre Manager.\
@@ -450,7 +450,7 @@ This version adopted 31.03.2021
     b) Be included as a core member of a show proposal team with reference to 6B/3e.\
     c) Become involved in any current production to which they have not already committed.
     
-# ARTICLE 8: FRINGE
+## ARTICLE 8: FRINGE
 1. **Bedlam Fringe** is administratively separate from the EUTC and has its own relationship with EUSA, distinct from that between EUSA and the EUTC. Its operations are managed by a Fringe Venue Manager (FVM), while its programme is curated by a Head of Programming (HOP).
 2. **FVM appointment:**\
     a) The FVM and HOP are appointed by a panel including a representative of the EUTC Committee.\
@@ -462,12 +462,12 @@ This version adopted 31.03.2021
 6. **Cooperation** between the EUTC and Bedlam Fringe is essential. For its part, the EUTC Committee shall make every effort to ensure good dialogue occurs.
 7. **Personal liability:** Where EUTC members are personally liable in a contract or licence entered for the benefit of the EUTC, Bedlam Fringe must actively consult those members on matters relevant to that contract or licence.
 
-# ARTICLE 9: ALUMNI
+## ARTICLE 9: ALUMNI
 1. **FOB:** The EUTC’s recognised alumni association is Friends of Bedlam (FOB) - a body independent of the EUTC.
 2. **Links:** The EUTC shall maintain strong links with its alumni, primarily through FOB, drawing on and sharing in their experience, both in times of crisis and also if nothing is happening.
 3. **Alumni Liaison Officer:** The EUTC President (or their nominated representative) shall take the role of Alumni Liaison Officer, assisted by the Archives Subcommittee (especially with matters of historical or archive interest).
 4. **FOB Committee:** In accordance with the FOB Constitution, the Alumni Liaison Officer shall attend FOB Committee meetings with full voting rights.
 5. **Alumni Fundraising:** The EUTC Committee shall consult the FOB Committee for matters related to EUTC and University of Edinburgh alumni fundraising. The Alumni Liaison Officer shall take responsibility for the planning of alumni fundraising from the EUTC end.
 
-# ARTICLE 10: POSTSCRIPT
+## ARTICLE 10: POSTSCRIPT
 1. **Don’t Stop Believing:** The Company believes that the EUTC will continue, in one form or another, indefinitely. However, if it becomes a necessity, the EUTC may only be dissolved by a motion successfully passed at a General Meeting. Any assets it may hold at dissolution shall be distributed among causes friendly to it, and as much as possible compatible with its aims and principles.
