@@ -13,6 +13,8 @@ nav_order: 3
 </details>
 
 The Production Guidelines of the Edinburgh University Theatre Company
+{: .no_toc }
+
 ==========================
 This version adopted 28.10.2020
 
