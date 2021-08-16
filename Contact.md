@@ -14,8 +14,7 @@ $(function() {
   $('#feedback-form').ZammadForm({
     messageTitle: 'Contact Us - Constitution',
     messageSubmit: 'Submit',
-    messageThankYou: 'Thank you for your inquiry (#%s)! We\'ll contact you as soon as possible.',
-    noCSS: true
+    messageThankYou: 'Thank you for your inquiry (#%s)! We\'ll contact you as soon as possible.'
   });
 });
 </script>
