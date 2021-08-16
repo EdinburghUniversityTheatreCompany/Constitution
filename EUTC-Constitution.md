@@ -3,7 +3,6 @@ title: Constitution
 nav_order: 2
 ---
 # The Constitution of the Edinburgh University Theatre Company
-
 {: .no_toc }
 
 This version adopted 31.03.2021
