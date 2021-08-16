@@ -2,6 +2,10 @@
 title: Production Guidelines
 nav_order: 3
 ---
+The Production Guidelines of the Edinburgh University Theatre Company
+{: .no_toc }
+==========================
+This version adopted 28.10.2020
 
 <details open markdown="block">
   <summary>
@@ -11,12 +15,6 @@ nav_order: 3
 1. TOC
 {:toc}
 </details>
-
-The Production Guidelines of the Edinburgh University Theatre Company
-{: .no_toc }
-
-==========================
-This version adopted 28.10.2020
 
 # 1. Proposing a Show
 ## 1.1 TIMELINE
