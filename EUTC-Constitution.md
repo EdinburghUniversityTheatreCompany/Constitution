@@ -6,6 +6,15 @@ The Constitution of the Edinburgh University Theatre Company
 ==================
 This version adopted 31.03.2021
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # ARTICLE 1: INTRODUCTION
 ## ARTICLE 1A: FOUNDATION
 1. **Name:** The name of the society shall be the “Edinburgh University Theatre Company”, hereinafter referred to as “the EUTC” or “the Company”.
