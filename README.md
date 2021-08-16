@@ -1,7 +1,7 @@
 ---
-title: Home
-permalink: /index.html
-nav_order: 1
+title: About this Site
+permalink: /about.html
+nav_order: 3
 ---
 
 # EUTC Constitution & Production Guidelines

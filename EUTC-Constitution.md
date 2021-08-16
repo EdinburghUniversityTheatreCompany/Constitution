@@ -1,6 +1,7 @@
 ---
 title: Constitution
-nav_order: 2
+permalink: /index.html
+nav_order: 1
 ---
 
 # The Constitution of the Edinburgh University Theatre Company
