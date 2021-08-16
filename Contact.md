@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-nav_order: 5
+nav_order: 4
 ---
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
