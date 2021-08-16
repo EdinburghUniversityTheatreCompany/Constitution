@@ -1,3 +1,8 @@
+---
+layout: default
+title: Constitution
+nav_order: 2
+---
 The Constitution of the Edinburgh University Theatre Company
 ==================
 This version adopted 31.03.2021

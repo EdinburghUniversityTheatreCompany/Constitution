@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # EUTC Constitution & Production Guidelines
 
 This repository is used for collaborative editing of the Edinburgh University Theatre Company's important documents, constitution and production guidelines, with robust version tracking.
