@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Constitution
 nav_order: 2
 ---

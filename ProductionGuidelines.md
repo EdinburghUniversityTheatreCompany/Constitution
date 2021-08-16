@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Production Guidelines
 nav_order: 3
 ---
