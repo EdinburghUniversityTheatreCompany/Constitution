@@ -1,7 +1,7 @@
 title: "EUTC Documents"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "bedlam"
-search_enabled: false
+search_enabled: true
 logo: "https://eutc.azureedge.net/img/logos/bedlam-eutc/bedlam-eutc-lateral-black.svg"
 aux_links:
   "Bedlam Theatre Main Website": 
