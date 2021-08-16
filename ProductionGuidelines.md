@@ -2,8 +2,7 @@
 title: Production Guidelines
 nav_order: 3
 ---
-The Production Guidelines of the Edinburgh University Theatre Company
-{: .no_toc }
+# The Production Guidelines of the Edinburgh University Theatre Company {: .no_toc }
 ==========================
 This version adopted 28.10.2020
 
