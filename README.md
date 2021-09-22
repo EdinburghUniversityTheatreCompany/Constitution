@@ -21,3 +21,4 @@ Releases: are to be tagged in reverse date order (`yyyy.MM.dd`) for the **latest
 Do not change the names of the `*.md` files.
 
 Line 3 of the `*.md` files should contain the line: `This version adopted dd.MM.yyyy`
+
