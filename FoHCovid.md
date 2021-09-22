@@ -8,7 +8,7 @@ nav_order: 5
 # **<span style="text-decoration:underline;">COVID-19 Response - Box Office</span>**
 {: .no_toc }
 
-This version adopted 31.03.2021
+This is a living document and may be updated at any time. This version published 22.09.2021.
 
 <details open markdown="block">
   <summary>
