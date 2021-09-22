@@ -1,7 +1,7 @@
 ---
-title: Constitution
-permalink: /index.html
-nav_order: 1
+title: FoH COVID-19
+permalink: /foh.html
+nav_order: 5
 ---
 
 # The Constitution of the Edinburgh University Theatre Company

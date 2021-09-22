@@ -1,7 +1,7 @@
 ---
 title: About this Site
 permalink: /about.html
-nav_order: 3
+nav_order: 5
 ---
 
 # EUTC Constitution & Production Guidelines

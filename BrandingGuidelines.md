@@ -1,7 +1,7 @@
 ---
-title: Constitution
-permalink: /index.html
-nav_order: 1
+title: Branding Guidelines
+permalink: /branding.html
+nav_order: 3
 ---
 
 # Branding Guidelines
