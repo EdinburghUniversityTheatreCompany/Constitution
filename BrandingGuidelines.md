@@ -78,3 +78,18 @@ The multiline version looks best when placed on the left of your design, if plac
 ## Credits
 
 The logo was designed in 2020 by Alexander Mohan Morzeria-Davis, and finalised in 2021. It was approved by the company on the 22nd of September 2021 at a general meeting, in a motion proposed by him and Lewis Forman (the marketing manager).
+
+### Licensing
+
+The logo remains the copyright of the author, however a broad licence is granted to:
+
+* Any member of the EUTC
+* Any other person or organisation granted permission by any member of the EUTC
+
+to use[^1], with attribution (except where this would cause an undue burden[^2]), without modification, the logo(s) for any purpose reasonably associated with Bedlam Theatre and/or the EUTC and/or any of its successor organisations.
+
+Any use outside of this licence can be granted by the author at legal@alexandermohan.com. 
+
+[^1]: Either on its own, or in a derivative work as long as it is promotional material for the EUTC or any other related/successor organisation, or to identify the work as pertaining to the EUTC/Bedlam Theatre.
+
+[^2]: An undue burden (in this context) is where it would impact the artistic value of what you're producing, or there is no easy space to leave the attribution. Therefore, this means attribution is generally only required in the credits, description of a video, or the footer of a web page.
