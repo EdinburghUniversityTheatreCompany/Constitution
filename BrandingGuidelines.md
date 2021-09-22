@@ -33,9 +33,9 @@ In order of preference, you should use:
 3. Then the single line version with dark text (aka lateral)
 4. Then light text
 
-The multiline version with dark text, usually shown on a light background, is the official logo of both Bedlam Theatre (the building) and the EUTC (the society).
+The multiline version with dark text, usually shown on a light background, is the official logo of both Bedlam Theatre (the building) and the EUTC (the society):
 
-![Bedlam Theatre/EUTC logo](branding/svg/Bedlam%20Theatre%20EUTC%20Logos_Base%20Multiline.svg) {: width="30%" }
+<img src="branding/svg/Bedlam%20Theatre%20EUTC%20Logos_Base%20Multiline.svg" width="30%" alt="Bedlam Theatre EUTC Multiline logo with black text" />
 
 ## Pick a logo 
 
