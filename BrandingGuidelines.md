@@ -35,10 +35,26 @@ In order of preference, you should use:
 
 The multiline version with dark text, usually shown on a light background, is the official logo of both Bedlam Theatre (the building) and the EUTC (the society):
 
-<img src="branding/svg/Bedlam%20Theatre%20EUTC%20Logos_Base%20Multiline.svg" width="30%" alt="Bedlam Theatre EUTC Multiline logo with black text" />
+<img src="branding/svg/bedlam-logo_base-multiline.svg" width="30%" alt="Bedlam Theatre EUTC Multiline logo with black text" />
+
+An example of the single line version.
+
+<img src="branding/svg/bedlam-logo_single-line.svg" width="30%" alt="Bedlam Theatre EUTC Multiline logo with black text" />
 
 ## Pick a logo 
 
 You can keep reading or use the Table of Contents to more easily select your logo. Follow it as a step-by-step reference.
 
-### For a show that takes place in Bedlam
+### For an EUTC show that takes place in Bedlam
+
+Use the combined Bedlam Theatre/EUTC logo in any colour scheme, in either the multiline or single line version. Examples are above.
+
+### For a non-EUTC show that takes place in Bedlam
+
+Use the combined Bedlam Theatre logo without the EUTC mark in any colour scheme, in either the multiline or single line version.
+
+<img src="branding/svg/bedlam-logo_base-multiline-no-eutc.svg" width="30%" alt="Bedlam Theatre EUTC Multiline logo with black text" />
+
+or alternatively the single line version:
+
+<img src="branding/svg/bedlam-logo_single-line-no-eutc.svg" width="30%" alt="Bedlam Theatre EUTC Multiline logo with black text" />
