@@ -94,4 +94,4 @@ Any use outside of this licence can be granted by the author at [legal@alexander
      Either on its own, or in a derivative work as long as it is promotional material for the EUTC or any other related/successor organisation, or to identify the work as pertaining to the EUTC/Bedlam Theatre.
 
 [^2]:
-     An undue burden (in this context) is where it would impact the artistic value of what you're producing, or there is no easy space to leave the attribution. Therefore, this means attribution is generally only required in the credits, description of a video, or the footer of a web page.
+     An undue burden (in this context) is where it would impact the artistic value of what you're producing, or there is no easy space to leave the attribution. Therefore, for most purposes an attribution is not required, like posters and flyers.
