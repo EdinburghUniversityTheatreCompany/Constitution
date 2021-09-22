@@ -4,7 +4,7 @@ permalink: /branding.html
 nav_order: 3
 ---
 
-# Branding Guidelines DRAFT NOT YET APPROVED
+# Branding Guidelines
 {: .no_toc }
 
 This version adopted 22.09.2021
