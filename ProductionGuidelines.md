@@ -855,7 +855,7 @@ Everyone involved in the show, whether a part of the prod team, an actor or part
 
 ### 6.3. Giving back to Bedlam
 
-**Please also read this in tandem with the [Front-of-House (COVID-19) policy](/foh.html), which is also fully implemented by this clause. If there is any conflict with the two policies, the Front-of-House (COVID-19) policy will take precedence. That policy covers more than staffing, please make sure to consult it. Debt and staffing are temporarily modified. That document may be updated at any time.**
+**Please also read this in tandem with the [Front-of-House (COVID-19) policy](https://constitution.bedlamtheatre.co.uk/foh.html), which is also fully implemented by this clause. If there is any conflict with the two policies, the Front-of-House (COVID-19) policy will take precedence. That policy covers more than staffing, please make sure to consult it. Debt and staffing are temporarily modified. That document may be updated at any time.**
 
 When you take part in a show at Bedlam Theatre, you make use of our lovely building and facilities. We’re entirely student-run, and the building is entirely staffed and managed by students. To ensure fairness, we require anyone taking part in a show to ‘give back’ to the society. For Lunchtimes this means doing a staffing slot and turning up to maintenance on the Sunday after you show. For Mainterms this means staffing twice and turning up to maintenance. For anything else please confirm your staffing obligation with the Front-of-House manager. See section 5.3. for Staffing.
 
