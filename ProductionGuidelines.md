@@ -22,12 +22,9 @@ This version adopted 20.09.2021
 Welcome to EUTC production guidelines! The production guidelines start with some general information and classifications, then walk you chronologically through the proposal and production process, and end with practical advice for productions. If you have any questions, please don’t hesitate to contact the Productions Manager ([productions@bedlamtheatre.co.uk](mailto:productions@bedlamtheatre.co.uk)).
 
 
-### Shows
+### 1.1 Shows
 
-
-### Shows are theatrical performances (plays), or events with particular artistic merit. They are run by a show team who must follow the rest of these production guidelines as well as keeping regular communication with the Committee. As standard, the required roles for a show are:
-
-
+Shows are theatrical performances (plays), or events with particular artistic merit. They are run by a show team who must follow the rest of these production guidelines as well as keeping regular communication with the Committee. As standard, the required roles for a show are:
 
 * **Director**. Responsible for both the practical and artistic side of the production, and has the final say over these decisions. Co-operates with the producer to ensure that the show happens.
 * **Producer**. Responsible for marketing, budgeting, fundraising and team management. Usually the point of contact between the production team and Committee. Co-operates with the director to ensure that the show happens.
@@ -597,7 +594,7 @@ Your proposal must include:
 The proposal forms can be found here: [https://www.bedlamtheatre.co.uk/admin/proposals/calls](https://www.bedlamtheatre.co.uk/admin/proposals/calls) 
 
 
-## At the GM
+## 3. At the GM
 
 At the GM, the proposing team will generally introduce themselves and will be given three minutes to pitch their proposal to the room. Most teams choose to do this by going through their proposal a section at a time but you can do it however you like .Questions will then be opened up to the floor, followed by production merit and preference votes. For a detailed explanation of the process by which show proposals are selected, please see Articles 5A, 5B, 6A and 6B of the EUTC Constitution. Talk to the Productions Manager if you need help preparing. On the day, you can ask the Chair of the GM to talk you through it.
 
