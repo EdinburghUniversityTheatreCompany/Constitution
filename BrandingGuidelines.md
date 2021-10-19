@@ -18,7 +18,7 @@ This version adopted 22.09.2021
 {:toc}
 </details>
 
-## Download the branding pack [here](../branding.zip)
+## Download the branding pack [here](./branding.zip)
 
 ## General information
 
