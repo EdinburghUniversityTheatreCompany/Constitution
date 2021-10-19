@@ -18,6 +18,8 @@ This version adopted 22.09.2021
 {:toc}
 </details>
 
+## Download the branding pack [here](../branding.zip)
+
 ## General information
 
 **ALL** posters and publicity of your show must both have the Bedlam Theatre and EUTC Logos.
