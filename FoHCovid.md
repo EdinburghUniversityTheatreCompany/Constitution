@@ -28,7 +28,7 @@ This is a living document and may be updated at any time. This version published
 
 **What this means for you:** Pricing will be slightly different this year due to COVID-19, though we aim for these measures to be temporary. We have also introduced a clear policy for concessions, including thanking our key workers.
 
-Our base pricing is **not changing** for this academic year, however two classes of additional fees will be applied depending on where they purchase their tickets. Customers and members will now be encouraged to purchase their tickets online, in order to assist us with our requirements due to reduced capacities and social distancing. There will be a **5% service fee + 20p ticket fee**[^2] on top of our base pricing to cover our costs from the new online system. When purchasing tickets in person, **a flat £1 fee applied per ticket**[^3], to encourage customers to purchase their tickets online.
+Our base pricing is **not changing** for this academic year, however two classes of additional fees will be applied depending on where they purchase their tickets. Customers and members will now be encouraged to purchase their tickets online, in order to assist us with our requirements due to reduced capacities and social distancing. There will be a **5.5% + 20p service fee**[^2] on top of our base pricing to cover our costs from the new online system. When purchasing tickets in person, **a flat £1 fee applied per ticket**[^3], to encourage customers to purchase their tickets online.
 
 Concession pricing will now be available to students of any age, all medical, care and NHS staff who work with patients, Young Scot/EYCA card holders and holders of any other NEC, provided that it is valid. ID will be requested before entry in all cases, and the difference between the price paid and the full-priced ticket + 50p will be charged if their status cannot be validated. This will be made clear at the time of booking.[^4]
 
@@ -41,7 +41,9 @@ Comps will be restricted during periods of reduced capacity, with **no less than
 
 ### Reserved Seating
 
-**What this means for you:** sSating will be reserved for all shows for 2021-22 even if restrictions reduce. This will allow us to reduce operational complexity and respond to rapidly-evolving restrictions surrounding COVID-19.
+**What this means for you:** As Bedlam Theatre will not be opening in the forseeable future, please ignore the following for now.
+
+Seating will be reserved for all shows for 2021-22 even if restrictions reduce. This will allow us to reduce operational complexity and respond to rapidly-evolving restrictions surrounding COVID-19.
 
 Bedlam will implement a seating numbers system, facilitating space-efficient socially distanced bookings. Seating will follow a “Row x Seat Number” system, with automatic socially distanced bookings facilitated through Pre-Tix. This 
 

@@ -6,5 +6,7 @@ logo: "branding/svg/bedlam-logo_base-multiline.svg"
 aux_links:
   "Bedlam Theatre Main Website": 
     - "https://www.bedlamtheatre.co.uk/"
+  "Download PDF": 
+    - "https://github.com/EdinburghUniversityTheatreCompany/Constitution/releases/latest"
 aux_links_new_tab: true
 footer_content: "Copyright &copy; Edinburgh University Theatre Company. Bedlam Theatre, Edinburgh, EH1 1EZ, Scotland."
