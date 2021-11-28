@@ -247,7 +247,7 @@ This version adopted 24.11.2021
     &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator \
     f) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
-7. **Project Subcommittees** may be formed by a motion passed at a General Meeting to undertake a project of the Company. The subcommittee must exist for a fixed duration and not extend beyond a year.
+7. **Project Subcommittees** may be formed by a motion passed at a General Meeting to undertake a project of the Company. The Subcommittee must exist for a fixed duration and not extend beyond a year.
 8. **Accountability:**\
     a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current appointed membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor if required.\
     b) Any appointed member of a Subcommittee may stand down, or be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
