@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 31.03.2021
+This version adopted 24.11.2021
 
 <details open markdown="block">
   <summary>
@@ -86,7 +86,7 @@ This version adopted 31.03.2021
     a) **A non-committee welfare contact** shall be elected at a General Meeting other than the AGM (see 5E/5). Their term expires one week after the end of the next Freshers’/Welcome Week. This person must not simultaneously be a member of Committee.\
     b) **The President** (see 4B/4) shall be a welfare contact by default. If the President cannot or does not feel they should continue in this role, the Committee shall select a substitute from among their number.\
     c) **Committee welfare contact:** The Committee shall select from their number a welfare contact to serve for the duration of that Committee’s term.\
-    d) **If circumstances require,** an additional welfare contact may be appointed by the Committee or by a motion passed at a General Meeting. Appointment must be of a fixed duration and not extend beyond a year.
+    d) **If circumstances require,** an additional welfare contact may be appointed by the Committee or elected immediately following a motion passed at a General Meeting. The term must be of a fixed duration and not extend beyond a year.
 2. **Welfare contact duties:**\
     a) Support those affected by welfare issues.\
     b) Support members in anticipating and preventing welfare issues.\
@@ -232,7 +232,7 @@ This version adopted 31.03.2021
 3. **Elected positions:**\
     a) Subcommittees may have elected positions with specific titles and duties. They shall be elected at the AGM and be ultimately responsible to the Company.\
     b) Subcommittees may have permanent elected positions added or removed by amending this Constitution.\
-    c) Temporary elected positions may be added by the Committee, subject to ratification at a General Meeting. The Committee shall inform the Company at least 7 days before the GM. The position must be of a fixed duration and not extend beyond a year.
+    c) Temporary elected positions may be added immediately by a motion passed at a General Meeting. The position must be of a fixed duration and not extend beyond a year.
 4. **Assistance Subcommittees:** Assistants to Committee members may be appointed subject to ratification at a Company or General Meeting. The Committee member is then additionally considered the sole Convenor of a Subcommittee covering their area of responsibility. The Subcommittee is dissolved when the Committee member leaves their position.
 5. **Festival Subcommittees** are described in Article 6C.
 6. **Permanent Subcommittees** may be formed and dissolved by amending this Constitution. If membership falls to zero, the Subcommittee shall continue to exist, but the Committee shall temporarily take responsibility for any vital duties. Permanent Subcommittees currently in existence are:\
@@ -247,10 +247,11 @@ This version adopted 31.03.2021
     &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator \
     f) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
-7. **Accountability:**\
+7. **Project Subcommittees** may be formed by a motion passed at a General Meeting to undertake a project of the Company. The subcommittee must exist for a fixed duration and not extend beyond a year.
+8. **Accountability:**\
     a) The membership of a Subcommittee must be approved annually by a motion passed at the first General Meeting of Semester 1. If this motion is not passed, the current appointed membership of the Subcommittee must stand down, and the Committee must appoint a new Convenor if required.\
     b) Any appointed member of a Subcommittee may stand down, or be removed from their position on that Subcommittee by a motion successfully passed at a Company or General Meeting.
-8. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
+9. **Attendance:** A representative of each Subcommittee must attend one Committee or Company meeting every two weeks.
 
 ### ARTICLE 4D: ABSENCE, RESIGNATION AND RECALL ELECTIONS
 
