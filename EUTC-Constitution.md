@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 24.11.2021
+This version adopted 16.03.2022
 
 <details open markdown="block">
   <summary>
@@ -216,7 +216,11 @@ This version adopted 24.11.2021
     d) Providing contacts, advice and on hand assistance to stage managers.\
     e) More generally, all matters related to the upkeep, risk assessment, health and safety, viability and physical security of the Bedlam Theatre not within other Committee positions’ remit(s).\
     f) Other duties outlined in Article 7B and 1B/4.
-11. **The Wardrobe Manager** is responsible for:\
+11. **The Venues Coordinator** is responsible for:\
+  a) Securing venues so that proposals can be opened for a corresponding reserved slot.\
+  b) Supporting production teams in finding venues for supplementary proposals.\
+  c) Liaising with existing and new venue contacts on behalf of production teams.
+12. **The Wardrobe Manager** is responsible for:\
     a) The integration, training, and development of EUTC costumers.\
     b) The upkeep, replacement and hire of costumes. \
     c) Providing contacts, advice and on hand assistance to production teams on costume matters.
@@ -324,7 +328,7 @@ This version adopted 24.11.2021
 
 1. **Voting rights:** All EUTC student members attending are entitled to a vote at a Company Meeting.
 2. **Quorum:** The quorum for Company Meetings shall be five EUTC student members.
-3. **Function and mandate:** Company Meetings primarily serve as a channel of formal communication between show teams and the Company. They may only rule on those issues that this Constitution (and documents deriving authority from it) specifically say that they can.
+3. **Function and mandate:** Company Meetings primarily serve as a channel of formal communication between production teams and the Company. They may only rule on those issues that this Constitution (and documents deriving authority from it) specifically say that they can.
 4. **Regularity:** Company Meetings shall occur weekly throughout the academic year, at as consistent a time and place as circumstances allow. Additional Company Meetings may be called by the President or Secretary with 24 hours written or email notice to the Company.
 
 ### ARTICLE 5E: GENERAL MEETINGS
