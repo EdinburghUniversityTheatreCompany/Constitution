@@ -246,7 +246,7 @@ This version adopted 20.04.2022
     b) **Development:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7B/2).\
     c) **Engagement:** Promotes the engagement and retention of new members. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Engagement Officer \
-    d) **Garden:** Maintains and improves the garden and grounds of the Bedlam Theatre.\
+    d) **Garden:** Maintains and works to improve the garden and grounds of the Bedlam Theatre.\
     e) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
     f) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
