@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 16.03.2022
+This version adopted 20.04.2022
 
 <details open markdown="block">
   <summary>
@@ -214,7 +214,7 @@ This version adopted 16.03.2022
     b) Allocating and recovering keys.\
     c) The integration, training, and development of EUTC stage managers.\
     d) Providing contacts, advice and on hand assistance to stage managers.\
-    e) More generally, all matters related to the upkeep, risk assessment, health and safety, viability and physical security of the Bedlam Theatre not within other Committee positions’ remit(s).\
+    e) More generally, all matters related to the upkeep, risk assessment, health and safety, sustainability, viability and physical security of the Bedlam Theatre not within other Committee positions’ remit(s).\
     f) Other duties outlined in Article 7B and 1B/4.
 11. **The Venues Coordinator** is responsible for:\
   a) Securing venues so that proposals can be opened for a corresponding reserved slot.\
@@ -246,9 +246,8 @@ This version adopted 16.03.2022
     b) **Development:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7B/2).\
     c) **Engagement:** Promotes the engagement and retention of new members. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Engagement Officer \
-    d) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
-    e) **Sustainability:** Works to reduce waste, increase energy efficiency and ensure the environment is considered in Company business. This subcommittee has the following elected Convenor:\
-    &nbsp;&nbsp;&nbsp;&nbsp;i) Sustainability Coordinator \
+    d) **Garden:** Maintains and improves the garden and grounds of the Bedlam Theatre.\
+    e) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
     f) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
 7. **Project Subcommittees** may be formed by a motion passed at a General Meeting to undertake a project of the Company. The Subcommittee must exist for a fixed duration and not extend beyond a year.
