@@ -1140,5 +1140,3 @@ Useful emails:
 * All Committee: [committee@bedlamtheatre.co.uk](mailto:committee@bedlamtheatre.co.uk)
 
 All other Committee emails can be found on the main Bedlam website (_[https://www.bedlamtheatre.co.uk/contact](https://www.bedlamtheatre.co.uk/contact)_) Please tell the Productions Manager when you have read this so they can be super proud of you.
-
-
