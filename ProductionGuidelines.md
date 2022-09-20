@@ -6,7 +6,7 @@ nav_order: 2
 # The Production Guidelines of the Edinburgh University Theatre Company 
 {: .no_toc }
 
-This version adopted 22.09.2021
+This version adopted 21.09.2022
 
 <details open markdown="block">
   <summary>
@@ -28,7 +28,7 @@ Shows are theatrical performances (plays), or events with particular artistic me
 
 * **Director**. Responsible for both the practical and artistic side of the production, and has the final say over these decisions. Co-operates with the producer to ensure that the show happens.
 * **Producer**. Responsible for marketing, budgeting, fundraising and team management. Usually the point of contact between the production team and Committee. Co-operates with the director to ensure that the show happens.
-* **Stage Manager. **Responsible for general safety, and organising the things happening on stage: stage directions, props, set and costume (unless other roles like set manager or costume manager are involved). In charge of backstage during the show and supervises both the get-in and the get-out.
+* **Stage Manager**. Responsible for general safety, and organising the things happening on stage: stage directions, props, set and costume (unless other roles like set manager or costume manager are involved). In charge of backstage during the show and supervises both the get-in and the get-out.
 * **Technical Manager**. Responsible for the technical side of the production: lighting, sound and projection.
 
 ### 1.2 Show Classifications
@@ -38,7 +38,7 @@ Shows are theatrical performances (plays), or events with particular artistic me
 
 These are regular slots available to propose for multiple times in a year.
 
-**Lunchtimes**
+**Teatimes**
 
 
 <table>
@@ -51,7 +51,7 @@ These are regular slots available to propose for multiple times in a year.
   <tr>
    <td><strong>Budget</strong>
    </td>
-   <td>£65/£125 (w/ rights)
+   <td> £200 (with or w/out rights)
    </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ These are regular slots available to propose for multiple times in a year.
   <tr>
    <td><strong>Budget</strong>
    </td>
-   <td>£850/£1050 (w/ rights)
+   <td> £1320 (with or w/out rights)
    </td>
   </tr>
   <tr>
@@ -179,7 +179,7 @@ These are slots that are only available to propose for annually. The timescale, 
 
 <table>
   <tr>
-   <td rowspan="5" ><strong>Summary: </strong>Freshers’ Plays can kinda be anything, but usually consist of creating ‘families’ out of people new to the society, and getting them to produce 10 minute plays in about a week.
+   <td rowspan="5" ><strong>Summary: </strong>Summary: Freshers’ Plays can kinda be anything, but usually consist of creating ‘families’ out of people new to the society, and getting them to produce a 10 minute play each, from a given prompt, in about a week.
    </td>
    <td colspan="2" ><strong>Details</strong>
    </td>
@@ -216,7 +216,7 @@ These are slots that are only available to propose for annually. The timescale, 
 
 <table>
   <tr>
-   <td rowspan="5" ><strong>Summary: </strong>Freshers slots are 3 productions that get performed all in one night. The concept is for a relatively easy but creatively free production proposed by teams made of mostly people new to the Society. Extremely low pressure, with a high level of support from the EUTC Committee
+   <td rowspan="5" ><strong>Summary: </strong>Freshers slots are 3 productions that get performed all in one night. The concept is  a relatively easy but creatively free production proposed by teams mostly made of people new to the Society. Extremely low pressure, with a high level of support from the EUTC Committee
    </td>
    <td colspan="2" ><strong>Details</strong>
    </td>
@@ -261,7 +261,7 @@ These are slots that are only available to propose for annually. The timescale, 
   <tr>
    <td><strong>Budget</strong>
    </td>
-   <td>£850/£1050 (w/ rights)
+   <td> £1320 (with or w/out rights)
    </td>
   </tr>
   <tr>
@@ -290,7 +290,7 @@ These are slots that are only available to propose for annually. The timescale, 
 
 <table>
   <tr>
-   <td rowspan="5" ><strong>Summary: </strong>The largest Bedlam show each year. The BFOP enjoys a longer than normal production timescale, a longer get-in process, and more profile. In every other way it is administratively identical to a Mainterm show.
+   <td rowspan="5" ><strong>Summary: </strong>The largest Bedlam show each year. The BFOP enjoys a longer than normal production timescale, a longer get-in process (the whole of Flexible Learning Week), and more profile. In every other way, it is administratively identical to a Mainterm show.
    </td>
    <td colspan="2" ><strong>Details</strong>
    </td>
@@ -298,7 +298,7 @@ These are slots that are only available to propose for annually. The timescale, 
   <tr>
    <td><strong>Budget</strong>
    </td>
-   <td>£850/£1050 (w/ rights)
+   <td> £1520 (with or w/out rights)
    </td>
   </tr>
   <tr>
@@ -322,41 +322,7 @@ These are slots that are only available to propose for annually. The timescale, 
 </table>
 
 
-**Youth Project**
 
-
-<table>
-  <tr>
-   <td rowspan="5" ><strong>Summary: </strong>The youth project is when young people get the opportunity to do workshops, a show, and other events with the EUTC. It has happened in the past either at schools or within the Bedlam Theatre. The timing can be difficult, as well as getting staffing and filling out the paperwork, so it is highly advised that you discuss with the Committee before proposing.
-   </td>
-   <td colspan="2" ><strong>Details</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Budget</strong>
-   </td>
-   <td>Discuss with the Business Manager
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Date</strong>
-   </td>
-   <td>April (usually)
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Performances</strong>
-   </td>
-   <td>3 to 6
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Proposed at GM</strong>
-   </td>
-   <td>GM #3 Semester 1
-   </td>
-  </tr>
-</table>
 
 
 **EUTC Fringe Slots (2 available slots)**
@@ -364,7 +330,7 @@ These are slots that are only available to propose for annually. The timescale, 
 
 <table>
   <tr>
-   <td rowspan="5" ><strong>Summary: </strong>We get two slots in the programming of Bedlam Fringe, this is how you propose for them. One of the best ways to take a show to Fringe in a familiar environment with minimal pressure. Marketing, and logistics at Fringe can be very different to term-time; it is a good idea to talk at length to relevant members of the Committee before proposing.
+   <td rowspan="5" ><strong>Summary: </strong>We get two slots in the programming of Bedlam Fringe; this is how you propose for them. One of the best ways to take a show to Fringe in a familiar environment with minimal pressure. Marketing and logistics at Fringe can be very different to term-time so it is a good idea to talk at length to relevant members of the Committee before proposing.
    </td>
    <td colspan="2" ><strong>Details</strong>
    </td>
@@ -405,12 +371,12 @@ Festivals are not shows, but rather when the Committee delegates many of their r
 
 * **Venue Manager**, who is in charge of the general running of the festival, the building, health and safety, and delegating responsibilities to others.
 * **Programmer**, who selects the shows and events that will happen for the festival.
-* **Marketing Manager**, who coordinates and manages all the marketing for the festival
+* **Marketing Manager**, who coordinates and manages all the marketing for the festival.
 * **Technical Manager**, who runs the tech for the festival.
 * **Box Office Manager** (if the box office is planned to be used), who runs ticketing and other box office duties.
-* **Cafe Manager** (if the cafe is planned to be used), who runs the cafe
+* **Cafe Manager** (if the cafe is planned to be used), who runs the cafe.
 
-The festival team can curate their program by any method they choose. They may also set prices, menus and marketing policies. Festival teams must maintain regular communication with the Committee, as the Theatre Manager still holds the license during this time and still has their overall responsibilities. All budgets should be discussed with the Business Manager.
+The festival team can curate their program by any method they choose. They may also set prices, menus and marketing policies. Festival teams must maintain regular communication with the Committee, as the Theatre Manager still holds the licence during this time and still has their overall responsibilities. All budgets should be discussed with the Business Manager.
 
 
 ### 1.4 Festival Classifications
@@ -548,8 +514,8 @@ All EUTC events are either “Reserved” or “Supplementary”. The difference
 
 
 
-* **Reserved events**: scheduled beforehand, with a pre-set budget and/or time slot. Most EUTC events are Reserved (Lunchtimes, Mainterms, Panto etc.). The Committee creates a calendar each year allocating certain times (usually whole weeks) to certain classifications. The slots in this calendar are then filled by the shows voted on at GMs
-* **Supplementary events: **not scheduled, unspecified budget and timing. Supplementary events must work around Reserved events, and can’t clash with them without permission.  It is recommended that supplementary events are presented to the Committee at least two weeks before the Editing Deadline.  Examples include our long-running Candlewasters new writing showcase, sketch shows, and site-specific theatre outside Bedlam.
+* **Reserved events**: scheduled beforehand, with a pre-set budget and/or time slot. Most EUTC events are Reserved (Teatimes, Mainterms, Panto etc.). The Committee creates a calendar each year allocating certain times (usually whole weeks) to certain classifications. The slots in this calendar are then filled by the shows voted on at GMs.
+* **Supplementary events:** not scheduled, unspecified budget and timing. Supplementary events must work around Reserved events, and can’t clash with them without permission. It is recommended that supplementary events are presented to the Committee at least two weeks before the Editing Deadline. Examples include our long-running Candlewasters new writing showcase, sketch shows, and site-specific theatre outside Bedlam.
 
 **Mandatory Events**
 
@@ -563,8 +529,8 @@ The EUTC selects shows at General Meetings (GMs), open to all members, and usual
 
 
 * **Proposals open.** The Productions Manager will open proposals about two weeks before a GM, making clear what you can apply for (i.e. which classification, and how many slots for each).
-* **Submission deadline** (18:00, Monday 10 days before the GM). **Submit your first draft. **Please make it as complete as possible. Committee will offer you feedback and advice based on this draft.
-* **Editing deadline** (18:00, Monday 2 days before the GM). **Complete your final draft. **Committee approves proposals that meet the requirements of the Constitution (clause 6B/3).The rules are mostly common sense: don’t propose anything illegal or dangerous, name a member in each required role. That sort of thing. After Committee approval, proposals are released to the whole company.
+* **Submission deadline** (18:00, Monday 10 days before the GM). **Submit your first draft.** Please make it as complete as possible. Committee will offer you feedback and advice based on this draft.
+* **Editing deadline** (18:00, Monday 2 days before the GM). **Complete your final draft.** Committee approves proposals that meet the requirements of the Constitution (clause 6B/3).The rules are mostly common sense: don’t propose anything illegal or dangerous, name a member in each required role. That sort of thing. After Committee approval, proposals are released to the whole company.
 * If these deadlines are moved back, Committee will make that clear.
 
 
@@ -596,7 +562,7 @@ The proposal forms can be found here: [https://www.bedlamtheatre.co.uk/admin/pro
 
 ## 3. At the GM
 
-At the GM, the proposing team will generally introduce themselves and will be given three minutes to pitch their proposal to the room. Most teams choose to do this by going through their proposal a section at a time but you can do it however you like .Questions will then be opened up to the floor, followed by production merit and preference votes. For a detailed explanation of the process by which show proposals are selected, please see Articles 5A, 5B, 6A and 6B of the EUTC Constitution. Talk to the Productions Manager if you need help preparing. On the day, you can ask the Chair of the GM to talk you through it.
+At the GM, the proposing team will generally introduce themselves and will be given three minutes to pitch their proposal to the room. Most teams choose to do this by going through their proposal a section at a time but you can do it however you like. Questions will then be opened up to the floor, followed by production merit and preference votes. For a detailed explanation of the process by which show proposals are selected, please see Articles 5A, 5B, 6A and 6B of the EUTC Constitution. Talk to the Productions Manager if you need help preparing. On the day, you can ask the Chair of the GM to talk you through it.
 
 
 ## 4. After the GM - auditions and rehearsals
@@ -608,8 +574,8 @@ At the GM, the proposing team will generally introduce themselves and will be gi
 
 * Depending on your licensing agreement, arrange rights for your show. See section 4.2. Rights
 * Arrange auditions with the Production Manager. See section 4.4. Auditions
-* **Shows must nominate two welfare contacts before rehearsals begin. **We recommend having a welfare contact for the cast, and a separate one for the crew, both of whom must have suitable emotional distance from the rest of the other welfare contacts.
-* **Show teams must make a concerted effort to get at least three members of their team Duty Manager trained**. The Front-of-House Manager _([FoH@bedlamtheatre.co.uk](mailto:foh@bedlamtheatre.co.uk))_ will run regular sessions to facilitate this and has discretion to require more than three team members be DM trained on larger teams. This is not applicable for online shows. See section 5.1 Being in Bedlam.
+* **Shows must nominate two welfare contacts before rehearsals begin.** We recommend having a welfare contact for the cast, and a separate one for the crew, both of whom must have suitable emotional distance from the rest of the other welfare contacts.
+* **Show teams must make a concerted effort to get at least three members of their team Duty Manager trained.** The Front-of-House Manager (FoH@bedlamtheatre.co.uk) and the Theatre Manager (theatre@bedlamtheatre.co.uk) will run regular sessions to facilitate this and have discretion to require more than three team members be DM trained on larger teams. This is not applicable for online shows. See section 5.1 Being in Bedlam.
 * **Show teams must start sending a representative to Company Meetings every Monday night.**
 
 
@@ -620,7 +586,7 @@ Rights are your legal licence to perform. The method and timing of your applicat
 
 
 * For original writing by an EUTC member, the writer must approve the choice of Director and Producer by emailing the Committee.
-* All original writing must be sent to the Archives Subcommittee after your final performance: _[archives@bedlamtheatre.co.uk](mailto:archives@bedlamtheatre.co.uk)_
+* All original writing must be sent to the Library after your final performance: _[library@bedlamtheatre.co.uk](mailto:library@bedlamtheatre.co.uk)_
 
 
 #### Advice
@@ -647,11 +613,11 @@ Rights are your legal licence to perform. The method and timing of your applicat
 
 ### 4.4. Auditions and casting
 
-Immediately following the GM, the Productions Manager will arrange a suitable time and place for auditions to be held, in conversation with the relevant show teams.~~ ~~Show teams should provide their own audition material and a short show blurb to auditions. Should an actor audition for multiple shows and get cast in more than one of them, it is at the discretion of the actor which part they accept.
+Immediately following the GM, the Productions Manager will arrange a suitable time and place for auditions to be held, in conversation with the relevant show teams.Show teams should provide their own audition material and a short show blurb to auditions. Should an actor audition for multiple shows and get cast in more than one of them, it is at the discretion of the actor which part they accept.
 
-We encourage inclusive audition and casting practices regarding gender, ethnicity, sexuality, disability, accent etc. Think about why you are casting and what kind of requirements and wishes you have for each role and why. Who might be at disadvantage to audition and how you might address that? What kind of prejudices and expectations you might hold and how could they affect your audition and casting choices? It is not expected that you have a solution for everything, but it is a good idea to talk about these things with your production team before auditions and casting. If you have any questions, talk to Liberation Representatives (inclusivity and diversity in casting) or Productions Manager (practical questions).
+We encourage inclusive audition and casting practices regarding gender, ethnicity, sexuality, disability, accent etc. Think about why you are casting and what kind of requirements and wishes you have for each role and why. Who might be at disadvantage to audition and how you might address that? What kind of prejudices and expectations you might hold and how could they affect your audition and casting choices? It is not expected that you have a solution for everything, but it is a good idea to talk about these things with your production team before auditions and casting. If you have any questions, talk to the Liberation Representatives (inclusivity and diversity in casting) or the Productions Manager (practical questions).
 
-PUBLICITY NOTE: Cast and production team lists are due within a week of your show being cast. See Publicity section for more.
+PUBLICITY NOTE: Cast and production team lists are due within a week of your show being cast. See the Publicity section (7.1) for more.
 
 
 ### 4.5. Rehearsals
@@ -717,7 +683,7 @@ There is a Bedlam Theatre health and safety folder, maintained by the Theatre Ma
 * Practise Common Sense, please.
 * If your show involves any stunts, stage combat or other things likely to result in injuries, you must notify the Theatre Manager during your first week of rehearsals.
 * Record any accidents in the accident book, and report them to the Theatre Manager. The accident report/near miss book can be found in the Office
-* There is a First Aid kit behind the box office. You must tell the Theatre Manager if you use any first aid supplies. Otherwise the box will not get restocked
+* There is a First Aid kit behind the cafe. You must tell the Theatre Manager if you use any first aid supplies. Otherwise the box will not get restocked
 * Only people who have been trained how to do tasks should attempt to do them. This is especially true of anything potentially dangerous, eg. use of power tools, rigging, building flats, etc. If you are unsure of anything, speak to the Theatre, Set or Tech Managers.
 
 
@@ -754,25 +720,25 @@ If you need help to answer your questionnaire, or are unable to complete your qu
 
 *This section was reviewed by the Front-of-House Manager, who can be contacted at [FoH@bedlamtheatre.co.uk](mailto:foh@bedlamtheatre.co.uk)*
 
-Staffing is a part of Giving back to Bedlam (see section 6.3.) but you need to start thinking about it before your own show happens. It is recommended that you sign up to staff as soon as possible. Please talk to the Front-of-House Manager if you have any questions. Please also see the new [Front-of-House (COVID-19) policy](https://docs.google.com/document/d/1v-SfpuOFU1SzxBXd0uwrAdJhKtrut0T7S4C7Z1Vw9i0/edit?usp=sharing) (more information in section 6.3.)
+Staffing is a part of Giving Back to Bedlam (see section 6.3.) but you need to start thinking about it before your own show happens. It is recommended that you sign up to staff as soon as possible. Please talk to the Front-of-House Manager if you have any questions. Please also see the new [Front-of-House (COVID-19) policy](https://docs.google.com/document/d/1v-SfpuOFU1SzxBXd0uwrAdJhKtrut0T7S4C7Z1Vw9i0/edit?usp=sharing) (more information in section 6.3.)
 
 
 
 * Assigned staffing weeks for each production will be assigned by the Front-of-House Manager (FoH).
-* All members of a production must staff. This includes Director(s), Tech Managers, Stage Managers, Producer(s), tech operators, and the cast. This is not limited to those listed on the proposal form. Those involved in a Lunchtime show must staff one slot each, and those involved in a Mainterm show must staff two slots each.
+* All members of a production must staff. This includes Director(s), Tech Managers, Stage Managers, Producer(s), tech operators, and the cast. This is not limited to those listed on the proposal form. Those involved in a Teatime show must staff one slot each, and those involved in a Mainterm show must staff two slots each.
 * There are five staffing slots that need to be filled by each production; Duty Manager, Box Office, Indoor Hall Keeper, Outdoor Hall Keeper and Café. The responsibilities of each position are detailed in the Staffing Guidelines.
 * Signing up to staff can be done online through the Bedlam website: _[https://www.bedlamtheatre.co.uk/admin/staffings](https://www.bedlamtheatre.co.uk/admin/staffings)_
 * Staffers must be in Bedlam an hour and a half before the performance or as specified on the staffing sign-up page.
 * The show team will be notified when they must sign up for staffing, with at least a 2 week notice. This is usually the Friday before the first showing.
 * If you find yourself unable to staff the slot you signed up for, you can request to swap your slot, provided you give at least 24 hours notice. Otherwise, you’ll need to find someone to replace you.
 * People staffing when it is not required of them are able to be removed from staffing slots as long as at least 24h notice is given.
-* If either a Lunchtime or a Mainterm production chooses to have an additional performance, it is the producer’s responsibility to find staffers for that performance.
+* If either a Teatime or a Mainterm production chooses to have an additional performance, it is the producer’s responsibility to find staffers for that performance.
 * It is the producer’s responsibility to find staffers for all supplementary events taking place in Bedlam unless another agreement is reached with the Front-of-House manager.
 
 
 ### 5.4 Get-ins
 
-A get-in is the time that is allocated for your play to rig and focus your lights, and prepare the stage for your show. Get-ins start on Saturday at 2pm for Mainterm productions or Sunday at 2pm for Lunchtime productions.
+A get-in is the time that is allocated for your play to rig and focus your lights, and prepare the stage for your show. Get-ins start on Saturday at 2pm for Mainterm productions or Sunday at 2pm for Teatime productions.
 
 
 
@@ -857,7 +823,7 @@ Everyone involved in the show, whether a part of the prod team, an actor or part
 
 **Please also read this in tandem with the [Front-of-House (COVID-19) policy](https://constitution.bedlamtheatre.co.uk/foh.html), which is also fully implemented by this clause. If there is any conflict with the two policies, the Front-of-House (COVID-19) policy will take precedence. That policy covers more than staffing, please make sure to consult it. Debt and staffing are temporarily modified. That document may be updated at any time.**
 
-When you take part in a show at Bedlam Theatre, you make use of our lovely building and facilities. We’re entirely student-run, and the building is entirely staffed and managed by students. To ensure fairness, we require anyone taking part in a show to ‘give back’ to the society. For Lunchtimes this means doing a staffing slot and turning up to maintenance on the Sunday after you show. For Mainterms this means staffing twice and turning up to maintenance. For anything else please confirm your staffing obligation with the Front-of-House manager. See section 5.3. for Staffing.
+When you take part in a show at Bedlam Theatre, you make use of our lovely building and facilities. We’re entirely student-run, and the building is entirely staffed and managed by students. To ensure fairness, we require anyone taking part in a show to ‘give back’ to the society. For Teatimes this means doing a staffing slot and turning up to maintenance on the Sunday after you show. For Mainterms this means staffing twice and turning up to maintenance. For anything else please confirm your staffing obligation with the Front-of-House manager. See section 5.3. for Staffing.
 
 
 #### 6.3.1. Maintenance
@@ -885,7 +851,7 @@ When you take part in a show at Bedlam Theatre, you make use of our lovely build
 
 ### 7.1 Publicity
 
-This section was reviewed by the Marketing Manager, who can be contacted at [marketing@bedlamtheatre.co.uk](mailto:marketing@bedlamtheatre.co.uk)
+*This section was reviewed by the Marketing Manager, who can be contacted at [marketing@bedlamtheatre.co.uk](mailto:marketing@bedlamtheatre.co.uk)*
 
 
 #### A couple of deadlines and timeline information:
@@ -988,13 +954,13 @@ Headshots:
 
 ### 7.2 Show finances
 
-This section was reviewed by the Business Manager, who can be contacted at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)
+*This section was reviewed by the Business Manager, who can be contacted at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)*
 
 
 
 * You must stick to your budget. Any overspend that has not been approved will not be reimbursed. Remind all crew that they are not to spend ANY MONEY without the producer’s say-so and that they MUST give you a receipt if they want to be reimbursed.
 * Any budget increases or changes must be proposed at a Committee Meeting, consulting with the Business Manager.
-* Invoices for any expenses should be placed in the Business Manager’s pigeonhole in the Bedlam Office, or emailed to the Business Manager at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)_._ This is the same for any receipts for reimbursements. Remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be paid urgently (such as rights), as well as keeping them up to date on your expenditure.
+* Invoices for any expenses should be placed in the Business Manager’s pigeonhole in the Bedlam Office, or emailed to the Business Manager at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)_._ Or, by arrangement, messaged to the Business Manager directly on Facebook (currently, Freya Game) - although email is preferred. This is the same for any receipts for reimbursements. Remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be paid urgently (such as rights), as well as keeping them up to date on your expenditure and general direction of the show - do not hesitate to ask questions!
 * Anything you purchase with your show budget (like furniture, paint etc) will be added to the EUTC’s general stock after your run.
 * Any tech hires must be approved by the Technical Manager.
 * Bedlam’s alumni group, Friends of Bedlam (FoB), can offer grants to partly fund parts of your show. The application form is on the [Budget Resources section of the wiki](https://wiki.bedlamtheatre.co.uk/craft/producing/budgets).
@@ -1006,7 +972,7 @@ See [EUTC Wiki Budgeting Resources](https://wiki.bedlamtheatre.co.uk/craft/produ
 
 ### 7.3 Fundraising
 
-This section was reviewed by the Business Manager, who can be contacted at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)
+*This section was reviewed by the Business Manager, who can be contacted at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)*
 
 Fundraisers must be proposed at a Committee meeting. You should give Committee as much notice as possible. Committee can reject a fundraiser if it clashes with another EUTC event, or if there is insufficient evidence to vote on it. To propose a fundraiser you should explain the following:
 
@@ -1021,7 +987,7 @@ Fundraisers must be proposed at a Committee meeting. You should give Committee a
 
 ### 7.4 Tech
 
-This section was reviewed by the Technical Manager, who can be contacted at [tech@bedlamtheatre.co.uk](mailto:tech@bedlamtheatre.co.uk)
+*This section was reviewed by the Technical Manager, who can be contacted at [tech@bedlamtheatre.co.uk](mailto:tech@bedlamtheatre.co.uk)*
 
 
 
@@ -1044,7 +1010,7 @@ See [EUTC Wiki Tech Resources](https://wiki.bedlamtheatre.co.uk/craft/tech) for 
 
 ### 7.5 Set
 
-This section was reviewed by the Set Manager, who can be contacted at [set@bedlamtheatre.co.uk](mailto:set@bedlamtheatre.co.uk)
+*This section was reviewed by the Set Manager, who can be contacted at [set@bedlamtheatre.co.uk](mailto:set@bedlamtheatre.co.uk)*
 
 
 #### Construction
@@ -1076,10 +1042,9 @@ Additional permission (from relevant people, at least 2 weeks in advance) must b
 * Any change to the layout of the Bedlam stage and seating plan (generally requires Conversion licence from the Council, coordinate with Committee).
 * Any set piece or piece of technical equipment being placed in the auditorium walkways or somewhere which could obstruct fire escape routes (Set and Theatre Managers)
 
-#### 
-Consumables (including paint and wood)
+#### Consumables (including paint and wood)
 
-* No production is entitled to Bedlam’s stock of materials, at any time. While _Lunchtimes_ and _Fresher’s Slots_ productions may work with the Set Manager on justifiable use, all other productions must purchase all materials and consumables for their productions. This includes all wood, screws, paint, and tape for their production. These productions can only use Bedlam’s stock of materials in extraordinary cases with permission from the Set Manager.
+* No production is entitled to Bedlam’s stock of materials, at any time. While _Teatimes_ and _Fresher’s Slots_ productions may work with the Set Manager on justifiable use, all other productions must purchase all materials and consumables for their productions. This includes all wood, screws, paint, and tape for their production. These productions can only use Bedlam’s stock of materials in extraordinary cases with permission from the Set Manager.
 * Paint
     * It is encouraged to paint the stage and back wall, but they must be painted back to Flints Black afterwards. Please talk to the Theatre Manager before painting other areas, including other surfaces of the auditorium.
     * Please talk to the Set Manager before painting anything from the set or props store.
@@ -1094,7 +1059,7 @@ See [EUTC Wiki Set Resources](https://wiki.bedlamtheatre.co.uk/craft/set) for mo
 
 ### 7.6 Props and set pieces
 
-This section was reviewed by the Set Manager and the Theatre Manager who can be contacted at [set@bedlamtheatre.co.uk](mailto:set@bedlamtheatre.co.uk) and [theatre@bedlamtheatre.co.uk](mailto:theatre@bedlamtheatre.co.uk).
+*This section was reviewed by the Set Manager and the Theatre Manager who can be contacted at [set@bedlamtheatre.co.uk](mailto:set@bedlamtheatre.co.uk) and [theatre@bedlamtheatre.co.uk](mailto:theatre@bedlamtheatre.co.uk).*
 
 The Props Store is the Crypt. Some important rules:
 
@@ -1109,10 +1074,11 @@ Almost anything you can see in Bedlam can be used in your play. However, if it i
 
 
 
-* Cafe and Box Office, ask the Front-of-House Manager
-* Library, ask the Librarian
+* Box Office, Cafe, and Kitchen, ask the Front-of-House Manager
 * Tech box and tech store, ask the Tech Manager
 * Workshop, ask the Set Manager
+* Ogg Office, ask the Archivist
+* Library, ask the Librarian
 * Anywhere else, ask the Theatre Manager.
 
 You must speak to the Theatre Manager if you plan to do any of the following:
@@ -1129,7 +1095,7 @@ See [EUTC Wiki Stage Resources](https://wiki.bedlamtheatre.co.uk/craft/stage) fo
 
 ### 7.7 Costumes
 
-This section was reviewed by the Wardrobe Manager, who can be contacted at [wardrobe@bedlamtheatre.co.uk](mailto:wardrobe@bedlamtheatre.co.uk)
+*This section was reviewed by the Wardrobe Manager, who can be contacted at [wardrobe@bedlamtheatre.co.uk](mailto:wardrobe@bedlamtheatre.co.uk)*
 
 
 
@@ -1147,14 +1113,14 @@ See [EUTC Wiki Costume Resources](https://wiki.bedlamtheatre.co.uk/craft/costume
 
 ### 7.8 Archives
 
-This section was reviewed by the Archivist who can be contacted at [archive@bedlamtheatre.co.uk](mailto:archive@bedlamtheatre.co.uk)
+*This section was reviewed by the Archivist who can be contacted at [archive@bedlamtheatre.co.uk](mailto:archive@bedlamtheatre.co.uk)*
 
+The Archives Subcommittee does helps remember things, if get in touch if you want:
+* Help recording your show
+* Help recording a timelapse of your get in
+* To see old recordings or timelapses
 
-
-* The Archivist will want to take some photos, or have photos taken, before your performance. Make sure they have a copy of the programme (if you have one) and any posters or flyers to put in the archives. If you have any pictures or items to be archived feel free to hand them in to the Archivist.
-* If you wish your production or aspects of rehearsal to be filmed or documented, contact the Archivist.
-* There is a camera mounted in the back of the auditorium which can take a timelapse of the stage, useful for recording get-ins. If you would like a timelapse of your get-in please contact a member of the Archives or IT subcommittees.
-
+Archives may also get in contact with you about photos of your show or left over marketing material, to preserve it for the future.
 
 ## 8. Contact us
 
@@ -1173,4 +1139,6 @@ Useful emails:
 * Marketing [Manager: marketing@bedlamtheatre.co.uk](mailto:marketing@bedlamtheatre.co.uk)
 * All Committee: [committee@bedlamtheatre.co.uk](mailto:committee@bedlamtheatre.co.uk)
 
-All other Committee emails can be found on the main Bedlam website (_[https://www.bedlamtheatre.co.uk/contact](https://www.bedlamtheatre.co.uk/contact)_) Please tell the Production Manager when you have read this so they can be super proud of you.
+All other Committee emails can be found on the main Bedlam website (_[https://www.bedlamtheatre.co.uk/contact](https://www.bedlamtheatre.co.uk/contact)_) Please tell the Productions Manager when you have read this so they can be super proud of you.
+
+
