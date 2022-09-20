@@ -1115,7 +1115,7 @@ See [EUTC Wiki Costume Resources](https://wiki.bedlamtheatre.co.uk/craft/costume
 
 *This section was reviewed by the Archivist who can be contacted at [archive@bedlamtheatre.co.uk](mailto:archive@bedlamtheatre.co.uk)*
 
-The Archives Subcommittee does helps remember things, if get in touch if you want:
+The Archives Subcommittee helps remember things, get in touch if you want:
 * Help recording your show
 * Help recording a timelapse of your get in
 * To see old recordings or timelapses
