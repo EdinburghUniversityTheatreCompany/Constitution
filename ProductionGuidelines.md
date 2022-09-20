@@ -1120,7 +1120,7 @@ The Archives Subcommittee does helps remember things, if get in touch if you wan
 * Help recording a timelapse of your get in
 * To see old recordings or timelapses
 
-Archives may also get in contact with you about photos of your show or left over marketing material, to preserve it for the future.
+Archives will also get in contact with you about photos of your show or left over marketing material, to preserve it for the future.
 
 ## 8. Contact us
 
