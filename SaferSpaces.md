@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-# **<span style="text-decoration:underline;">Safer Spaces Policy</span>**
+# **<span style="text-decoration:underline;">Edinburgh University Theatre Company Safer Spaces Policy</span>**
 {: .no_toc }
 
 <details open markdown="block">
@@ -16,10 +16,6 @@ nav_order: 5
 1. TOC
 {:toc}
 </details>
-
-
-
-# Edinburgh University Theatre Company Safer Spaces Policy
 
 ## Introduction
 
