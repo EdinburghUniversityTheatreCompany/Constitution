@@ -19,7 +19,7 @@ jobs:
         uses: shrink/actions-document-publish@v1.1.1
         id: publish-document
         with:
-          sources: 'EUTC-Constitution.md ProductionGuidelines.md BrandingGuidelines.md FoHCovid.md README.md'
+          sources: 'EUTC-Constitution.md ProductionGuidelines.md BrandingGuidelines.md SaferSpaces.md README.md'
       - if: github.event_name == 'release' && github.event.action == 'published'
         name: Get Release
         id: release
