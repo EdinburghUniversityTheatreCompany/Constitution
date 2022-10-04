@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-# **<span style="text-decoration:underline;">Edinburgh University Theatre Company Safer Spaces Policy</span>**
+# <span style="text-decoration:underline;">Edinburgh University Theatre Company Safer Spaces Policy</span>
 {: .no_toc }
 
 <details open markdown="block">
@@ -83,7 +83,7 @@ All members of the EUTC and visitors to Bedlam Theatre are accountable for their
 
 The EUTC Committee is responsible for ensuring that members of the EUTC are aware of this Safe Space Policy.
 
-1.  Breaches of Policy
+##  Breaches of Policy
 
 We actively encourage the reporting of incidents that constitute a breach of the Safe Space Policy. 
 
