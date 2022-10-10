@@ -821,9 +821,7 @@ Everyone involved in the show, whether a part of the prod team, an actor or part
 
 ### 6.3. Giving back to Bedlam
 
-**Please also read this in tandem with the [Front-of-House (COVID-19) policy](https://constitution.bedlamtheatre.co.uk/foh.html), which is also fully implemented by this clause. If there is any conflict with the two policies, the Front-of-House (COVID-19) policy will take precedence. That policy covers more than staffing, please make sure to consult it. Debt and staffing are temporarily modified. That document may be updated at any time.**
-
-When you take part in a show at Bedlam Theatre, you make use of our lovely building and facilities. We’re entirely student-run, and the building is entirely staffed and managed by students. To ensure fairness, we require anyone taking part in a show to ‘give back’ to the society. For Teatimes this means doing a staffing slot and turning up to maintenance on the Sunday after you show. For Mainterms this means staffing twice and turning up to maintenance. For anything else please confirm your staffing obligation with the Front-of-House manager. See section 5.3. for Staffing.
+When you take part in a show at Bedlam Theatre, you make use of our lovely building and facilities. We’re entirely student-run, and the building is entirely staffed and managed by students. To ensure fairness, we require anyone taking part in a show to ‘give back’ to the society. For Teatimes this means doing a staffing slot and turning up to maintenance on the Sunday after you show. For Mainterms this means staffing twice and turning up to maintenance. For anything else please confirm your staffing obligation with the Front of House manager. See section 5.3. for Staffing.
 
 
 #### 6.3.1. Maintenance
@@ -842,7 +840,7 @@ When you take part in a show at Bedlam Theatre, you make use of our lovely build
 
 * On the rare occasion that people don’t sign-up to staff their slots/turn up to maintenance in good time, and without a good excuse, we use a system called Debt to enforce this requirement.
     * There are two types of Debt: Maintenance Debt and Staffing Debt, which are administered by the Theatre Manager and the Front-of-House Manager respectively.
-    * Debt is cleared by performing the maintenance task or staffing the required FoH slot(s). It can also be cleared by getting in contact with the welfare contacts.
+    * Debt is cleared by performing the maintenance task or staffing the required FoH slot(s). Alternatively consult [Article 7C of the constitution](https://constitution.bedlamtheatre.co.uk/#article-7c-in-debt-to-the-company) for the full information regarding Debt.
     * You can find out your Debt status through the website.
 
 
