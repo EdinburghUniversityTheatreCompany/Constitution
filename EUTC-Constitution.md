@@ -216,11 +216,7 @@ This version adopted 20.04.2022
     d) Providing contacts, advice and on hand assistance to stage managers.\
     e) More generally, all matters related to the upkeep, risk assessment, health and safety, sustainability, viability and physical security of the Bedlam Theatre not within other Committee positions’ remit(s).\
     f) Other duties outlined in Article 7B and 1B/4.
-11. **The Venues Coordinator** is responsible for:\
-  a) Securing venues so that proposals can be opened for a corresponding reserved slot.\
-  b) Supporting production teams in finding venues for supplementary proposals.\
-  c) Liaising with existing and new venue contacts on behalf of production teams.
-12. **The Wardrobe Manager** is responsible for:\
+11. **The Wardrobe Manager** is responsible for:\
     a) The integration, training, and development of EUTC costumers.\
     b) The upkeep, replacement and hire of costumes. \
     c) Providing contacts, advice and on hand assistance to production teams on costume matters.
@@ -474,19 +470,30 @@ This version adopted 20.04.2022
 1. **Obligations:** As stated in 1A/6c, running the Company is a collective responsibility. After participating in a show, members are specifically obliged to give back to the Company in the following ways:\
     a) Staffing a certain number of slots, as specified by the FOH Manager. Slots where a member acts as Committee Representative do not count towards this number.\
     b) Attending and participating in maintenance sessions, as specified by the Theatre Manager.\
-    c) If circumstances insist, performing other tasks considered equivalent to (a) and (b), as agreed between the member and the FOH and Theatre Managers.
+    c) If circumstances insist, performing other tasks considered equivalent to (a) and (b), as agreed between the member and the FoH or Theatre Managers.
 2. **A member is in debt to the Company if:**\
-    a) They have not committed to staff their specified number of slots within a sensible timeframe clearly set beforehand by the FOH Manager.\
+    a) They have not committed to staff their specified number of slots within a sensible timeframe clearly set beforehand by the FoH Manager.\
     b) They have not attended a maintenance session within a sensible timeframe clearly set beforehand by the Theatre Manager.
 3. **Debt can be cancelled by:**\
-    a) The member committing to tasks equivalent to 7C/1, as agreed between the member and the FOH and Theatre Managers. Debt can be reinstated only if these tasks are not performed.\
+    a) The member performing tasks equivalent to 7C/1, as agreed between the member and the FoH or Theatre Managers.\
     b) An order by one of the welfare contacts (see 3B/1), if the member is in debt as the result of a welfare issue.\
     c) A motion successfully passed at a Committee Meeting.\
-    d) The automatic cancellation of all debt on 31st August each year.
+    d) At the FoH or Theatre Manager(s)' discretion.
+    d) The automatic cancellation of all debt 365 days following the original due date.
 4. **While in debt to the Company,** a member cannot:\
     a) Attend EUTC auditions or be cast in shows.\
     b) Be included as a core member of a show proposal team with reference to 6B/3e.\
     c) Become involved in any current production to which they have not already committed.
+    
+### ARTICLE 7D: CHARITY
+
+1. **Foundation**: The EUTC will annually partner with a charitable organisation compatible with its aims and principles
+2. **Selection**: The charity shall be selected at the first General Meeting of Semester 1 and use STV Voting (see 5F/1b). Any charity nominated by two members shall be an option, along with the charity for the previous year and “None”.
+3.	**Effect**: Committee positions shall manage the effects of the partnership within their own remits. Productions may individually reject involvement.
+4.	**Removal**: A motion successfully passed at a Committee Meeting or a GM may unaffiliate the EUTC with the charity.
+5.	**Re-selection**: If the EUTC is without a charity, a selection process will be held at the next GM (see 7D/b).
+
+
 
 ## ARTICLE 8: FRINGE
 
@@ -512,3 +519,20 @@ This version adopted 20.04.2022
 ## ARTICLE 10: POSTSCRIPT
 
 1. **Don’t Stop Believing:** The Company believes that the EUTC will continue, in one form or another, indefinitely. However, if it becomes a necessity, the EUTC may only be dissolved by a motion successfully passed at a General Meeting. Any assets it may hold at dissolution shall be distributed among causes friendly to it, and as much as possible compatible with its aims and principles.
+
+
+## ARTICLE 11: TEMPORARY ARTICLE
+
+### ARTICLE 11A: State of the Venues Coordinator committee position
+
+1.	The Venues Coordinator committee role was removed following a vote at a General Meeting, however the position will continue to exist for the remainder of the Academic Session 2022/23, with the current member to remain in place.
+2.	No election will be held at the Annual General Meeting for the position, and if the current holder resigns the position there shall be no by-election.
+3.	The Secretary will remove this article from the constitution following the vacation of the Venues Coordinator position, or by 1 April 2023, whichever is sooner.
+
+
+### ARTICLE 11B: Venues Coordinator Role Description:
+
+1.	The Venues Coordinator was responsible for:
+  a) Securing venues so that proposals can be opened for a corresponding reserved slot.
+  b) Supporting production teams in finding venues for supplementary proposals.
+  c) Liaising with existing and new venue contacts on behalf of production teams.
