@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 20.04.2022
+This version adopted 19.10.2022
 
 <details open markdown="block">
   <summary>
