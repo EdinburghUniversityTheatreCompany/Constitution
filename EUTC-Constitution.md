@@ -491,7 +491,7 @@ This version adopted 19.10.2022
 2. **Selection**: The charity shall be selected at the first General Meeting of Semester 1 and use STV Voting (see 5F/1b). Any charity nominated by two members shall be an option, along with the charity for the previous year and “None”.
 3.	**Effect**: Committee positions shall manage the effects of the partnership within their own remits. Productions may individually reject involvement.
 4.	**Removal**: A motion successfully passed at a Committee Meeting or a GM may unaffiliate the EUTC with the charity.
-5.	**Re-selection**: If the EUTC is without a charity, a selection process will be held at the next GM (see 7D/b).
+5.	**Re-selection**: If the EUTC is without a charity, a selection process will be held at the next GM (see 7D/2).
 
 
 
