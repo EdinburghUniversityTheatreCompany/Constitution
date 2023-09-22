@@ -519,20 +519,3 @@ This version adopted 19.10.2022
 ## ARTICLE 10: POSTSCRIPT
 
 1. **Don’t Stop Believing:** The Company believes that the EUTC will continue, in one form or another, indefinitely. However, if it becomes a necessity, the EUTC may only be dissolved by a motion successfully passed at a General Meeting. Any assets it may hold at dissolution shall be distributed among causes friendly to it, and as much as possible compatible with its aims and principles.
-
-
-## ARTICLE 11: TEMPORARY ARTICLE
-
-### ARTICLE 11A: State of the Venues Coordinator committee position
-
-1.	The Venues Coordinator committee role was removed following a vote at a General Meeting, however the position will continue to exist for the remainder of the Academic Session 2022/23, with the current member to remain in place.
-2.	No election will be held at the Annual General Meeting for the position, and if the current holder resigns the position there shall be no by-election.
-3.	The Secretary will remove this article from the constitution following the vacation of the Venues Coordinator position, or by 1 April 2023, whichever is sooner.
-
-
-### ARTICLE 11B: Venues Coordinator Role Description:
-
-1.	The Venues Coordinator was responsible for:
-  a) Securing venues so that proposals can be opened for a corresponding reserved slot.
-  b) Supporting production teams in finding venues for supplementary proposals.
-  c) Liaising with existing and new venue contacts on behalf of production teams.
