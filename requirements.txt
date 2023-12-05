@@ -15,7 +15,7 @@ myst-parser==0.18.1
 packaging==21.3
 pipreqs==0.4.12
 protobuf==4.21.8
-Pygments==2.13.0
+Pygments==2.15.0
 pyparsing==3.0.9
 pytz==2022.6
 PyYAML==6.0
