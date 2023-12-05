@@ -13,7 +13,7 @@ mdit-py-plugins==0.3.1
 mdurl==0.1.2
 myst-parser==0.18.1
 packaging==21.3
-pipreqs==0.4.11
+pipreqs==0.4.12
 protobuf==4.21.8
 Pygments==2.13.0
 pyparsing==3.0.9
