@@ -51,7 +51,7 @@ These are regular slots available to propose for multiple times in a year.
   <tr>
    <td><strong>Budget</strong>
    </td>
-   <td> £200 (with or w/out rights)
+   <td> £300 (with or w/out rights)
    </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ These are regular slots available to propose for multiple times in a year.
   <tr>
    <td><strong>Performances</strong>
    </td>
-   <td>3 to 6
+   <td>4 to 5
    </td>
   </tr>
   <tr>
@@ -958,7 +958,7 @@ Headshots:
 
 * You must stick to your budget. Any overspend that has not been approved will not be reimbursed. Remind all crew that they are not to spend ANY MONEY without the producer’s say-so and that they MUST give you a receipt if they want to be reimbursed.
 * Any budget increases or changes must be proposed at a Committee Meeting, consulting with the Business Manager.
-* Invoices for any expenses should be placed in the Business Manager’s pigeonhole in the Bedlam Office, or emailed to the Business Manager at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)_._ Or, by arrangement, messaged to the Business Manager directly on Facebook (currently, Freya Game) - although email is preferred. This is the same for any receipts for reimbursements. Remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be paid urgently (such as rights), as well as keeping them up to date on your expenditure and general direction of the show - do not hesitate to ask questions!
+* Invoices for any expenses should be placed in the Business Manager’s pigeonhole in the Bedlam Office, or emailed to the Business Manager at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)_._ Or, by arrangement, messaged to the Business Manager directly on Facebook - although email is preferred. This is the same for any receipts for reimbursements. Remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be paid urgently (such as rights), as well as keeping them up to date on your expenditure and general direction of the show - do not hesitate to ask questions!
 * Anything you purchase with your show budget (like furniture, paint etc) will be added to the EUTC’s general stock after your run.
 * Any tech hires must be approved by the Technical Manager.
 * Bedlam’s alumni group, Friends of Bedlam (FoB), can offer grants to partly fund parts of your show. The application form is on the [Budget Resources section of the wiki](https://wiki.bedlamtheatre.co.uk/craft/producing/budgets).
