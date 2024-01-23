@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 19.10.2022
+This version adopted 23.01.2024
 
 <details open markdown="block">
   <summary>
@@ -342,7 +342,10 @@ This version adopted 19.10.2022
     b) **The Single Transferrable Vote** (or “STV”), when a preference is required between multiple candidates. The EUTC shall use the Scottish STV method, with the Droop Quota formula. “None” shall always be a valid option in any STV vote. If, by the end of processing, “none” has ranked higher than any true candidates, then those candidates are not selected even if unfilled positions remain.
 2. **Secret ballots:**\
     a) **Automated:** Before a GM, a computer should be set up for processing votes. The formulae or source code of the counting software must be available to any member on request.\
-    b) **Manual:** If a computer cannot be set up, votes shall be counted manually by two vote-takers selected by the Chair for their competence and impartiality. Their names shall be recorded in the minutes. Any member may observe a manual count.
+    b) **Manual:** If a computer cannot be set up, votes shall be counted manually by two vote-takers selected by the Chair for their competence and impartiality. Their names shall be recorded in the minutes. Any member may observe a manual count.\
+    c) **Online:** If a vote is performed online, any member may email the secretary to receive a voter token the day of the vote. Proxying (see 5F/3) is not
+applicable for an online vote.
+
 3. **Proxy votes:**\
     a) A member that cannot attend a GM may delegate their voting rights to another member by nominating them as their proxy.\
     b) A member may only act as a proxy for one other member. They exercise the proxy vote in addition to their own voting rights.\
@@ -388,11 +391,12 @@ This version adopted 19.10.2022
     d) Does not clash with an existing or reserved EUTC event, without permission (see 6A/4b).\
     e) Explicitly names a core production team of EUTC members (see also 7C/4b). The roles required of each classification shall be specified in the Production Guidelines.
 4. **Release:** All other written proposals must be promptly made available to all EUTC members.
-5. **Pitch:** At the GM, proposal teams are given the stage (see 5B/1), and are entitled to a speech followed by questions from the rake of a duration decided by the Chair.
+5. **Pitch:** At the GM, proposal teams are given the stage (see 5B/1), and are entitled to a speech followed by questions from the rake of a duration decided by the Chair. If the vote is to be delivered online, no such pitch is necessary, but showteams must congress within the auditorium to receive online and in person questions. Responses must be announced online live.
 6. **Production Merit:** All proposals must pass a production merit vote before they can be included on a preference ballot. This is a YES/NO/ABS vote (see 5F/1a) by mandatory secret ballot. The proposal must meet the following criteria with a two thirds majority:\
     a) The team are ready and able to fulfil their proposal.\
-    b) The production would not be detrimental to the EUTC’s interests, principles or reputation, or the welfare of its members.
-7. **Preference vote:** All proposals that have passed their production merit vote must be included on an STV preference ballot (see 5F/1b). If there are multiple slots available for that classification, the proposal that achieves first preference shall have first choice of slot.
+    b) The production would not be detrimental to the EUTC’s interests, principles or reputation, or the welfare of its members. \
+In the case of online votes, production merit is voted on the day prior to the show vote.
+7. **Preference vote:** All proposals that have passed their production merit vote must be included on an STV preference ballot (see 5F/1b). If there are multiple slots available for that classification, the proposal that achieves first preference shall have first choice of slot. 
 8. **Unfilled slots:** If a slot for a reserved show is unfilled by the conclusion of that classification’s preference vote, a motion shall be proposed to either:\
     a) Leave it as unspecified time.\
     b) Reopen applications for the next GM.\
