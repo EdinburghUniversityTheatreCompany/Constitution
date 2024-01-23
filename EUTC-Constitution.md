@@ -396,14 +396,14 @@ applicable for an online vote.
     a) The team are ready and able to fulfil their proposal.\
     b) The production would not be detrimental to the EUTC’s interests, principles or reputation, or the welfare of its members. \
 In the case of online votes, production merit is voted on the day prior to the show vote.
-8. **Preference vote:** All proposals that have passed their production merit vote must be included on an STV preference ballot (see 5F/1b). If there are multiple slots available for that classification, the proposal that achieves first preference shall have first choice of slot. 
-9. **Unfilled slots:** If a slot for a reserved show is unfilled by the conclusion of that classification’s preference vote, a motion shall be proposed to either:\
+7. **Preference vote:** All proposals that have passed their production merit vote must be included on an STV preference ballot (see 5F/1b). If there are multiple slots available for that classification, the proposal that achieves first preference shall have first choice of slot. 
+8. **Unfilled slots:** If a slot for a reserved show is unfilled by the conclusion of that classification’s preference vote, a motion shall be proposed to either:\
     a) Leave it as unspecified time.\
     b) Reopen applications for the next GM.\
     c) Immediately allocate the time to a proposal of another classification, if logistically possible.
-10. **Mandatory events:** A reserved show or festival classification may be designated “mandatory” in the Production Guidelines. If a proposal for a mandatory event has not been selected at a GM by a sensible time, the Committee shall act as the production or festival team until such a team has been selected.
-11. **Original writing:** When original writing by an EUTC member is proposed, the writer must approve by email to the Committee the choice of Producer and Director, along with any later changes to these two positions.
-12. **Vacancies:** If a position on the core team of a show (see 6B/3e) falls vacant for any reason, a replacement must be ratified at a Company or General Meeting.
+9. **Mandatory events:** A reserved show or festival classification may be designated “mandatory” in the Production Guidelines. If a proposal for a mandatory event has not been selected at a GM by a sensible time, the Committee shall act as the production or festival team until such a team has been selected.
+10. **Original writing:** When original writing by an EUTC member is proposed, the writer must approve by email to the Committee the choice of Producer and Director, along with any later changes to these two positions.
+11. **Vacancies:** If a position on the core team of a show (see 6B/3e) falls vacant for any reason, a replacement must be ratified at a Company or General Meeting.
 
 ### ARTICLE 6C: FESTIVALS
 
