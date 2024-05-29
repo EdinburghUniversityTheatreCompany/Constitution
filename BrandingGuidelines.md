@@ -79,7 +79,7 @@ The multiline version looks best when placed on the left of your design, if plac
 
 ## Credits
 
-The logo was designed in 2020 by Alexander Mohan Morzeria-Davis, and finalised in 2021. It was approved by the company on the 22nd of September 2021 at a general meeting, in a motion proposed by him and Lewis Forman (the marketing manager).
+The logo was designed in 2020 by Alex Mohan Morzeria-Davis, and finalised in 2021. It was approved by the company on the 22nd of September 2021 at a general meeting, in a motion proposed by him and Lewis Forman (the marketing manager).
 
 ### Licensing
 
@@ -90,7 +90,7 @@ The logo remains the copyright of the author, however a broad licence is granted
 
 to use[^1], with attribution (except where this would cause an undue burden[^2]), without modification, the logo(s) for any purpose reasonably associated with Bedlam Theatre and/or the EUTC and/or any of its successor organisations.
 
-Any use outside of this licence can be granted by the author at [legal@alexandermohan.com](mailto:legal@alexandermohan.com). 
+Any use outside of this licence can be granted by the author at [legal@alexmmd.com](mailto:legal@alexmmd.com). 
 
 [^1]:
      Either on its own, or in a derivative work as long as it is promotional material for the EUTC or any other related/successor organisation, or to identify the work as pertaining to the EUTC/Bedlam Theatre.
