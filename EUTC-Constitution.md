@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 23.01.2024
+This version adopted 11.04.2024
 
 <details open markdown="block">
   <summary>
@@ -367,18 +367,20 @@ applicable for an online vote.
     c) Similarly, while the EUTC does not exist to make a profit, it must remain a going concern. The Business Manager and others shall work with teams to maximise profitability while compromising on (a) as little as possible (see also 7A/3).
 2. **The Production Guidelines (PGs):**\
     a) **Use:** The PGs are primarily the working regulations of the EUTC with respect to shows and festivals, deriving authority from this Constitution. Sections that do not define a rule should be clearly distinguishable, by formatting or phrasing. Teams agree to follow the regulations in the PGs from when they first submit their proposal.\
-    b) **Review:** The Committee (led by the Productions Manager) shall review the PGs at least once a year to ensure their clarity, accuracy, and relevance. The Company must be consulted on all changes, and changes must be ratified at a General Meeting (GM) to take effect. A motion passed at a GM may trigger an additional review, to be carried out in the same way.\
+    b) i) **Review** The Committee (led by the Productions Manager) shall review the PGs at least once a year to ensure their clarity, accuracy, and relevance. The Company must be consulted on the changes made in this review, and changes must be ratified at a General Meeting (GM) to take effect.\
+    b) ii)To make changes to the PGs outside of the annual review, any member of the company may request a temporary change at a GM or company meeting. A temporary change proposed at a company meeting should then be voted on anonymously by any company members present at that meeting. If a temporary change to the PGs is passed at a company meeting this is put into action until the next GM where the amendment is proposed and voted on.\
+    b) iii) If a temporary change to the PGs is rejected at the GM, it may not be reproposed for a temporary change within 365 days of the rejection.\
     c) **Contradiction:** If a section of the PGs contradicts this Constitution, then this Constitution shall take precedence. The Committee must remove the contradiction as soon as possible, which may involve proposing amendment of the PGs or this Constitution.\
     d) **Exceptions:** The Committee may suspend a section of the PGs if it is in the interests of the EUTC as a whole to do so. This suspension must be of fixed duration and not extend beyond the next GM.
-3. **Calendar:** After Company consultation, the Committee (led by the Productions Manager) shall produce a provisional calendar for the coming year. Time in each available room (including preparation time, if relevant) shall be divided between the following:\
+4. **Calendar:** After Company consultation, the Committee (led by the Productions Manager) shall produce a provisional calendar for the coming year. Time in each available room (including preparation time, if relevant) shall be divided between the following:\
     a) Company-selected shows, whose proposal process is defined in Article 6B.\
     b) Festivals, described in Article 6C.\
     c) Other events, including socials, workshops, hires and meetings.\
     d) Unspecified time, which may be left empty or used for rehearsals, maintenance etc.
-4. Events on the calendar shall also be either:\
+5. Events on the calendar shall also be either:\
     a) **Reserved,** where the Committee assumes that an event of a particular type will occur and reserves time for it, even though the event itself may not yet have been proposed.\
     b) **Supplementary,** where the Committee does not include an event in the calendar prior to receiving proposals. Supplementary events may be proposed to take place either in unspecified time, or in time already allocated to a reserved event or a supplementary event already selected. In these latter cases, permission to proceed must be obtained both from the Committee, and the team for the affected event (if such a team has already been selected).
-5. **Further classification** of events is outlined in the PGs, which must specify any classification-specific details of budgets, time granted in venues, required roles on a production team etc.
+6. **Further classification** of events is outlined in the PGs, which must specify any classification-specific details of budgets, time granted in venues, required roles on a production team etc.
 
 ### ARTICLE 6B: THE SELECTION PROCESS
 
