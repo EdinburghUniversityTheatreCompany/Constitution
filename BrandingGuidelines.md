@@ -79,7 +79,7 @@ The multiline version looks best when placed on the left of your design, if plac
 
 ## Credits
 
-The logo was designed in 2020 by Alex Mohan Morzeria-Davis, and finalised in 2021. It was approved by the company on the 22nd of September 2021 at a general meeting, in a motion proposed by him and Lewis Forman (the marketing manager).
+The logo was designed in 2020 by Alex Mohan Morzeria-Davis, and finalised in 2021. It was approved by the company on the 22nd of September 2021 at a general meeting, in a motion proposed by them and Lewis Forman (the marketing manager).
 
 ### Licensing
 
