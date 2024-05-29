@@ -964,6 +964,7 @@ Headshots:
 * Bedlam’s alumni group, Friends of Bedlam (FoB), can offer grants to partly fund parts of your show. The application form is on the [Budget Resources section of the wiki](https://wiki.bedlamtheatre.co.uk/craft/producing/budgets).
     * FoB will only fund up to 50% of a project. FoB is interested in funding projects that have long term value to the company.
     * Grant applications must be brought to a committee meeting to discuss it before you can send it to FoB.
+* If a show has received a grant and intends to use some or all of it to fund their show they will be required to contact the business manager as soon as possible. They will subsequently have to transfer that money to the EUTC, if their show is successful at a GM, at the soonest moment and this amount will be attributed to their budget.
 
 See [EUTC Wiki Budgeting Resources](https://wiki.bedlamtheatre.co.uk/craft/producing/budgets) for more. You can also talk to the Business Manager for advice.
 
