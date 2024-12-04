@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 11.04.2024
+This version adopted 13.03.2024
 
 <details open markdown="block">
   <summary>
@@ -239,12 +239,10 @@ This version adopted 11.04.2024
     a) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity. This subcommittee has the following elected Convenors: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Archivist\
     &nbsp;&nbsp;&nbsp;&nbsp;ii) Librarian\
-    b) **Development:** Negotiates, proposes, communicates and (if approved) implements any long term and substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also 7B/2).\
-    c) **Engagement:** Promotes the engagement and retention of new members. This subcommittee has the following elected Convenor: \
-    &nbsp;&nbsp;&nbsp;&nbsp;i) Engagement Officer \
-    d) **Garden:** Maintains and works to improve the garden and grounds of the Bedlam Theatre.\
-    e) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
-    f) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
+    b) **Facilities:** Maintains and improves the outside spaces around Bedlam, including the gardens, and some internal spaces not in the purview of committee roles. These improvements may include the process of planning, proposing and implementing long term and/or substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also7B/2). This subcommittee has the following elected convenor:
+i) Estates Coordinator\
+    c) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
+    d) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
 7. **Project Subcommittees** may be formed by a motion passed at a General Meeting to undertake a project of the Company. The Subcommittee must exist for a fixed duration and not extend beyond a year.
 8. **Accountability:**\
