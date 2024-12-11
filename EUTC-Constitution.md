@@ -240,7 +240,7 @@ This version adopted 13.03.2024
     &nbsp;&nbsp;&nbsp;&nbsp;i) Archivist\
     &nbsp;&nbsp;&nbsp;&nbsp;ii) Librarian\
     b) **Facilities:** Maintains and improves the outside spaces around Bedlam, including the gardens, and some internal spaces not in the purview of committee roles. These improvements may include the process of planning, proposing and implementing long term and/or substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also7B/2). This subcommittee has the following elected convenor:
-i) Estates Coordinator\
+i) Facilities Coordinator\
     c) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
     d) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator
