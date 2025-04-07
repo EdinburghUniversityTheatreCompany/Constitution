@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc }
 
 
-This version adopted 2025.3.19
+This version adopted 19.03.2025
 
 
 <details open markdown="block">
