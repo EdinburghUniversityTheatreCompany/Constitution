@@ -7,7 +7,7 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 13.03.2024
+This version adopted 15.01.2025
 
 <details open markdown="block">
   <summary>
@@ -99,7 +99,7 @@ This version adopted 13.03.2024
     b) The wellbeing of EUTC members generally.\
     c) Adherence to this Constitution.
 4. **Other relevant people:** It may be more appropriate for other members to handle on-the-spot welfare concerns for a short period. Examples include:\
-    a) At an EUTC social event, the Social Events Manager (see 4B/8).\
+    a) At an EUTC social event, the Social Events Manager (see 4B/9).\
     b) At an EUTC meeting, the Chair (see 5A/3).\
     c) When the Bedlam Theatre is open to the public, the Duty Manager and Committee Representative (see 7B/6).
 
@@ -443,7 +443,7 @@ In the case of online votes, production merit is voted on the day prior to the s
     c) Inform and educate interested Company members about the financial status of the EUTC.
 2. **The EUTC’s financial year** shall run from the 1st April to the 31st March inclusive.
 3. **Non-profit:** The EUTC shall be non-profit making, but the Business Manager shall work to ensure that it remains a going concern (see also 6A/1c).
-4. **Pay and reimbursement:** No EUTC member shall receive any monetary payment or benefit, direct or indirect, unless as reimbursement for legitimate expenses incurred (see also 1A/7a). This does not apply to labour paid for by Bedlam Fringe (see Article 8), or when EUTC members are acting in their capacity as EUSA employees.
+4. **Pay and reimbursement:** No EUTC member shall receive any monetary payment or benefit, direct or indirect, unless as reimbursement for legitimate expenses incurred (see also 1A/7a). This does not apply to labour paid for by Bedlam Fringe (see Article 9), or when EUTC members are acting in their capacity as EUSA employees.
 5. **Legitimate expenses:** Any expenditure not approved by the Business Manager in advance shall be the liability of the person making it. The Business Manager may refuse to reimburse illegitimate expenditure, meaning that they consider the expense to be either:\
     a) Unrelated to EUTC activities.\
     b) Explicitly described as ineligible for reimbursement in the Production Guidelines (see 6B/2). \
@@ -498,8 +498,28 @@ In the case of online votes, production merit is voted on the day prior to the s
 5.	**Re-selection**: If the EUTC is without a charity, a selection process will be held at the next GM (see 7D/2).
 
 
+## Article 8: Boycott, Divestment & Sanctions
 
-## ARTICLE 8: FRINGE
+### Article 8A: The EUTC’s Commitments
+
+1. The EUTC commits to the Boycott Divestment & Sanctions (BDS) campaign. This is both an economic and cultural commitment to refuse to remain compliant in the normalisation of genocide.
+2. Financially, this commitment includes following the boycotts recommended by the Palestinian BDS National Committee (BNC) by avoiding targeted brands when replacing equipment, stocking the cafe, or reimbursing purchases.
+3. Culturally, this involves following the guidance of the Palestinian Campaign for the Academic and Cultural Boycott of Israel (PACBI). That is to refrain from participating in events or activities which are in any way sponsored by the Israeli government, Israel lobby groups, and complicit Israeli institutions, or are part of a ‘normalisation project’, the whitewashing of genocide and occupation is Israel to promote ‘Brand Israel’.
+
+### Article 8B: Practicalities
+
+1. The committee members responsible for acquisitions should consider the most recent guidance from the BNC and purchase alternate brands or buy second-hand where appropriate. They should also be aware of BDS pressure targets and officially accepted consumer boycotts.
+2. At the stage of initial proposals for shows and events, the committee should consider the guidance of the PACBI as to what constitutes cultural and financial complicity with ‘Brand Israel’.\
+     a)The EUTC must be aware that this campaign is not a boycott of individual Israelis, but of Israeli institutions that support the system of oppression of the Palestinian people. When assessing proposals, the committee and company must consider only financial and cultural ties to Israeli institutions, and the content of the proposal. The ethnicity of individual members must never be a factor.\
+     b)Avoidance of pressure targets and organic boycott targets should be recommended where there are reasonable alternatives, such as affordable local or independent businesses, but will not be conditions of reimbursement. 
+
+### Article 8C Removal:
+1. The three demands of the BNC are ending its occupation and colonization of all Arab lands and dismantling the Wall, recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality; and respecting, protecting and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194.\
+     a)  At such a time that Israel complies with International Law and Universal Principles of Human Rights, the BNC will call an end to BDS. Upon this declaration, this amendment may be removed at a Company Meeting. \
+     b) Prior to Israel meeting these conditions, this amendment may be removed by a motion successfully passed at a GM in line with constitutional procedure. 
+
+
+## ARTICLE 9: FRINGE
 
 1. **Bedlam Fringe** is administratively separate from the EUTC and has its own relationship with EUSA, distinct from that between EUSA and the EUTC. Its operations are managed by a Fringe Venue Manager (FVM), while its programme is curated by a Head of Programming (HOP).
 2. **FVM appointment:**\
