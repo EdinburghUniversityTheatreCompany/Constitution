@@ -7,7 +7,9 @@ nav_order: 1
 # The Constitution of the Edinburgh University Theatre Company
 {: .no_toc }
 
-This version adopted 15.01.2025
+
+This version adopted 19.03.2025
+
 
 <details open markdown="block">
   <summary>
@@ -84,7 +86,7 @@ This version adopted 15.01.2025
 
 1. **Welfare contacts:** The EUTC shall have at least three welfare contacts, with equal responsibilities:\
     a) **A non-committee welfare contact** shall be elected at a General Meeting other than the AGM (see 5E/5). Their term expires one week after the end of the next Freshers’/Welcome Week. This person must not simultaneously be a member of Committee.\
-    b) **The President** (see 4B/4) shall be a welfare contact by default. If the President cannot or does not feel they should continue in this role, the Committee shall select a substitute from among their number.\
+    b) **The President** (and Vice President if one is elected) (see 4B/4 and 4B/12) shall be a welfare contact by default. If the President cannot or does not feel they should continue in this role, the Committee shall select a substitute from among their number.\
     c) **Committee welfare contact:** The Committee shall select from their number a welfare contact to serve for the duration of that Committee’s term.\
     d) **If circumstances require,** an additional welfare contact may be appointed by the Committee or elected immediately following a motion passed at a General Meeting. The term must be of a fixed duration and not extend beyond a year.
 2. **Welfare contact duties:**\
@@ -162,6 +164,7 @@ This version adopted 15.01.2025
     e) Be consistent in their decision-making, not offering or providing preferential treatment to any individual member or groups of members.\
     f) Complete any Committee staffing and maintenance requirements (see also 7C/1a).\
     g) Have a good attendance record at Committee meetings (see Article 5C) attending at least half per semester.
+8. **General note on Article 4B:12/13** The Vice president is considered an “optional committee position”, In this case; the Vice president and President must run as a pair. If the role of Vice President is filled, a Co of either role is forbidden, if a Recall election for either role is triggered then both roles are to be recalled.  Furthermore, the President and Vice President will be voted on together as a single ticket, rather than as separate candidates. 
 
 ### ARTICLE 4B: COMMITTEE POSITIONS AND DUTIES
 
@@ -220,6 +223,23 @@ This version adopted 15.01.2025
     a) The integration, training, and development of EUTC costumers.\
     b) The upkeep, replacement and hire of costumes. \
     c) Providing contacts, advice and on hand assistance to production teams on costume matters.
+12. Optional role - **Vice President** is responsible for:\
+    a) Liaison with outside groups, and coordination of hires of the Bedlam Theatre.\
+    b) Leading the EUTC Welfare system.\
+    c) Alternate chair for EUTC meetings.\ 
+    d) Supporting the President with overall conduct of the EUTC.\
+    e) Welfare, through their role as a welfare contact (see 3B/1).
+    g) The Vice President serves as the deputy to the President and is responsible for carrying out the President’s                authority when requested or during their short-term absence.\
+    h) In the event of the President’s extended absence, dismissal, or resignation, the Vice President shall convene and p         reside over an Extraordinary General Meeting of the society’s members to facilitate a vote for a new President.             Until a successor is elected, the Vice President will assume the role of interim President.\
+    i) If discussed with the President, an alternative job-split may be separately agreed on, which must be ratified at a          committee meeting and then immediately communicated to the members of the EUTC through social media channels and            updated on the Wiki.\
+13. In case of President + Vice President pairing, President is responsible for:\
+    a) The overall conduct of the EUTC.\
+    b) The President shall provide support to the Vice President in the execution of their duties and responsibilities as          needed, ensuring the effective functioning of the committee. \
+    c) Ensuring the EUTC submits its annual report, risk assessment and reregistration forms to EUSA Activities.\
+    d) EUTC meetings, by producing agendas and acting as their default Chair (see 5A/3).\
+    e) Welfare, through their role as a welfare contact (see 3B/1).\
+    f) Alumni relations, through their role as Alumni Liaison Officer (see 9/3).\
+
 
 ### ARTICLE 4C: SUBCOMMITTEES
 
