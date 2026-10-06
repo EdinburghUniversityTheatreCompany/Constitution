@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc }
 
 
-This version adopted 19.03.2025
+This version adopted 01.04.2026
 
 
 <details open markdown="block">
@@ -259,8 +259,8 @@ This version adopted 19.03.2025
     a) **Archives:** Preserves and makes accessible the EUTC archives and library, researches the EUTC’s past, and records EUTC shows and general life for posterity. This subcommittee has the following elected Convenors: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Archivist\
     &nbsp;&nbsp;&nbsp;&nbsp;ii) Librarian\
-    b) **Facilities:** Maintains and improves the outside spaces around Bedlam, including the gardens, and some internal spaces not in the purview of committee roles. These improvements may include the process of planning, proposing and implementing long term and/or substantial maintenance, refurbishment, and improvement of the Bedlam Theatre (see also7B/2). This subcommittee has the following elected convenor:
-i) Facilities Coordinator\
+    b) **Facilities and Development:** Plans, negotiates, proposes, communicates and (if approved) implements refurbishment and improvement of the Bedlam Theatre (including long-term and/or substantial projects; see also 7B/2), this Constitution, and documents deriving authority from the latter. Maintains and improves the kitchen and the outside spaces around Bedlam, including the gardens. This subcommittee has the following elected convenor:
+        i) Facilities and Development Coordinator\
     c) **IT:** Supervises, administers, monitors, and maintains any IT equipment, software or websites related to the EUTC’s activities.\
     d) **Workshops:** Advocates, coordinates and supports a schedule of workshops and other educational events. This subcommittee has the following elected Convenor: \
     &nbsp;&nbsp;&nbsp;&nbsp;i) Workshops Coordinator

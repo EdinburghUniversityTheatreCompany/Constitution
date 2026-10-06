@@ -6,7 +6,7 @@ nav_order: 2
 # The Production Guidelines of the Edinburgh University Theatre Company 
 {: .no_toc }
 
-This version adopted 11.04.2024
+This version adopted 01.04.2026
 
 <details open markdown="block">
   <summary>
@@ -954,8 +954,6 @@ Headshots:
 
 *This section was reviewed by the Business Manager, who can be contacted at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)*
 
-
-
 * You must stick to your budget. Any overspend that has not been approved will not be reimbursed. Remind all crew that they are not to spend ANY MONEY without the producer’s say-so and that they MUST give you a receipt if they want to be reimbursed.
 * Any budget increases or changes must be proposed at a Committee Meeting, consulting with the Business Manager.
 * Invoices for any expenses should be placed in the Business Manager’s pigeonhole in the Bedlam Office, or emailed to the Business Manager at [business@bedlamtheatre.co.uk](mailto:business@bedlamtheatre.co.uk)_._ Or, by arrangement, messaged to the Business Manager directly on Facebook - although email is preferred. This is the same for any receipts for reimbursements. Remember to include name and bank details for each receipt. Make sure the Business Manager knows what needs to be paid urgently (such as rights), as well as keeping them up to date on your expenditure and general direction of the show - do not hesitate to ask questions!
@@ -1060,7 +1058,7 @@ See [EUTC Wiki Set Resources](https://wiki.bedlamtheatre.co.uk/craft/set) for mo
 
 *This section was reviewed by the Set Manager and the Theatre Manager who can be contacted at [set@bedlamtheatre.co.uk](mailto:set@bedlamtheatre.co.uk) and [theatre@bedlamtheatre.co.uk](mailto:theatre@bedlamtheatre.co.uk).*
 
-The Props Store is the Crypt. Some important rules:
+The Props Store is split between the SL balcony and the Crypt. Some important rules:
 
 
 
@@ -1069,15 +1067,17 @@ The Props Store is the Crypt. Some important rules:
 * Please return props to the Props Return box just outside the crypt. Please return set where you found it (neatly).
 * You cannot (without permission from the Set Manager) remove any items physically from Bedlam. This includes EUTC shows that may have photoshoots or be held entirely outside Bedlam.
 
-Almost anything you can see in Bedlam can be used in your play. However, if it is not part of the props or set store, you must ask permission from the relevant Committee member:
+Almost anything you can see in Bedlam can be used in your play. However, if it is not part of the props or set store, you must ask permission from the elected position in charge of that area. All areas are defined below:
 
 
 
-* Box Office, Cafe, and Kitchen, ask the Front-of-House Manager
-* Tech box and tech store, ask the Tech Manager
-* Workshop, ask the Set Manager
+* Box Office, Cafe, and corridors, ask the Front-of-House Manager
+* Tech box, Rig, and Tech store, ask the Tech Manager
+* Workshop, Props store, Paint cupboard, Flat cupboard, and Stage cupboard, ask the Set Manager
+* Wardrobe and Dressing room, ask the Wardrobe Manager
 * Ogg Office, ask the Archivist
-* Library, ask the Librarian
+* Office bookshelves and Little library, ask the Librarian
+* Kitchen and Outside, ask the Facilities and Development Coordinator
 * Anywhere else, ask the Theatre Manager.
 
 You must speak to the Theatre Manager if you plan to do any of the following:
