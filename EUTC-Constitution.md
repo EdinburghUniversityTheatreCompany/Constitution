@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc }
 
 
-This version adopted 01.04.2026
+This version adopted 23.09.2026
 
 
 <details open markdown="block">
@@ -58,7 +58,7 @@ This version adopted 01.04.2026
 
 1. **Student Membership** shall be open to all matriculated students of the University of Edinburgh.
 2. **Non-student Membership:** Any other person may become a non-student member, provided that:\
-    a) The membership fee for non-student members is twice that of student members. \
+    a) The membership fee for non-student members is **reasonably higher** that of student members. \
     b) At least 75% of extant members are student members.
 3. **Equality:** Both student and non-student members are EUTC members, equally valued for their contributions to the Company. Neither this Constitution, nor any other EUTC rule or practice shall limit the relative rights of non-student members any more than EUSA’s society regulations require.
 4. **Expiry:** EUTC membership expires at midday of the Monday immediately following Welcome/Freshers’ Week, unless it was bought/renewed after the 31st of August the same calendar year.
@@ -508,15 +508,6 @@ In the case of online votes, production merit is voted on the day prior to the s
     a) Attend EUTC auditions or be cast in shows.\
     b) Be included as a core member of a show proposal team with reference to 6B/3e.\
     c) Become involved in any current production to which they have not already committed.
-    
-### ARTICLE 7D: CHARITY
-
-1. **Foundation**: The EUTC will annually partner with a charitable organisation compatible with its aims and principles
-2. **Selection**: The charity shall be selected at the first General Meeting of Semester 1 and use STV Voting (see 5F/1b). Any charity nominated by two members shall be an option, along with the charity for the previous year and “None”.
-3.	**Effect**: Committee positions shall manage the effects of the partnership within their own remits. Productions may individually reject involvement.
-4.	**Removal**: A motion successfully passed at a Committee Meeting or a GM may unaffiliate the EUTC with the charity.
-5.	**Re-selection**: If the EUTC is without a charity, a selection process will be held at the next GM (see 7D/2).
-
 
 ## Article 8: Boycott, Divestment & Sanctions
 
